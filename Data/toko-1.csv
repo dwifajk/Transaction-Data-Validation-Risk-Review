@@ -1,0 +1,14 @@
+toko_id,nama_toko,kota,provinsi,tipe
+T01,Rumaku Jakarta Selatan,Jakarta Selatan,DKI Jakarta,Fisik
+T02,Rumaku Jakarta Barat,Jakarta Barat,DKI Jakarta,Fisik
+T03,Rumaku Bekasi,Bekasi,Jawa Barat,Fisik
+T04,Rumaku Depok,Depok,Jawa Barat,Fisik
+T05,Rumaku Tangerang Selatan,Tangerang Selatan,Banten,Fisik
+T06,Rumaku Bandung,Bandung,Jawa Barat,Fisik
+T07,Rumaku Semarang,Semarang,Jawa Tengah,Fisik
+T08,Rumaku Yogyakarta,Yogyakarta,DI Yogyakarta,Fisik
+T09,Rumaku Surabaya,Surabaya,Jawa Timur,Fisik
+T10,Rumaku Malang,Malang,Jawa Timur,Fisik
+T11,Rumaku Denpasar,Denpasar,Bali,Fisik
+T12,Rumaku Makassar,Makassar,Sulawesi Selatan,Fisik
+T13,Rumaku Online Store,Jakarta Selatan,DKI Jakarta,Online

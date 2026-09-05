@@ -1,0 +1,3481 @@
+pelanggan_id,nama_pelanggan,kota,tanggal_daftar,segmen
+P00001,Joko Permana,Semarang,2025-04-17,Member
+P00002,Indra Pratama,Surabaya,2024-11-17,Member
+P00003,Zaki Nugroho,Semarang,2023-12-26,Reguler
+P00004,Kirana Pratama,Bekasi,2024-02-18,Reguler
+P00005,Okta Aditya,Surabaya,2023-10-30,Reguler
+P00006,Citra Permana,Semarang,2023-10-07,Reguler
+P00007,Bayu Suryani,Malang,2024-09-22,Member
+P00008,Oki Permana,Tangerang Selatan,2024-02-09,Reguler
+P00009,Sari Setiawan,Tangerang Selatan,2025-02-09,Reguler
+P00010,Mila Maulana,Semarang,2025-06-04,Member
+P00011,Kartika Kusuma,Semarang,2025-01-11,Reguler
+P00012,Kirana Maulana,Malang,2023-12-31,Member
+P00013,Putri Firmansyah,Depok,2025-01-29,Member
+P00014,Maya Rahayu,Jakarta Barat,2023-06-12,Member
+P00015,Lestari Gunawan,Yogyakarta,2025-01-22,Reguler
+P00016,Zaki Halim,Yogyakarta,2024-10-08,Reguler
+P00017,Budi Saputra,Bandung,2024-01-06,Reguler
+P00018,Mila Suryani,Jakarta Barat,2024-05-14,Member
+P00019,Maya Permana,Jakarta Selatan,2024-07-18,Member
+P00020,Putri Gunawan,Jakarta Selatan,2023-12-29,Member
+P00021,Gita Kusuma,Jakarta Selatan,2023-06-20,Member
+P00022,Irfan Nugroho,Surabaya,2023-05-13,Reguler
+P00023,Citra Setiawan,Depok,2024-05-05,Reguler
+P00024,Fajar Pratama,Bekasi,2025-09-19,Member
+P00025,Vina Saputra,Bandung,2024-06-29,Reguler
+P00026,Dian Puspita,Yogyakarta,2024-03-18,Reguler
+P00027,Okta Permana,Jakarta Barat,2025-08-25,Reguler
+P00028,Wahyu Maulana,Depok,2024-09-15,Premium
+P00029,Adi Hartono,Yogyakarta,2025-09-06,Reguler
+P00030,Hesti Firmansyah,Denpasar,2024-03-28,Premium
+P00031,Gita Hartono,Denpasar,2024-10-12,Premium
+P00032,Oki Santoso,Yogyakarta,2024-02-05,Member
+P00033,Tono Wijaya,Semarang,2023-03-09,Reguler
+P00034,Nanda Anggraini,Depok,2024-09-24,Reguler
+P00035,Bayu Saputra,Bekasi,2025-01-07,Member
+P00036,Rangga Saputra,Bekasi,2023-08-01,Member
+P00037,Bayu Lestari,Jakarta Selatan,2023-11-13,Premium
+P00038,Adi Lestari,Surabaya,2023-10-03,Member
+P00039,Galih Santoso,Tangerang Selatan,2023-11-26,Member
+P00040,Bayu Setiawan,Semarang,2025-07-25,Reguler
+P00041,Fajar Santoso,Tangerang Selatan,2025-02-07,Reguler
+P00042,Dewi Santoso,Bandung,2024-04-26,Reguler
+P00043,Yanti Puspita,Bandung,2023-02-28,Member
+P00044,Udin Puspita,Tangerang Selatan,2024-12-16,Reguler
+P00045,Naufal Lestari,Depok,2023-06-24,Reguler
+P00046,Putri Lestari,Depok,2023-10-01,Reguler
+P00047,Hesti Rahayu,Jakarta Selatan,2025-04-24,Member
+P00048,Nanda Kusuma,Bandung,2024-11-26,Member
+P00049,Vina Setiawan,Yogyakarta,2024-03-22,Reguler
+P00050,Dian Rahayu,Bandung,2024-02-09,Member
+P00051,Gita Nugroho,Jakarta Selatan,2023-08-15,Reguler
+P00052,Mila Lestari,Surabaya,2023-05-09,Member
+P00053,Naufal Saputra,Bandung,2023-01-05,Reguler
+P00054,Nanda Saputra,Jakarta Selatan,2023-05-31,Reguler
+P00055,Fajar Saputra,Denpasar,2024-11-02,Reguler
+P00056,Maya Wijaya,Jakarta Barat,2025-01-01,Premium
+P00057,Adi Ramadhan,Denpasar,2023-06-10,Reguler
+P00058,Maya Wijaya,Depok,2025-08-20,Member
+P00059,Adi Puspita,Makassar,2024-12-09,Reguler
+P00060,Udin Hartono,Bandung,2025-04-06,Member
+P00061,Hesti Hartono,Depok,2024-02-14,Reguler
+P00062,Oki Saputra,Surabaya,2024-12-09,Reguler
+P00063,Zaki Hartono,Makassar,2023-08-19,Reguler
+P00064,Lestari Aditya,Malang,2024-07-13,Member
+P00065,Oki Lestari,Tangerang Selatan,2025-03-02,Reguler
+P00066,Yanti Nugroho,Jakarta Barat,2025-08-17,Member
+P00067,Jihan Halim,Bandung,2023-02-14,Reguler
+P00068,Citra Halim,Depok,2024-12-01,Reguler
+P00069,Putri Kusuma,Yogyakarta,2025-03-23,Reguler
+P00070,Sari Permana,Jakarta Selatan,2024-11-22,Member
+P00071,Putri Hartono,Denpasar,2023-03-09,Reguler
+P00072,Vina Anggraini,Yogyakarta,2023-07-24,Reguler
+P00073,Mila Suryani,Jakarta Selatan,2024-11-25,Premium
+P00074,Maya Lestari,Depok,2024-03-29,Reguler
+P00075,Dian Aditya,Yogyakarta,2025-02-15,Member
+P00076,Lestari Pratama,Tangerang Selatan,2025-08-07,Reguler
+P00077,Yanti Ramadhan,Jakarta Selatan,2024-04-27,Reguler
+P00078,Galih Anggraini,Semarang,2023-05-05,Premium
+P00079,Vina Suryani,Bandung,2023-08-07,Reguler
+P00080,Lestari Hartono,Makassar,2024-12-23,Reguler
+P00081,Putri Rahayu,Jakarta Barat,2024-05-22,Member
+P00082,Farah Pratama,Surabaya,2023-12-07,Reguler
+P00083,Mila Firmansyah,Denpasar,2023-04-24,Reguler
+P00084,Joko Suryani,Surabaya,2024-10-22,Member
+P00085,Nanda Puspita,Depok,2025-02-13,Member
+P00086,Rangga Firmansyah,Bandung,2023-06-30,Member
+P00087,Zaki Ramadhan,Jakarta Barat,2024-05-17,Reguler
+P00088,Okta Maulana,Yogyakarta,2024-03-29,Member
+P00089,Udin Wijaya,Surabaya,2023-06-14,Reguler
+P00090,Okta Firmansyah,Malang,2025-01-30,Reguler
+P00091,Jihan Pratama,Denpasar,2023-07-19,Reguler
+P00092,Zaki Nugroho,Yogyakarta,2024-01-09,Premium
+P00093,Hana Nugroho,Jakarta Selatan,2024-05-06,Reguler
+P00094,Irfan Nugroho,Jakarta Selatan,2024-08-03,Member
+P00095,Oki Wijaya,Makassar,2023-03-29,Member
+P00096,Maya Permana,Bandung,2024-04-30,Reguler
+P00097,Citra Permana,Bandung,2023-11-19,Reguler
+P00098,Oki Halim,Makassar,2023-08-13,Reguler
+P00099,Vina Kusuma,Surabaya,2024-07-11,Member
+P00100,Adi Halim,Denpasar,2023-07-29,Premium
+P00101,Adi Puspita,Surabaya,2024-07-11,Member
+P00102,Okta Setiawan,Tangerang Selatan,2023-08-09,Reguler
+P00103,Nanda Hartono,Surabaya,2025-09-06,Reguler
+P00104,Bayu Nugroho,Yogyakarta,2023-06-27,Premium
+P00105,Tono Permana,Malang,2024-07-23,Member
+P00106,Adi Gunawan,Semarang,2024-04-24,Member
+P00107,Udin Setiawan,Jakarta Selatan,2025-05-31,Member
+P00108,Mila Kusuma,Jakarta Selatan,2025-03-23,Reguler
+P00109,Galih Permana,Jakarta Selatan,2023-03-27,Member
+P00110,Okta Firmansyah,Denpasar,2025-02-25,Reguler
+P00111,Fajar Aditya,Semarang,2024-03-26,Reguler
+P00112,Fajar Saputra,Bandung,2023-10-18,Reguler
+P00113,Hesti Hartono,Depok,2024-10-04,Reguler
+P00114,Maya Permana,Yogyakarta,2024-05-29,Reguler
+P00115,Budi Firmansyah,Jakarta Selatan,2023-05-03,Member
+P00116,Tono Lestari,Bekasi,2024-07-03,Member
+P00117,Putri Suryani,Bekasi,2025-08-06,Reguler
+P00118,Fajar Hartono,Jakarta Selatan,2024-02-12,Premium
+P00119,Vina Lestari,Yogyakarta,2023-12-14,Member
+P00120,Lestari Halim,Jakarta Selatan,2024-01-06,Member
+P00121,Farah Lestari,Surabaya,2023-01-20,Member
+P00122,Bayu Permana,Jakarta Selatan,2023-08-05,Premium
+P00123,Oki Gunawan,Surabaya,2024-07-03,Member
+P00124,Nanda Hartono,Yogyakarta,2025-05-14,Reguler
+P00125,Maya Permana,Tangerang Selatan,2025-04-11,Reguler
+P00126,Eka Hartono,Tangerang Selatan,2023-04-03,Reguler
+P00127,Kirana Kusuma,Surabaya,2023-06-26,Member
+P00128,Bayu Gunawan,Depok,2025-04-29,Reguler
+P00129,Hana Anggraini,Tangerang Selatan,2024-09-16,Member
+P00130,Kirana Firmansyah,Denpasar,2025-09-02,Premium
+P00131,Mila Saputra,Makassar,2024-01-10,Member
+P00132,Joko Ramadhan,Depok,2025-03-26,Premium
+P00133,Yanti Wijaya,Tangerang Selatan,2025-06-15,Member
+P00134,Kirana Ramadhan,Jakarta Selatan,2025-07-16,Member
+P00135,Irfan Lestari,Yogyakarta,2025-09-16,Reguler
+P00136,Hesti Aditya,Bekasi,2023-07-18,Reguler
+P00137,Wahyu Santoso,Bekasi,2024-02-08,Member
+P00138,Rangga Kusuma,Jakarta Selatan,2025-07-24,Member
+P00139,Udin Saputra,Surabaya,2023-04-14,Reguler
+P00140,Gita Kusuma,Denpasar,2023-02-23,Reguler
+P00141,Wahyu Aditya,Bekasi,2024-12-10,Reguler
+P00142,Dian Halim,Semarang,2025-06-02,Reguler
+P00143,Irfan Santoso,Bandung,2025-05-10,Reguler
+P00144,Udin Firmansyah,Yogyakarta,2023-08-02,Reguler
+P00145,Joko Halim,Tangerang Selatan,2025-08-09,Reguler
+P00146,Galih Rahayu,Makassar,2023-04-27,Reguler
+P00147,Yanti Permana,Semarang,2024-04-16,Reguler
+P00148,Tono Firmansyah,Tangerang Selatan,2023-03-08,Member
+P00149,Fajar Permana,Yogyakarta,2023-11-20,Premium
+P00150,Yanti Ramadhan,Makassar,2025-06-23,Reguler
+P00151,Joko Pratama,Yogyakarta,2023-08-03,Member
+P00152,Kartika Aditya,Makassar,2023-05-23,Member
+P00153,Yanti Santoso,Denpasar,2023-01-27,Premium
+P00154,Galih Setiawan,Jakarta Barat,2024-08-01,Reguler
+P00155,Kirana Setiawan,Jakarta Barat,2024-07-15,Reguler
+P00156,Dian Firmansyah,Bandung,2024-06-29,Reguler
+P00157,Putri Suryani,Malang,2025-07-15,Member
+P00158,Zaki Kusuma,Tangerang Selatan,2024-07-02,Reguler
+P00159,Galih Gunawan,Malang,2025-07-18,Member
+P00160,Eka Hartono,Makassar,2023-03-19,Premium
+P00161,Wahyu Maulana,Depok,2024-06-19,Reguler
+P00162,Adi Rahayu,Yogyakarta,2023-08-27,Premium
+P00163,Okta Wijaya,Jakarta Barat,2024-06-30,Reguler
+P00164,Budi Saputra,Semarang,2024-08-02,Premium
+P00165,Lestari Hartono,Depok,2023-11-20,Reguler
+P00166,Naufal Pratama,Malang,2023-04-21,Reguler
+P00167,Galih Santoso,Malang,2023-11-24,Premium
+P00168,Jihan Aditya,Yogyakarta,2025-07-09,Reguler
+P00169,Budi Rahayu,Semarang,2025-08-31,Reguler
+P00170,Okta Halim,Surabaya,2023-01-06,Premium
+P00171,Lukman Kusuma,Tangerang Selatan,2025-01-16,Member
+P00172,Nanda Maulana,Semarang,2024-05-05,Reguler
+P00173,Kartika Santoso,Jakarta Selatan,2023-09-22,Member
+P00174,Mila Lestari,Surabaya,2025-08-04,Member
+P00175,Jihan Suryani,Jakarta Barat,2025-07-10,Reguler
+P00176,Lukman Permana,Semarang,2025-08-10,Reguler
+P00177,Fajar Gunawan,Semarang,2025-03-04,Reguler
+P00178,Putri Maulana,Surabaya,2024-01-17,Reguler
+P00179,Mila Puspita,Jakarta Barat,2024-10-24,Member
+P00180,Irfan Gunawan,Denpasar,2024-07-20,Reguler
+P00181,Naufal Santoso,Jakarta Selatan,2025-05-31,Reguler
+P00182,Dewi Permana,Surabaya,2024-12-30,Reguler
+P00183,Hana Puspita,Jakarta Selatan,2023-09-16,Member
+P00184,Farah Aditya,Yogyakarta,2023-04-29,Member
+P00185,Hana Lestari,Jakarta Barat,2023-04-10,Reguler
+P00186,Lestari Pratama,Jakarta Selatan,2023-04-08,Reguler
+P00187,Dian Aditya,Semarang,2023-12-30,Reguler
+P00188,Maya Permana,Depok,2024-08-16,Reguler
+P00189,Fajar Firmansyah,Jakarta Selatan,2025-04-22,Reguler
+P00190,Wahyu Maulana,Surabaya,2024-04-24,Reguler
+P00191,Bayu Suryani,Surabaya,2025-04-17,Reguler
+P00192,Nanda Maulana,Bandung,2023-12-11,Member
+P00193,Indra Maulana,Bekasi,2025-07-06,Reguler
+P00194,Dewi Kusuma,Bandung,2023-02-18,Reguler
+P00195,Adi Ramadhan,Bekasi,2023-05-14,Member
+P00196,Fajar Puspita,Denpasar,2024-11-24,Reguler
+P00197,Vina Kusuma,Jakarta Selatan,2023-08-21,Reguler
+P00198,Budi Kusuma,Surabaya,2024-09-19,Member
+P00199,Yanti Kusuma,Jakarta Selatan,2023-10-09,Reguler
+P00200,Rangga Nugroho,Surabaya,2025-09-21,Reguler
+P00201,Tono Rahayu,Depok,2024-11-19,Reguler
+P00202,Tono Hartono,Jakarta Selatan,2023-07-12,Reguler
+P00203,Udin Santoso,Surabaya,2024-04-15,Reguler
+P00204,Joko Firmansyah,Makassar,2024-04-04,Reguler
+P00205,Kirana Puspita,Jakarta Selatan,2025-07-28,Member
+P00206,Maya Aditya,Bekasi,2024-08-19,Reguler
+P00207,Farah Pratama,Jakarta Barat,2023-08-21,Reguler
+P00208,Eka Rahayu,Makassar,2024-05-23,Reguler
+P00209,Putri Anggraini,Jakarta Barat,2025-08-31,Member
+P00210,Putri Aditya,Jakarta Selatan,2024-08-07,Reguler
+P00211,Joko Puspita,Surabaya,2024-09-08,Member
+P00212,Adi Suryani,Semarang,2024-11-09,Member
+P00213,Bayu Nugroho,Tangerang Selatan,2024-09-08,Reguler
+P00214,Kirana Gunawan,Jakarta Barat,2023-02-15,Member
+P00215,Okta Kusuma,Semarang,2025-08-12,Reguler
+P00216,Fajar Setiawan,Denpasar,2025-07-08,Reguler
+P00217,Wahyu Halim,Malang,2024-03-26,Member
+P00218,Farah Anggraini,Jakarta Selatan,2025-03-06,Member
+P00219,Gita Halim,Bekasi,2025-08-01,Member
+P00220,Galih Suryani,Bandung,2023-06-06,Member
+P00221,Fajar Pratama,Tangerang Selatan,2024-01-08,Reguler
+P00222,Gita Nugroho,Depok,2023-06-21,Reguler
+P00223,Okta Pratama,Yogyakarta,2025-06-08,Reguler
+P00224,Indra Halim,Bekasi,2023-10-10,Reguler
+P00225,Gita Santoso,Surabaya,2024-12-05,Reguler
+P00226,Joko Setiawan,Depok,2024-10-03,Member
+P00227,Udin Halim,Surabaya,2025-08-15,Reguler
+P00228,Eka Ramadhan,Malang,2023-07-24,Member
+P00229,Budi Setiawan,Jakarta Selatan,2025-06-14,Member
+P00230,Bayu Nugroho,Tangerang Selatan,2024-04-12,Reguler
+P00231,Putri Permana,Jakarta Barat,2023-09-09,Reguler
+P00232,Maya Ramadhan,Jakarta Selatan,2024-12-04,Member
+P00233,Naufal Saputra,Bandung,2024-10-26,Reguler
+P00234,Farah Puspita,Jakarta Barat,2025-08-25,Member
+P00235,Zaki Wijaya,Makassar,2024-05-29,Reguler
+P00236,Oki Santoso,Semarang,2025-03-20,Reguler
+P00237,Citra Wijaya,Jakarta Selatan,2023-09-01,Member
+P00238,Fajar Puspita,Surabaya,2025-01-04,Member
+P00239,Eka Rahayu,Jakarta Selatan,2025-07-01,Member
+P00240,Lestari Lestari,Jakarta Barat,2023-09-12,Member
+P00241,Eka Aditya,Depok,2025-07-10,Premium
+P00242,Kartika Ramadhan,Tangerang Selatan,2023-06-08,Premium
+P00243,Joko Maulana,Bandung,2024-06-23,Reguler
+P00244,Citra Ramadhan,Jakarta Barat,2023-06-19,Member
+P00245,Zaki Santoso,Bandung,2023-02-20,Reguler
+P00246,Farah Hartono,Denpasar,2024-06-03,Reguler
+P00247,Tono Puspita,Bandung,2025-09-07,Premium
+P00248,Yanti Rahayu,Makassar,2024-12-07,Reguler
+P00249,Farah Hartono,Malang,2023-08-13,Member
+P00250,Lestari Kusuma,Denpasar,2023-01-05,Reguler
+P00251,Hana Saputra,Makassar,2024-11-01,Reguler
+P00252,Indra Permana,Tangerang Selatan,2023-07-27,Reguler
+P00253,Farah Ramadhan,Jakarta Selatan,2023-07-25,Premium
+P00254,Mila Rahayu,Yogyakarta,2024-09-04,Member
+P00255,Joko Anggraini,Depok,2024-11-22,Member
+P00256,Galih Kusuma,Bekasi,2023-05-15,Reguler
+P00257,Dewi Saputra,Makassar,2024-03-24,Member
+P00258,Naufal Suryani,Depok,2024-12-05,Reguler
+P00259,Dian Wijaya,Bandung,2024-05-12,Reguler
+P00260,Budi Halim,Depok,2024-03-23,Member
+P00261,Putri Puspita,Makassar,2025-01-02,Member
+P00262,Maya Setiawan,Semarang,2024-02-12,Member
+P00263,Indra Kusuma,Bandung,2025-07-28,Reguler
+P00264,Hana Wijaya,Bandung,2025-04-20,Reguler
+P00265,Yanti Puspita,Tangerang Selatan,2024-02-19,Member
+P00266,Lestari Rahayu,Bekasi,2025-03-15,Member
+P00267,Tono Halim,Jakarta Barat,2025-02-22,Reguler
+P00268,Lukman Halim,Bekasi,2025-07-15,Reguler
+P00269,Zaki Aditya,Surabaya,2024-01-04,Reguler
+P00270,Gita Nugroho,Malang,2023-08-28,Premium
+P00271,Mila Santoso,Surabaya,2024-08-20,Member
+P00272,Okta Halim,Yogyakarta,2025-05-14,Premium
+P00273,Lestari Nugroho,Jakarta Selatan,2024-08-03,Member
+P00274,Oki Gunawan,Surabaya,2025-05-25,Member
+P00275,Bayu Firmansyah,Jakarta Selatan,2024-06-05,Member
+P00276,Hana Anggraini,Bandung,2023-07-13,Reguler
+P00277,Adi Lestari,Bandung,2024-01-09,Reguler
+P00278,Mila Ramadhan,Surabaya,2024-05-21,Reguler
+P00279,Putri Pratama,Bandung,2023-11-26,Reguler
+P00280,Maya Maulana,Jakarta Selatan,2024-03-14,Member
+P00281,Naufal Maulana,Semarang,2025-09-21,Member
+P00282,Hana Pratama,Makassar,2023-12-30,Reguler
+P00283,Zaki Nugroho,Jakarta Barat,2025-09-21,Member
+P00284,Vina Gunawan,Yogyakarta,2024-12-29,Reguler
+P00285,Sari Saputra,Denpasar,2023-02-02,Premium
+P00286,Adi Rahayu,Denpasar,2023-02-02,Reguler
+P00287,Oki Pratama,Tangerang Selatan,2025-05-21,Reguler
+P00288,Dian Lestari,Jakarta Barat,2025-03-03,Member
+P00289,Wahyu Aditya,Jakarta Selatan,2023-03-25,Reguler
+P00290,Wahyu Wijaya,Makassar,2023-07-23,Reguler
+P00291,Udin Rahayu,Jakarta Selatan,2023-02-28,Reguler
+P00292,Yanti Hartono,Surabaya,2024-08-19,Member
+P00293,Yanti Permana,Surabaya,2025-04-03,Reguler
+P00294,Irfan Kusuma,Malang,2025-02-08,Member
+P00295,Budi Wijaya,Jakarta Barat,2023-11-29,Member
+P00296,Adi Saputra,Surabaya,2025-07-21,Reguler
+P00297,Rangga Lestari,Surabaya,2024-11-02,Member
+P00298,Dian Hartono,Tangerang Selatan,2024-03-05,Member
+P00299,Citra Rahayu,Jakarta Selatan,2023-03-01,Reguler
+P00300,Maya Halim,Surabaya,2024-06-19,Reguler
+P00301,Indra Lestari,Denpasar,2023-02-13,Premium
+P00302,Adi Hartono,Yogyakarta,2024-08-28,Premium
+P00303,Zaki Nugroho,Malang,2023-03-22,Reguler
+P00304,Nanda Pratama,Tangerang Selatan,2025-09-12,Reguler
+P00305,Yanti Santoso,Jakarta Selatan,2024-06-13,Reguler
+P00306,Hesti Maulana,Makassar,2023-02-02,Member
+P00307,Mila Ramadhan,Tangerang Selatan,2024-04-26,Member
+P00308,Dewi Nugroho,Makassar,2025-04-04,Reguler
+P00309,Oki Ramadhan,Jakarta Barat,2025-05-25,Member
+P00310,Dian Kusuma,Depok,2023-08-17,Reguler
+P00311,Eka Setiawan,Jakarta Selatan,2025-03-22,Premium
+P00312,Jihan Puspita,Depok,2024-10-23,Premium
+P00313,Jihan Anggraini,Bandung,2024-07-20,Reguler
+P00314,Fajar Hartono,Bekasi,2023-04-23,Member
+P00315,Budi Maulana,Jakarta Barat,2024-06-22,Reguler
+P00316,Zaki Maulana,Jakarta Selatan,2024-04-24,Member
+P00317,Fajar Halim,Surabaya,2023-11-11,Reguler
+P00318,Irfan Wijaya,Tangerang Selatan,2023-03-08,Member
+P00319,Zaki Halim,Jakarta Selatan,2025-06-20,Premium
+P00320,Vina Santoso,Jakarta Selatan,2023-12-21,Reguler
+P00321,Tono Gunawan,Bandung,2023-05-14,Reguler
+P00322,Sari Ramadhan,Tangerang Selatan,2025-04-11,Reguler
+P00323,Naufal Permana,Bekasi,2024-11-11,Reguler
+P00324,Putri Halim,Depok,2023-05-21,Reguler
+P00325,Hana Saputra,Jakarta Selatan,2025-08-26,Reguler
+P00326,Yanti Gunawan,Semarang,2024-10-03,Reguler
+P00327,Adi Gunawan,Surabaya,2023-01-25,Member
+P00328,Maya Ramadhan,Yogyakarta,2025-03-31,Member
+P00329,Oki Firmansyah,Jakarta Selatan,2024-01-17,Reguler
+P00330,Indra Anggraini,Jakarta Selatan,2024-03-17,Member
+P00331,Nanda Suryani,Depok,2023-03-12,Reguler
+P00332,Rangga Aditya,Tangerang Selatan,2023-06-28,Reguler
+P00333,Adi Saputra,Bandung,2023-12-21,Reguler
+P00334,Budi Nugroho,Malang,2025-05-30,Member
+P00335,Rangga Ramadhan,Bandung,2025-02-13,Reguler
+P00336,Zaki Permana,Bandung,2023-03-13,Reguler
+P00337,Farah Suryani,Semarang,2024-12-05,Reguler
+P00338,Sari Suryani,Bekasi,2023-06-08,Member
+P00339,Putri Permana,Jakarta Barat,2024-07-07,Member
+P00340,Farah Setiawan,Depok,2024-11-08,Reguler
+P00341,Irfan Halim,Depok,2024-06-19,Reguler
+P00342,Zaki Wijaya,Semarang,2025-03-22,Reguler
+P00343,Kartika Santoso,Bandung,2024-09-09,Reguler
+P00344,Citra Aditya,Surabaya,2023-07-06,Reguler
+P00345,Maya Setiawan,Surabaya,2024-05-21,Member
+P00346,Okta Rahayu,Makassar,2024-04-30,Reguler
+P00347,Sari Maulana,Bandung,2025-07-28,Reguler
+P00348,Bayu Maulana,Malang,2023-06-15,Member
+P00349,Eka Rahayu,Surabaya,2023-11-08,Member
+P00350,Irfan Ramadhan,Jakarta Selatan,2024-06-23,Reguler
+P00351,Citra Lestari,Bandung,2023-12-23,Reguler
+P00352,Yanti Anggraini,Depok,2024-10-04,Reguler
+P00353,Bayu Nugroho,Jakarta Selatan,2024-08-29,Reguler
+P00354,Kartika Halim,Makassar,2023-08-07,Reguler
+P00355,Oki Rahayu,Surabaya,2024-05-25,Reguler
+P00356,Putri Santoso,Tangerang Selatan,2024-12-02,Reguler
+P00357,Zaki Puspita,Makassar,2025-04-10,Reguler
+P00358,Okta Setiawan,Jakarta Barat,2025-08-24,Reguler
+P00359,Gita Setiawan,Semarang,2023-11-02,Reguler
+P00360,Joko Saputra,Jakarta Selatan,2024-08-12,Reguler
+P00361,Okta Santoso,Makassar,2024-08-31,Member
+P00362,Gita Wijaya,Denpasar,2023-08-06,Reguler
+P00363,Joko Firmansyah,Jakarta Barat,2023-01-24,Reguler
+P00364,Eka Lestari,Semarang,2024-01-14,Premium
+P00365,Vina Permana,Jakarta Barat,2023-09-16,Premium
+P00366,Joko Santoso,Makassar,2023-02-24,Reguler
+P00367,Joko Nugroho,Bekasi,2024-06-06,Member
+P00368,Tono Setiawan,Semarang,2024-09-03,Premium
+P00369,Zaki Santoso,Bandung,2024-09-29,Reguler
+P00370,Galih Hartono,Bandung,2025-07-01,Member
+P00371,Nanda Hartono,Jakarta Selatan,2024-08-30,Member
+P00372,Fajar Ramadhan,Surabaya,2024-09-15,Reguler
+P00373,Jihan Gunawan,Jakarta Barat,2024-11-05,Member
+P00374,Dian Kusuma,Denpasar,2024-10-21,Reguler
+P00375,Nanda Maulana,Bekasi,2024-03-29,Reguler
+P00376,Galih Aditya,Bekasi,2024-12-05,Member
+P00377,Adi Gunawan,Semarang,2023-12-13,Reguler
+P00378,Budi Nugroho,Semarang,2023-08-01,Reguler
+P00379,Budi Pratama,Surabaya,2023-02-26,Reguler
+P00380,Kirana Aditya,Bekasi,2025-08-04,Premium
+P00381,Mila Lestari,Bekasi,2025-01-23,Reguler
+P00382,Maya Rahayu,Semarang,2025-09-22,Reguler
+P00383,Irfan Setiawan,Jakarta Barat,2023-08-25,Reguler
+P00384,Oki Firmansyah,Tangerang Selatan,2024-04-08,Reguler
+P00385,Fajar Anggraini,Jakarta Selatan,2023-05-31,Reguler
+P00386,Bayu Saputra,Jakarta Barat,2025-06-08,Reguler
+P00387,Nanda Suryani,Semarang,2024-09-24,Member
+P00388,Lestari Maulana,Jakarta Selatan,2025-03-05,Reguler
+P00389,Citra Santoso,Bandung,2023-06-24,Reguler
+P00390,Naufal Santoso,Tangerang Selatan,2025-03-31,Reguler
+P00391,Citra Anggraini,Surabaya,2024-10-24,Member
+P00392,Lestari Gunawan,Malang,2023-12-28,Reguler
+P00393,Kirana Firmansyah,Semarang,2023-12-25,Member
+P00394,Sari Santoso,Jakarta Selatan,2025-09-07,Reguler
+P00395,Adi Saputra,Bandung,2023-08-01,Reguler
+P00396,Zaki Nugroho,Bandung,2025-01-30,Premium
+P00397,Dian Ramadhan,Yogyakarta,2025-08-15,Reguler
+P00398,Eka Suryani,Surabaya,2024-06-28,Reguler
+P00399,Sari Wijaya,Jakarta Selatan,2023-09-23,Member
+P00400,Galih Halim,Jakarta Selatan,2025-04-15,Member
+P00401,Eka Firmansyah,Jakarta Barat,2025-07-23,Member
+P00402,Hesti Kusuma,Jakarta Selatan,2024-10-21,Reguler
+P00403,Kirana Hartono,Depok,2023-01-16,Member
+P00404,Udin Wijaya,Tangerang Selatan,2023-03-30,Reguler
+P00405,Indra Setiawan,Malang,2025-08-20,Reguler
+P00406,Kartika Pratama,Semarang,2025-08-10,Member
+P00407,Bayu Santoso,Bandung,2025-01-12,Reguler
+P00408,Maya Saputra,Denpasar,2024-07-18,Member
+P00409,Jihan Rahayu,Tangerang Selatan,2024-02-06,Reguler
+P00410,Oki Saputra,Jakarta Barat,2024-04-04,Reguler
+P00411,Irfan Wijaya,Jakarta Barat,2025-02-06,Reguler
+P00412,Yanti Santoso,Jakarta Selatan,2024-08-27,Reguler
+P00413,Citra Rahayu,Surabaya,2023-03-26,Member
+P00414,Dian Ramadhan,Tangerang Selatan,2024-12-19,Reguler
+P00415,Kartika Gunawan,Malang,2024-12-21,Reguler
+P00416,Indra Pratama,Surabaya,2024-06-10,Reguler
+P00417,Vina Santoso,Denpasar,2024-08-19,Reguler
+P00418,Vina Firmansyah,Yogyakarta,2024-04-10,Reguler
+P00419,Joko Aditya,Semarang,2025-01-17,Reguler
+P00420,Sari Setiawan,Bekasi,2025-06-06,Member
+P00421,Gita Suryani,Yogyakarta,2024-07-29,Member
+P00422,Okta Lestari,Tangerang Selatan,2024-03-27,Reguler
+P00423,Putri Ramadhan,Bandung,2025-08-04,Reguler
+P00424,Bayu Wijaya,Yogyakarta,2025-09-26,Reguler
+P00425,Galih Santoso,Bandung,2024-05-10,Reguler
+P00426,Wahyu Gunawan,Jakarta Selatan,2023-08-25,Reguler
+P00427,Lukman Ramadhan,Bandung,2023-06-27,Member
+P00428,Citra Maulana,Bekasi,2024-09-16,Premium
+P00429,Budi Santoso,Makassar,2025-06-16,Reguler
+P00430,Dewi Wijaya,Tangerang Selatan,2024-07-17,Reguler
+P00431,Zaki Firmansyah,Semarang,2025-05-03,Reguler
+P00432,Maya Halim,Surabaya,2024-12-09,Reguler
+P00433,Kartika Maulana,Denpasar,2024-07-24,Reguler
+P00434,Adi Gunawan,Bandung,2024-02-02,Member
+P00435,Okta Nugroho,Tangerang Selatan,2023-04-15,Member
+P00436,Yanti Gunawan,Depok,2024-01-12,Reguler
+P00437,Wahyu Pratama,Bekasi,2025-01-02,Premium
+P00438,Budi Maulana,Bandung,2024-07-14,Member
+P00439,Citra Anggraini,Bekasi,2024-03-25,Premium
+P00440,Kirana Gunawan,Bandung,2024-12-25,Reguler
+P00441,Naufal Setiawan,Bandung,2025-07-11,Reguler
+P00442,Lukman Gunawan,Bandung,2023-09-18,Reguler
+P00443,Farah Puspita,Tangerang Selatan,2024-09-11,Reguler
+P00444,Fajar Pratama,Tangerang Selatan,2024-06-23,Reguler
+P00445,Bayu Santoso,Depok,2025-02-21,Reguler
+P00446,Wahyu Firmansyah,Surabaya,2023-01-28,Member
+P00447,Dewi Firmansyah,Semarang,2025-05-04,Member
+P00448,Citra Gunawan,Tangerang Selatan,2024-09-19,Member
+P00449,Putri Wijaya,Jakarta Selatan,2025-06-10,Reguler
+P00450,Citra Suryani,Jakarta Selatan,2024-04-21,Member
+P00451,Dian Aditya,Jakarta Barat,2025-07-20,Reguler
+P00452,Lukman Wijaya,Makassar,2024-09-28,Reguler
+P00453,Lukman Lestari,Yogyakarta,2023-07-10,Reguler
+P00454,Tono Hartono,Tangerang Selatan,2023-08-03,Member
+P00455,Bayu Firmansyah,Makassar,2025-05-22,Reguler
+P00456,Sari Maulana,Surabaya,2024-07-20,Member
+P00457,Joko Puspita,Tangerang Selatan,2023-05-04,Reguler
+P00458,Bayu Anggraini,Bandung,2025-01-14,Reguler
+P00459,Zaki Nugroho,Bekasi,2023-07-08,Premium
+P00460,Hana Maulana,Bekasi,2024-04-21,Member
+P00461,Zaki Wijaya,Denpasar,2023-08-09,Member
+P00462,Nanda Gunawan,Surabaya,2025-04-10,Reguler
+P00463,Mila Suryani,Bandung,2023-07-24,Member
+P00464,Rangga Wijaya,Denpasar,2024-02-27,Reguler
+P00465,Maya Permana,Jakarta Barat,2024-10-10,Member
+P00466,Citra Saputra,Tangerang Selatan,2024-07-17,Member
+P00467,Lestari Anggraini,Jakarta Barat,2025-04-11,Member
+P00468,Rangga Hartono,Bandung,2023-09-18,Premium
+P00469,Wahyu Hartono,Depok,2023-09-29,Reguler
+P00470,Kartika Saputra,Jakarta Selatan,2024-11-07,Premium
+P00471,Irfan Kusuma,Surabaya,2023-02-07,Member
+P00472,Irfan Kusuma,Depok,2023-08-22,Reguler
+P00473,Joko Lestari,Surabaya,2025-07-13,Reguler
+P00474,Kartika Suryani,Tangerang Selatan,2025-06-14,Reguler
+P00475,Yanti Permana,Yogyakarta,2024-04-30,Reguler
+P00476,Kartika Maulana,Semarang,2023-02-21,Member
+P00477,Hana Rahayu,Jakarta Selatan,2024-10-15,Reguler
+P00478,Gita Maulana,Bandung,2025-09-23,Member
+P00479,Bayu Ramadhan,Depok,2025-08-05,Reguler
+P00480,Lestari Ramadhan,Bandung,2024-11-28,Reguler
+P00481,Wahyu Saputra,Yogyakarta,2023-03-21,Premium
+P00482,Indra Saputra,Tangerang Selatan,2025-07-05,Reguler
+P00483,Wahyu Rahayu,Surabaya,2024-03-26,Reguler
+P00484,Vina Halim,Bandung,2024-12-29,Member
+P00485,Kartika Nugroho,Bekasi,2024-07-03,Reguler
+P00486,Lestari Halim,Jakarta Barat,2024-04-27,Reguler
+P00487,Yanti Kusuma,Bekasi,2024-11-17,Reguler
+P00488,Wahyu Ramadhan,Bekasi,2025-08-06,Member
+P00489,Maya Ramadhan,Surabaya,2025-04-16,Reguler
+P00490,Kirana Santoso,Semarang,2023-12-15,Member
+P00491,Jihan Lestari,Bandung,2023-08-19,Premium
+P00492,Budi Suryani,Bekasi,2024-09-12,Premium
+P00493,Lukman Gunawan,Yogyakarta,2025-04-06,Member
+P00494,Maya Puspita,Bekasi,2025-05-21,Premium
+P00495,Kartika Firmansyah,Jakarta Selatan,2024-02-17,Member
+P00496,Hesti Nugroho,Bekasi,2024-10-02,Premium
+P00497,Hana Ramadhan,Tangerang Selatan,2025-09-24,Premium
+P00498,Okta Halim,Malang,2025-08-11,Reguler
+P00499,Fajar Anggraini,Jakarta Barat,2023-08-29,Reguler
+P00500,Irfan Firmansyah,Jakarta Selatan,2023-02-10,Reguler
+P00501,Indra Pratama,Semarang,2025-09-08,Reguler
+P00502,Budi Santoso,Denpasar,2023-04-24,Member
+P00503,Yanti Puspita,Bandung,2025-09-09,Reguler
+P00504,Citra Gunawan,Makassar,2024-09-09,Reguler
+P00505,Naufal Gunawan,Jakarta Barat,2024-08-10,Reguler
+P00506,Galih Anggraini,Malang,2024-05-27,Reguler
+P00507,Vina Setiawan,Jakarta Selatan,2024-03-19,Reguler
+P00508,Joko Permana,Tangerang Selatan,2023-03-29,Reguler
+P00509,Bayu Anggraini,Depok,2023-09-22,Reguler
+P00510,Kirana Halim,Jakarta Selatan,2025-09-12,Reguler
+P00511,Dian Puspita,Tangerang Selatan,2024-01-01,Reguler
+P00512,Adi Santoso,Tangerang Selatan,2025-03-13,Reguler
+P00513,Jihan Gunawan,Semarang,2025-05-19,Premium
+P00514,Rangga Halim,Makassar,2024-08-25,Reguler
+P00515,Oki Wijaya,Jakarta Selatan,2023-11-01,Reguler
+P00516,Indra Saputra,Jakarta Selatan,2023-08-21,Reguler
+P00517,Lestari Maulana,Makassar,2024-06-18,Reguler
+P00518,Adi Halim,Yogyakarta,2024-05-18,Premium
+P00519,Yanti Setiawan,Makassar,2025-08-30,Reguler
+P00520,Wahyu Aditya,Denpasar,2024-08-01,Reguler
+P00521,Yanti Aditya,Bandung,2023-08-22,Member
+P00522,Maya Kusuma,Tangerang Selatan,2024-04-06,Reguler
+P00523,Jihan Santoso,Yogyakarta,2023-11-26,Premium
+P00524,Okta Firmansyah,Depok,2023-04-02,Reguler
+P00525,Hesti Puspita,Jakarta Barat,2024-09-21,Reguler
+P00526,Galih Saputra,Malang,2024-07-06,Reguler
+P00527,Dian Halim,Bandung,2023-04-30,Reguler
+P00528,Sari Firmansyah,Bekasi,2024-05-22,Reguler
+P00529,Oki Wijaya,Yogyakarta,2024-12-17,Reguler
+P00530,Mila Santoso,Semarang,2024-04-12,Member
+P00531,Udin Permana,Surabaya,2023-11-06,Member
+P00532,Dian Wijaya,Bekasi,2023-01-26,Premium
+P00533,Putri Nugroho,Depok,2025-01-08,Reguler
+P00534,Maya Hartono,Malang,2024-10-08,Member
+P00535,Indra Ramadhan,Semarang,2023-04-21,Premium
+P00536,Hesti Pratama,Bekasi,2023-09-11,Premium
+P00537,Tono Santoso,Surabaya,2025-08-05,Reguler
+P00538,Indra Wijaya,Depok,2024-04-21,Member
+P00539,Putri Aditya,Semarang,2025-03-01,Reguler
+P00540,Tono Ramadhan,Jakarta Selatan,2025-07-30,Premium
+P00541,Zaki Anggraini,Malang,2024-08-03,Member
+P00542,Citra Aditya,Jakarta Selatan,2025-04-25,Reguler
+P00543,Eka Gunawan,Bandung,2025-05-26,Reguler
+P00544,Adi Aditya,Depok,2024-10-24,Reguler
+P00545,Lukman Nugroho,Bandung,2025-08-17,Reguler
+P00546,Tono Maulana,Surabaya,2025-01-24,Premium
+P00547,Jihan Anggraini,Yogyakarta,2025-05-07,Reguler
+P00548,Indra Halim,Jakarta Barat,2024-11-22,Member
+P00549,Zaki Saputra,Depok,2024-01-01,Member
+P00550,Joko Pratama,Malang,2025-08-22,Member
+P00551,Hesti Rahayu,Jakarta Barat,2024-03-24,Member
+P00552,Irfan Hartono,Surabaya,2024-06-24,Member
+P00553,Eka Saputra,Surabaya,2023-11-27,Reguler
+P00554,Tono Ramadhan,Malang,2024-11-17,Member
+P00555,Hana Lestari,Jakarta Selatan,2023-12-30,Reguler
+P00556,Udin Kusuma,Surabaya,2025-03-13,Reguler
+P00557,Zaki Kusuma,Bekasi,2023-02-28,Reguler
+P00558,Udin Aditya,Surabaya,2024-06-09,Reguler
+P00559,Bayu Puspita,Bandung,2025-01-16,Reguler
+P00560,Citra Halim,Malang,2024-01-18,Reguler
+P00561,Hesti Lestari,Tangerang Selatan,2025-04-10,Reguler
+P00562,Irfan Firmansyah,Bandung,2023-06-21,Reguler
+P00563,Bayu Suryani,Denpasar,2025-08-12,Reguler
+P00564,Maya Rahayu,Bandung,2025-07-03,Reguler
+P00565,Hesti Ramadhan,Jakarta Selatan,2023-03-31,Member
+P00566,Lestari Aditya,Tangerang Selatan,2024-10-18,Reguler
+P00567,Nanda Maulana,Malang,2023-06-08,Member
+P00568,Kirana Nugroho,Bekasi,2023-11-29,Reguler
+P00569,Maya Nugroho,Tangerang Selatan,2024-02-02,Member
+P00570,Mila Nugroho,Jakarta Barat,2023-06-05,Member
+P00571,Maya Suryani,Bandung,2025-04-21,Reguler
+P00572,Eka Gunawan,Surabaya,2024-02-25,Reguler
+P00573,Putri Nugroho,Semarang,2023-12-02,Member
+P00574,Citra Saputra,Surabaya,2023-09-15,Reguler
+P00575,Oki Saputra,Malang,2025-05-13,Reguler
+P00576,Hana Hartono,Tangerang Selatan,2025-09-13,Reguler
+P00577,Kartika Firmansyah,Bekasi,2024-01-24,Reguler
+P00578,Dian Anggraini,Denpasar,2024-08-02,Reguler
+P00579,Putri Setiawan,Depok,2025-03-15,Reguler
+P00580,Farah Ramadhan,Denpasar,2024-03-22,Reguler
+P00581,Kirana Aditya,Bekasi,2024-02-16,Member
+P00582,Oki Hartono,Depok,2023-08-09,Reguler
+P00583,Zaki Lestari,Jakarta Selatan,2025-08-25,Reguler
+P00584,Irfan Ramadhan,Makassar,2025-01-01,Reguler
+P00585,Fajar Kusuma,Bandung,2025-09-25,Member
+P00586,Nanda Permana,Makassar,2023-07-08,Member
+P00587,Irfan Maulana,Surabaya,2025-01-24,Premium
+P00588,Maya Kusuma,Malang,2024-12-06,Reguler
+P00589,Dian Kusuma,Bekasi,2025-06-12,Premium
+P00590,Hana Wijaya,Jakarta Selatan,2023-06-02,Reguler
+P00591,Putri Permana,Semarang,2025-01-17,Premium
+P00592,Naufal Pratama,Bandung,2025-09-13,Reguler
+P00593,Rangga Aditya,Surabaya,2023-01-24,Member
+P00594,Lukman Kusuma,Jakarta Barat,2025-06-19,Member
+P00595,Rangga Pratama,Bandung,2024-02-02,Member
+P00596,Mila Firmansyah,Semarang,2023-12-10,Premium
+P00597,Rangga Ramadhan,Jakarta Selatan,2024-11-01,Reguler
+P00598,Irfan Halim,Yogyakarta,2024-07-16,Member
+P00599,Maya Ramadhan,Jakarta Selatan,2025-08-12,Reguler
+P00600,Dian Suryani,Surabaya,2024-05-10,Reguler
+P00601,Lukman Rahayu,Makassar,2023-03-04,Premium
+P00602,Hesti Permana,Depok,2025-04-23,Reguler
+P00603,Bayu Firmansyah,Jakarta Barat,2024-09-23,Member
+P00604,Yanti Nugroho,Tangerang Selatan,2024-12-27,Reguler
+P00605,Lestari Halim,Jakarta Barat,2025-03-26,Reguler
+P00606,Eka Lestari,Surabaya,2024-10-01,Reguler
+P00607,Kartika Hartono,Depok,2025-08-05,Reguler
+P00608,Zaki Anggraini,Jakarta Barat,2023-11-12,Reguler
+P00609,Farah Hartono,Bekasi,2024-10-19,Reguler
+P00610,Wahyu Gunawan,Malang,2024-07-28,Member
+P00611,Eka Maulana,Jakarta Barat,2023-11-25,Member
+P00612,Kirana Suryani,Yogyakarta,2023-03-24,Reguler
+P00613,Sari Suryani,Yogyakarta,2024-02-20,Member
+P00614,Yanti Lestari,Surabaya,2024-12-15,Member
+P00615,Galih Gunawan,Bekasi,2023-11-18,Reguler
+P00616,Irfan Saputra,Jakarta Selatan,2025-04-25,Reguler
+P00617,Hana Wijaya,Jakarta Selatan,2023-09-03,Member
+P00618,Maya Kusuma,Makassar,2025-03-06,Reguler
+P00619,Indra Wijaya,Semarang,2023-06-20,Reguler
+P00620,Joko Maulana,Surabaya,2024-09-14,Reguler
+P00621,Farah Rahayu,Malang,2023-01-10,Reguler
+P00622,Indra Anggraini,Depok,2024-01-02,Member
+P00623,Lestari Suryani,Jakarta Barat,2025-08-10,Member
+P00624,Lukman Saputra,Semarang,2023-02-09,Reguler
+P00625,Indra Hartono,Makassar,2023-12-28,Reguler
+P00626,Vina Anggraini,Semarang,2023-06-20,Reguler
+P00627,Oki Santoso,Depok,2024-04-15,Reguler
+P00628,Udin Puspita,Malang,2024-08-04,Reguler
+P00629,Mila Puspita,Jakarta Selatan,2024-07-19,Reguler
+P00630,Dewi Pratama,Bekasi,2025-08-19,Reguler
+P00631,Wahyu Kusuma,Jakarta Barat,2024-11-07,Member
+P00632,Vina Ramadhan,Jakarta Barat,2024-08-06,Reguler
+P00633,Kartika Lestari,Jakarta Selatan,2023-02-03,Member
+P00634,Dian Anggraini,Malang,2025-02-03,Reguler
+P00635,Putri Firmansyah,Denpasar,2024-11-08,Reguler
+P00636,Putri Lestari,Bandung,2023-11-29,Reguler
+P00637,Sari Hartono,Tangerang Selatan,2023-10-21,Member
+P00638,Bayu Kusuma,Depok,2025-01-14,Member
+P00639,Fajar Saputra,Surabaya,2025-08-06,Reguler
+P00640,Rangga Permana,Jakarta Barat,2025-06-09,Reguler
+P00641,Hana Suryani,Tangerang Selatan,2023-07-11,Member
+P00642,Fajar Setiawan,Bekasi,2023-09-27,Premium
+P00643,Citra Santoso,Tangerang Selatan,2023-09-06,Member
+P00644,Irfan Halim,Tangerang Selatan,2023-08-21,Reguler
+P00645,Mila Kusuma,Jakarta Selatan,2024-02-28,Premium
+P00646,Sari Pratama,Jakarta Selatan,2024-09-06,Reguler
+P00647,Udin Permana,Semarang,2025-03-24,Member
+P00648,Nanda Nugroho,Jakarta Selatan,2023-04-28,Reguler
+P00649,Fajar Suryani,Jakarta Selatan,2023-12-10,Reguler
+P00650,Kirana Saputra,Malang,2025-07-18,Member
+P00651,Jihan Santoso,Depok,2025-09-14,Reguler
+P00652,Eka Anggraini,Tangerang Selatan,2023-09-14,Member
+P00653,Kirana Rahayu,Bandung,2023-12-13,Reguler
+P00654,Rangga Rahayu,Surabaya,2023-10-22,Member
+P00655,Irfan Maulana,Jakarta Selatan,2024-06-17,Reguler
+P00656,Dian Rahayu,Makassar,2024-10-21,Premium
+P00657,Bayu Permana,Surabaya,2023-10-10,Reguler
+P00658,Indra Suryani,Malang,2025-07-21,Premium
+P00659,Lestari Saputra,Bekasi,2023-10-14,Reguler
+P00660,Maya Anggraini,Surabaya,2024-02-14,Reguler
+P00661,Joko Wijaya,Jakarta Barat,2025-09-22,Reguler
+P00662,Joko Lestari,Surabaya,2024-11-07,Reguler
+P00663,Sari Ramadhan,Jakarta Selatan,2024-07-29,Premium
+P00664,Bayu Hartono,Surabaya,2023-07-15,Member
+P00665,Vina Aditya,Malang,2024-03-15,Member
+P00666,Lestari Suryani,Depok,2023-07-09,Member
+P00667,Citra Anggraini,Bandung,2024-09-16,Reguler
+P00668,Yanti Kusuma,Depok,2024-02-23,Member
+P00669,Hesti Ramadhan,Bandung,2024-04-28,Member
+P00670,Udin Saputra,Depok,2025-01-02,Member
+P00671,Tono Nugroho,Bekasi,2024-09-10,Member
+P00672,Putri Hartono,Makassar,2024-01-15,Reguler
+P00673,Yanti Maulana,Depok,2023-01-29,Premium
+P00674,Rangga Santoso,Malang,2024-09-07,Reguler
+P00675,Yanti Lestari,Bekasi,2023-05-16,Reguler
+P00676,Dian Saputra,Surabaya,2025-06-22,Reguler
+P00677,Putri Ramadhan,Bekasi,2024-05-26,Reguler
+P00678,Jihan Wijaya,Tangerang Selatan,2025-09-22,Reguler
+P00679,Okta Wijaya,Jakarta Selatan,2023-09-08,Reguler
+P00680,Dewi Anggraini,Makassar,2024-07-03,Reguler
+P00681,Hesti Lestari,Yogyakarta,2025-06-28,Reguler
+P00682,Oki Gunawan,Bandung,2023-03-09,Member
+P00683,Joko Hartono,Depok,2024-03-07,Reguler
+P00684,Citra Rahayu,Malang,2024-12-22,Member
+P00685,Indra Santoso,Bekasi,2025-02-21,Reguler
+P00686,Maya Puspita,Bekasi,2024-07-19,Reguler
+P00687,Hesti Maulana,Surabaya,2025-09-14,Reguler
+P00688,Naufal Nugroho,Depok,2023-02-21,Reguler
+P00689,Oki Suryani,Jakarta Barat,2023-05-24,Reguler
+P00690,Gita Ramadhan,Bandung,2024-06-15,Reguler
+P00691,Dian Gunawan,Tangerang Selatan,2024-07-03,Premium
+P00692,Gita Maulana,Semarang,2025-03-12,Reguler
+P00693,Adi Setiawan,Bandung,2024-12-30,Reguler
+P00694,Lestari Kusuma,Jakarta Selatan,2025-08-20,Reguler
+P00695,Adi Saputra,Surabaya,2023-10-29,Reguler
+P00696,Indra Maulana,Tangerang Selatan,2024-12-23,Member
+P00697,Fajar Hartono,Jakarta Selatan,2023-04-26,Member
+P00698,Yanti Ramadhan,Semarang,2024-07-16,Member
+P00699,Vina Hartono,Jakarta Selatan,2024-09-08,Reguler
+P00700,Bayu Pratama,Makassar,2025-02-03,Reguler
+P00701,Budi Aditya,Yogyakarta,2023-01-31,Reguler
+P00702,Vina Ramadhan,Malang,2023-09-12,Reguler
+P00703,Vina Hartono,Denpasar,2025-03-25,Reguler
+P00704,Hesti Gunawan,Tangerang Selatan,2023-08-22,Reguler
+P00705,Galih Suryani,Tangerang Selatan,2023-02-19,Reguler
+P00706,Irfan Permana,Malang,2025-09-23,Member
+P00707,Jihan Saputra,Jakarta Selatan,2025-01-04,Reguler
+P00708,Joko Hartono,Bekasi,2025-08-02,Reguler
+P00709,Kirana Setiawan,Jakarta Barat,2024-12-19,Premium
+P00710,Eka Suryani,Bekasi,2023-09-17,Member
+P00711,Dewi Suryani,Tangerang Selatan,2024-07-26,Reguler
+P00712,Hesti Setiawan,Malang,2024-08-20,Reguler
+P00713,Galih Lestari,Tangerang Selatan,2025-05-29,Member
+P00714,Indra Hartono,Depok,2023-12-19,Reguler
+P00715,Kirana Wijaya,Jakarta Selatan,2024-10-29,Reguler
+P00716,Putri Puspita,Malang,2023-10-01,Member
+P00717,Hesti Hartono,Malang,2024-03-23,Premium
+P00718,Vina Wijaya,Tangerang Selatan,2023-09-10,Reguler
+P00719,Lukman Lestari,Bandung,2025-04-04,Member
+P00720,Oki Setiawan,Yogyakarta,2025-08-25,Member
+P00721,Udin Setiawan,Surabaya,2023-07-08,Premium
+P00722,Bayu Wijaya,Malang,2024-06-22,Member
+P00723,Zaki Santoso,Surabaya,2023-11-19,Reguler
+P00724,Mila Puspita,Bekasi,2024-09-17,Reguler
+P00725,Hesti Maulana,Malang,2024-05-12,Member
+P00726,Nanda Permana,Bandung,2024-03-07,Reguler
+P00727,Oki Wijaya,Surabaya,2023-11-09,Member
+P00728,Dewi Anggraini,Semarang,2025-09-20,Reguler
+P00729,Naufal Anggraini,Makassar,2025-08-02,Reguler
+P00730,Galih Permana,Tangerang Selatan,2025-06-02,Reguler
+P00731,Tono Anggraini,Jakarta Selatan,2024-09-05,Member
+P00732,Kartika Aditya,Malang,2024-02-05,Member
+P00733,Okta Setiawan,Yogyakarta,2025-06-07,Reguler
+P00734,Lestari Hartono,Jakarta Barat,2025-01-27,Member
+P00735,Zaki Firmansyah,Makassar,2025-08-30,Reguler
+P00736,Adi Permana,Tangerang Selatan,2025-01-17,Reguler
+P00737,Tono Puspita,Denpasar,2024-12-25,Premium
+P00738,Gita Puspita,Bekasi,2024-12-14,Reguler
+P00739,Sari Ramadhan,Tangerang Selatan,2025-03-21,Reguler
+P00740,Putri Maulana,Jakarta Selatan,2023-01-17,Member
+P00741,Citra Maulana,Jakarta Barat,2023-08-08,Reguler
+P00742,Mila Hartono,Jakarta Selatan,2023-04-26,Premium
+P00743,Farah Maulana,Tangerang Selatan,2025-09-25,Premium
+P00744,Rangga Nugroho,Bekasi,2025-08-01,Reguler
+P00745,Citra Setiawan,Jakarta Barat,2023-09-15,Member
+P00746,Zaki Kusuma,Denpasar,2024-05-03,Reguler
+P00747,Wahyu Hartono,Bandung,2025-04-03,Reguler
+P00748,Hana Santoso,Bandung,2023-04-16,Reguler
+P00749,Hana Permana,Bandung,2023-07-23,Reguler
+P00750,Citra Nugroho,Denpasar,2024-05-20,Reguler
+P00751,Udin Saputra,Denpasar,2024-02-22,Member
+P00752,Maya Santoso,Jakarta Selatan,2023-01-06,Reguler
+P00753,Zaki Halim,Depok,2025-09-21,Premium
+P00754,Indra Ramadhan,Surabaya,2025-03-14,Member
+P00755,Zaki Hartono,Semarang,2025-03-14,Reguler
+P00756,Maya Nugroho,Semarang,2023-04-23,Member
+P00757,Nanda Nugroho,Jakarta Barat,2025-05-18,Reguler
+P00758,Tono Halim,Depok,2023-01-25,Reguler
+P00759,Lukman Setiawan,Bandung,2024-04-24,Reguler
+P00760,Fajar Setiawan,Bekasi,2024-07-28,Member
+P00761,Kartika Santoso,Tangerang Selatan,2023-10-25,Member
+P00762,Eka Suryani,Bandung,2025-08-17,Reguler
+P00763,Putri Hartono,Jakarta Selatan,2023-07-24,Premium
+P00764,Jihan Permana,Makassar,2023-02-03,Reguler
+P00765,Naufal Nugroho,Bandung,2023-09-01,Member
+P00766,Lukman Halim,Bandung,2025-08-22,Member
+P00767,Lukman Pratama,Denpasar,2025-02-02,Member
+P00768,Hana Maulana,Jakarta Selatan,2024-11-30,Premium
+P00769,Wahyu Saputra,Bandung,2023-02-09,Reguler
+P00770,Fajar Hartono,Bandung,2023-08-25,Reguler
+P00771,Adi Suryani,Makassar,2024-05-29,Reguler
+P00772,Rangga Ramadhan,Bekasi,2025-01-17,Member
+P00773,Lestari Kusuma,Bandung,2025-03-16,Reguler
+P00774,Zaki Santoso,Denpasar,2023-11-18,Member
+P00775,Farah Pratama,Jakarta Barat,2023-12-26,Reguler
+P00776,Udin Santoso,Bandung,2023-03-07,Reguler
+P00777,Lestari Ramadhan,Bandung,2023-02-03,Reguler
+P00778,Tono Permana,Malang,2023-05-24,Reguler
+P00779,Lestari Suryani,Tangerang Selatan,2023-05-22,Premium
+P00780,Oki Puspita,Depok,2024-02-25,Reguler
+P00781,Hesti Pratama,Denpasar,2023-06-28,Reguler
+P00782,Hana Pratama,Bekasi,2023-11-06,Member
+P00783,Gita Rahayu,Jakarta Barat,2024-05-18,Reguler
+P00784,Lestari Rahayu,Malang,2024-05-19,Member
+P00785,Dewi Gunawan,Jakarta Barat,2023-06-14,Reguler
+P00786,Naufal Lestari,Jakarta Barat,2024-08-19,Reguler
+P00787,Zaki Halim,Semarang,2023-08-22,Reguler
+P00788,Naufal Halim,Malang,2023-08-20,Reguler
+P00789,Rangga Maulana,Makassar,2023-01-16,Reguler
+P00790,Hesti Anggraini,Bekasi,2023-01-28,Reguler
+P00791,Rangga Saputra,Jakarta Barat,2024-05-20,Member
+P00792,Joko Halim,Jakarta Selatan,2023-10-25,Reguler
+P00793,Gita Permana,Bandung,2023-02-24,Reguler
+P00794,Galih Gunawan,Tangerang Selatan,2024-11-03,Reguler
+P00795,Tono Nugroho,Jakarta Barat,2025-05-31,Reguler
+P00796,Joko Hartono,Bandung,2023-11-05,Reguler
+P00797,Citra Santoso,Surabaya,2025-08-19,Reguler
+P00798,Kirana Lestari,Jakarta Selatan,2025-07-04,Reguler
+P00799,Okta Pratama,Surabaya,2023-01-04,Reguler
+P00800,Galih Nugroho,Tangerang Selatan,2025-03-26,Premium
+P00801,Hana Anggraini,Denpasar,2025-01-23,Reguler
+P00802,Udin Firmansyah,Bandung,2025-06-30,Reguler
+P00803,Yanti Permana,Depok,2023-12-02,Member
+P00804,Jihan Aditya,Bekasi,2025-06-18,Member
+P00805,Bayu Puspita,Jakarta Barat,2025-02-17,Member
+P00806,Adi Anggraini,Jakarta Barat,2025-09-20,Member
+P00807,Zaki Setiawan,Jakarta Barat,2024-06-11,Reguler
+P00808,Tono Maulana,Yogyakarta,2024-08-01,Member
+P00809,Joko Hartono,Tangerang Selatan,2024-10-18,Reguler
+P00810,Hesti Suryani,Jakarta Selatan,2023-06-17,Member
+P00811,Farah Suryani,Tangerang Selatan,2023-10-28,Reguler
+P00812,Maya Rahayu,Jakarta Barat,2024-03-01,Reguler
+P00813,Lukman Aditya,Bekasi,2023-07-15,Reguler
+P00814,Maya Aditya,Bandung,2023-12-09,Premium
+P00815,Fajar Maulana,Denpasar,2024-02-14,Premium
+P00816,Vina Setiawan,Semarang,2024-03-18,Reguler
+P00817,Tono Gunawan,Bekasi,2025-09-20,Member
+P00818,Irfan Ramadhan,Bandung,2024-12-16,Premium
+P00819,Budi Firmansyah,Depok,2023-10-05,Member
+P00820,Indra Permana,Tangerang Selatan,2025-06-09,Premium
+P00821,Naufal Halim,Depok,2025-01-19,Member
+P00822,Bayu Hartono,Denpasar,2024-02-05,Reguler
+P00823,Nanda Saputra,Depok,2023-04-16,Reguler
+P00824,Maya Lestari,Depok,2023-11-15,Reguler
+P00825,Kartika Ramadhan,Jakarta Barat,2024-02-19,Member
+P00826,Lestari Hartono,Bandung,2025-08-25,Reguler
+P00827,Galih Wijaya,Yogyakarta,2024-03-20,Member
+P00828,Okta Hartono,Bandung,2024-03-20,Reguler
+P00829,Oki Hartono,Jakarta Barat,2025-01-01,Reguler
+P00830,Lukman Setiawan,Bekasi,2024-04-05,Member
+P00831,Dewi Aditya,Yogyakarta,2023-01-04,Reguler
+P00832,Sari Suryani,Tangerang Selatan,2023-07-01,Premium
+P00833,Budi Saputra,Surabaya,2023-03-21,Premium
+P00834,Maya Rahayu,Malang,2025-06-04,Reguler
+P00835,Citra Saputra,Jakarta Selatan,2023-06-25,Member
+P00836,Putri Wijaya,Jakarta Selatan,2025-03-24,Reguler
+P00837,Yanti Gunawan,Surabaya,2023-07-19,Reguler
+P00838,Dewi Halim,Depok,2023-01-13,Reguler
+P00839,Wahyu Permana,Bekasi,2025-03-29,Reguler
+P00840,Indra Kusuma,Surabaya,2024-04-18,Member
+P00841,Putri Kusuma,Semarang,2025-07-10,Member
+P00842,Adi Halim,Bekasi,2024-05-21,Premium
+P00843,Putri Rahayu,Jakarta Selatan,2024-01-13,Reguler
+P00844,Rangga Halim,Jakarta Selatan,2023-06-20,Reguler
+P00845,Joko Permana,Bandung,2025-07-08,Member
+P00846,Indra Pratama,Malang,2025-05-29,Reguler
+P00847,Dewi Gunawan,Jakarta Selatan,2025-09-14,Member
+P00848,Hesti Nugroho,Depok,2024-10-11,Reguler
+P00849,Farah Rahayu,Bekasi,2024-10-24,Member
+P00850,Mila Gunawan,Makassar,2025-08-03,Member
+P00851,Lukman Anggraini,Jakarta Barat,2024-05-21,Member
+P00852,Putri Gunawan,Tangerang Selatan,2024-01-08,Reguler
+P00853,Vina Ramadhan,Surabaya,2024-01-08,Reguler
+P00854,Bayu Ramadhan,Surabaya,2025-05-21,Reguler
+P00855,Indra Ramadhan,Malang,2025-03-11,Member
+P00856,Jihan Maulana,Denpasar,2025-07-26,Reguler
+P00857,Jihan Suryani,Surabaya,2025-05-09,Reguler
+P00858,Putri Halim,Malang,2023-07-04,Member
+P00859,Joko Lestari,Makassar,2025-06-15,Premium
+P00860,Galih Kusuma,Depok,2025-04-12,Reguler
+P00861,Farah Ramadhan,Denpasar,2025-09-17,Reguler
+P00862,Galih Suryani,Surabaya,2025-04-09,Reguler
+P00863,Mila Wijaya,Depok,2023-03-30,Reguler
+P00864,Naufal Permana,Tangerang Selatan,2024-12-07,Reguler
+P00865,Zaki Santoso,Surabaya,2024-03-04,Member
+P00866,Wahyu Maulana,Makassar,2025-08-08,Reguler
+P00867,Adi Nugroho,Malang,2024-02-14,Reguler
+P00868,Irfan Gunawan,Semarang,2025-04-23,Reguler
+P00869,Hana Gunawan,Jakarta Selatan,2024-06-06,Reguler
+P00870,Eka Anggraini,Semarang,2023-04-05,Member
+P00871,Udin Kusuma,Surabaya,2023-02-25,Member
+P00872,Gita Rahayu,Jakarta Selatan,2025-05-17,Reguler
+P00873,Lestari Puspita,Tangerang Selatan,2025-07-02,Member
+P00874,Hana Ramadhan,Jakarta Selatan,2024-01-24,Reguler
+P00875,Rangga Kusuma,Bandung,2024-12-19,Reguler
+P00876,Gita Rahayu,Bekasi,2025-07-15,Premium
+P00877,Naufal Suryani,Bandung,2024-12-05,Premium
+P00878,Okta Santoso,Bandung,2024-06-18,Member
+P00879,Irfan Firmansyah,Depok,2023-08-21,Reguler
+P00880,Dewi Gunawan,Surabaya,2024-05-10,Member
+P00881,Jihan Pratama,Makassar,2025-05-01,Reguler
+P00882,Kirana Wijaya,Yogyakarta,2025-05-20,Reguler
+P00883,Yanti Saputra,Surabaya,2024-06-23,Reguler
+P00884,Gita Suryani,Malang,2023-04-16,Member
+P00885,Hesti Wijaya,Makassar,2023-07-08,Reguler
+P00886,Galih Nugroho,Denpasar,2024-08-24,Reguler
+P00887,Jihan Gunawan,Jakarta Barat,2024-11-02,Reguler
+P00888,Bayu Setiawan,Depok,2023-12-27,Member
+P00889,Sari Puspita,Tangerang Selatan,2024-07-19,Reguler
+P00890,Hesti Halim,Jakarta Selatan,2025-03-22,Reguler
+P00891,Jihan Halim,Malang,2023-07-29,Reguler
+P00892,Nanda Setiawan,Yogyakarta,2023-10-29,Reguler
+P00893,Sari Hartono,Bekasi,2024-08-02,Member
+P00894,Udin Setiawan,Bandung,2024-02-17,Reguler
+P00895,Mila Suryani,Jakarta Barat,2025-05-26,Member
+P00896,Sari Pratama,Bandung,2024-09-29,Premium
+P00897,Sari Firmansyah,Jakarta Barat,2025-01-02,Reguler
+P00898,Indra Setiawan,Semarang,2023-01-19,Reguler
+P00899,Indra Saputra,Jakarta Barat,2023-12-02,Reguler
+P00900,Hesti Kusuma,Depok,2025-06-16,Member
+P00901,Joko Nugroho,Semarang,2023-07-25,Premium
+P00902,Joko Lestari,Makassar,2023-07-18,Reguler
+P00903,Vina Puspita,Yogyakarta,2024-12-31,Reguler
+P00904,Budi Aditya,Bekasi,2023-11-20,Reguler
+P00905,Okta Hartono,Denpasar,2025-06-13,Reguler
+P00906,Dewi Pratama,Denpasar,2023-02-16,Reguler
+P00907,Zaki Wijaya,Bekasi,2023-02-04,Reguler
+P00908,Hesti Pratama,Semarang,2023-04-24,Reguler
+P00909,Naufal Permana,Jakarta Selatan,2025-08-01,Reguler
+P00910,Vina Rahayu,Bandung,2023-12-26,Member
+P00911,Indra Nugroho,Depok,2023-04-15,Reguler
+P00912,Udin Puspita,Depok,2024-11-21,Member
+P00913,Lukman Maulana,Semarang,2023-12-26,Reguler
+P00914,Galih Puspita,Surabaya,2023-05-18,Member
+P00915,Kirana Kusuma,Bandung,2024-04-04,Reguler
+P00916,Kirana Pratama,Denpasar,2023-12-26,Member
+P00917,Citra Puspita,Makassar,2025-03-23,Member
+P00918,Bayu Firmansyah,Yogyakarta,2023-12-31,Reguler
+P00919,Joko Wijaya,Makassar,2025-04-13,Premium
+P00920,Sari Firmansyah,Semarang,2024-02-11,Member
+P00921,Budi Pratama,Surabaya,2023-09-18,Reguler
+P00922,Rangga Wijaya,Semarang,2023-10-29,Reguler
+P00923,Bayu Kusuma,Surabaya,2023-02-02,Premium
+P00924,Lestari Santoso,Jakarta Barat,2025-06-10,Reguler
+P00925,Naufal Gunawan,Jakarta Selatan,2023-08-01,Member
+P00926,Galih Permana,Malang,2023-02-07,Reguler
+P00927,Gita Setiawan,Makassar,2024-11-06,Member
+P00928,Budi Pratama,Surabaya,2024-04-24,Premium
+P00929,Zaki Aditya,Bandung,2023-09-24,Reguler
+P00930,Mila Aditya,Jakarta Selatan,2023-03-04,Reguler
+P00931,Jihan Hartono,Depok,2024-02-20,Member
+P00932,Wahyu Halim,Makassar,2025-03-18,Reguler
+P00933,Putri Firmansyah,Jakarta Selatan,2024-05-10,Member
+P00934,Oki Lestari,Bandung,2023-10-02,Reguler
+P00935,Okta Ramadhan,Semarang,2023-12-08,Reguler
+P00936,Udin Rahayu,Jakarta Selatan,2023-07-09,Member
+P00937,Jihan Halim,Depok,2025-07-25,Member
+P00938,Naufal Santoso,Denpasar,2025-08-28,Reguler
+P00939,Zaki Lestari,Depok,2025-03-20,Member
+P00940,Lukman Maulana,Depok,2025-09-14,Reguler
+P00941,Gita Setiawan,Yogyakarta,2024-11-16,Member
+P00942,Farah Aditya,Jakarta Selatan,2024-11-12,Reguler
+P00943,Kirana Aditya,Bandung,2024-11-22,Reguler
+P00944,Jihan Santoso,Jakarta Barat,2024-12-18,Reguler
+P00945,Zaki Setiawan,Surabaya,2024-07-17,Reguler
+P00946,Wahyu Kusuma,Bekasi,2024-11-27,Reguler
+P00947,Farah Suryani,Surabaya,2025-03-14,Reguler
+P00948,Oki Ramadhan,Bekasi,2025-01-31,Reguler
+P00949,Citra Suryani,Malang,2023-01-20,Reguler
+P00950,Dewi Rahayu,Denpasar,2025-04-16,Reguler
+P00951,Yanti Anggraini,Yogyakarta,2023-03-02,Reguler
+P00952,Tono Aditya,Jakarta Barat,2025-08-07,Member
+P00953,Okta Nugroho,Bandung,2025-04-27,Reguler
+P00954,Irfan Puspita,Jakarta Barat,2024-06-23,Reguler
+P00955,Maya Pratama,Bandung,2023-09-04,Reguler
+P00956,Gita Lestari,Yogyakarta,2024-07-17,Member
+P00957,Kartika Santoso,Makassar,2024-04-18,Reguler
+P00958,Jihan Lestari,Jakarta Barat,2024-06-02,Premium
+P00959,Okta Suryani,Depok,2023-10-11,Reguler
+P00960,Hesti Setiawan,Makassar,2023-07-14,Reguler
+P00961,Nanda Setiawan,Jakarta Barat,2023-02-27,Member
+P00962,Vina Permana,Depok,2023-11-10,Reguler
+P00963,Maya Lestari,Makassar,2023-09-12,Member
+P00964,Wahyu Nugroho,Yogyakarta,2023-06-13,Reguler
+P00965,Joko Wijaya,Surabaya,2024-09-20,Member
+P00966,Kartika Rahayu,Bekasi,2025-01-09,Member
+P00967,Zaki Saputra,Depok,2023-08-08,Reguler
+P00968,Sari Maulana,Bekasi,2025-07-18,Reguler
+P00969,Irfan Halim,Depok,2025-05-13,Reguler
+P00970,Citra Halim,Jakarta Selatan,2023-11-24,Reguler
+P00971,Gita Rahayu,Denpasar,2023-10-28,Reguler
+P00972,Bayu Maulana,Surabaya,2024-05-08,Reguler
+P00973,Jihan Anggraini,Bekasi,2023-04-16,Reguler
+P00974,Irfan Saputra,Bandung,2025-03-04,Reguler
+P00975,Galih Saputra,Jakarta Selatan,2024-06-24,Reguler
+P00976,Jihan Wijaya,Yogyakarta,2024-06-06,Reguler
+P00977,Vina Lestari,Semarang,2024-02-28,Member
+P00978,Mila Rahayu,Makassar,2024-11-24,Reguler
+P00979,Wahyu Maulana,Jakarta Barat,2025-08-11,Reguler
+P00980,Sari Wijaya,Bandung,2023-10-08,Member
+P00981,Tono Nugroho,Bekasi,2024-06-11,Reguler
+P00982,Oki Saputra,Jakarta Barat,2023-03-26,Reguler
+P00983,Vina Halim,Makassar,2023-05-30,Member
+P00984,Dian Setiawan,Bekasi,2023-01-22,Premium
+P00985,Bayu Maulana,Tangerang Selatan,2025-03-11,Reguler
+P00986,Dian Wijaya,Semarang,2024-12-31,Reguler
+P00987,Citra Gunawan,Jakarta Barat,2023-08-18,Reguler
+P00988,Irfan Ramadhan,Denpasar,2024-08-28,Member
+P00989,Maya Ramadhan,Jakarta Barat,2023-09-04,Premium
+P00990,Adi Ramadhan,Jakarta Barat,2025-08-31,Reguler
+P00991,Maya Lestari,Bekasi,2025-08-27,Reguler
+P00992,Fajar Rahayu,Tangerang Selatan,2025-07-05,Member
+P00993,Naufal Lestari,Jakarta Barat,2024-06-29,Reguler
+P00994,Wahyu Kusuma,Surabaya,2023-08-31,Reguler
+P00995,Putri Wijaya,Bekasi,2025-08-30,Member
+P00996,Kirana Anggraini,Bandung,2025-01-22,Member
+P00997,Yanti Setiawan,Jakarta Barat,2023-05-23,Premium
+P00998,Wahyu Maulana,Jakarta Selatan,2025-01-10,Reguler
+P00999,Hana Rahayu,Semarang,2025-04-07,Member
+P01000,Rangga Aditya,Bekasi,2024-05-25,Member
+P01001,Yanti Aditya,Jakarta Selatan,2025-08-03,Reguler
+P01002,Jihan Nugroho,Depok,2023-06-29,Reguler
+P01003,Lestari Setiawan,Jakarta Selatan,2024-10-05,Reguler
+P01004,Dian Wijaya,Jakarta Selatan,2024-12-09,Reguler
+P01005,Oki Rahayu,Tangerang Selatan,2023-11-18,Member
+P01006,Joko Rahayu,Makassar,2025-06-15,Reguler
+P01007,Tono Suryani,Jakarta Barat,2023-09-19,Premium
+P01008,Oki Setiawan,Jakarta Selatan,2023-08-27,Reguler
+P01009,Dian Hartono,Depok,2025-05-04,Reguler
+P01010,Yanti Saputra,Makassar,2023-11-23,Reguler
+P01011,Udin Wijaya,Yogyakarta,2023-11-19,Member
+P01012,Dian Halim,Semarang,2023-02-09,Member
+P01013,Indra Pratama,Bekasi,2023-02-26,Member
+P01014,Kartika Kusuma,Malang,2024-08-13,Member
+P01015,Lukman Pratama,Surabaya,2025-06-08,Member
+P01016,Farah Puspita,Surabaya,2025-06-29,Reguler
+P01017,Hana Aditya,Bandung,2024-11-30,Reguler
+P01018,Eka Gunawan,Surabaya,2023-07-05,Reguler
+P01019,Kartika Pratama,Bandung,2025-07-05,Premium
+P01020,Lukman Santoso,Bekasi,2024-06-28,Member
+P01021,Farah Kusuma,Depok,2023-06-11,Reguler
+P01022,Galih Nugroho,Jakarta Selatan,2025-01-05,Member
+P01023,Dian Lestari,Semarang,2023-11-08,Reguler
+P01024,Dian Nugroho,Jakarta Barat,2025-03-09,Reguler
+P01025,Udin Gunawan,Depok,2024-10-03,Member
+P01026,Bayu Suryani,Depok,2023-04-05,Reguler
+P01027,Joko Kusuma,Semarang,2025-07-06,Member
+P01028,Putri Anggraini,Semarang,2025-07-24,Reguler
+P01029,Wahyu Permana,Bandung,2024-09-09,Reguler
+P01030,Joko Ramadhan,Depok,2023-12-28,Reguler
+P01031,Hana Hartono,Surabaya,2024-04-05,Member
+P01032,Hesti Nugroho,Malang,2025-07-26,Reguler
+P01033,Fajar Gunawan,Surabaya,2023-04-18,Reguler
+P01034,Wahyu Ramadhan,Denpasar,2024-09-19,Member
+P01035,Sari Halim,Jakarta Barat,2023-10-02,Reguler
+P01036,Hana Anggraini,Makassar,2025-04-14,Reguler
+P01037,Kartika Maulana,Depok,2023-02-06,Reguler
+P01038,Hana Ramadhan,Surabaya,2024-01-14,Member
+P01039,Adi Santoso,Jakarta Selatan,2023-02-10,Reguler
+P01040,Rangga Halim,Depok,2023-12-15,Reguler
+P01041,Oki Lestari,Jakarta Selatan,2025-01-07,Member
+P01042,Jihan Halim,Jakarta Selatan,2023-08-02,Member
+P01043,Udin Hartono,Semarang,2024-08-26,Reguler
+P01044,Okta Kusuma,Depok,2025-04-15,Reguler
+P01045,Citra Kusuma,Jakarta Selatan,2025-06-10,Reguler
+P01046,Rangga Saputra,Bekasi,2024-01-22,Reguler
+P01047,Irfan Lestari,Jakarta Barat,2023-03-15,Reguler
+P01048,Galih Santoso,Jakarta Selatan,2023-12-24,Reguler
+P01049,Okta Anggraini,Makassar,2024-01-30,Member
+P01050,Eka Setiawan,Bekasi,2024-11-05,Member
+P01051,Dewi Santoso,Bandung,2023-12-22,Reguler
+P01052,Eka Puspita,Bandung,2024-10-31,Reguler
+P01053,Okta Kusuma,Jakarta Barat,2023-04-08,Reguler
+P01054,Nanda Kusuma,Jakarta Selatan,2023-08-18,Reguler
+P01055,Lestari Kusuma,Jakarta Selatan,2024-12-21,Reguler
+P01056,Maya Kusuma,Yogyakarta,2023-12-08,Member
+P01057,Eka Halim,Tangerang Selatan,2023-11-13,Premium
+P01058,Yanti Puspita,Surabaya,2025-08-10,Premium
+P01059,Gita Hartono,Depok,2023-08-19,Premium
+P01060,Hesti Permana,Jakarta Barat,2025-05-01,Reguler
+P01061,Gita Permana,Depok,2023-03-31,Reguler
+P01062,Zaki Halim,Yogyakarta,2025-06-18,Member
+P01063,Putri Nugroho,Jakarta Selatan,2024-10-01,Member
+P01064,Gita Suryani,Jakarta Barat,2024-11-09,Reguler
+P01065,Lestari Hartono,Bekasi,2023-09-28,Reguler
+P01066,Lestari Suryani,Jakarta Barat,2025-02-04,Member
+P01067,Oki Aditya,Jakarta Barat,2025-09-02,Reguler
+P01068,Dewi Santoso,Surabaya,2023-01-23,Member
+P01069,Joko Firmansyah,Jakarta Selatan,2024-07-15,Member
+P01070,Dian Ramadhan,Surabaya,2023-07-17,Member
+P01071,Hana Gunawan,Depok,2023-09-09,Reguler
+P01072,Hesti Hartono,Tangerang Selatan,2023-04-09,Premium
+P01073,Galih Ramadhan,Depok,2024-02-26,Reguler
+P01074,Budi Aditya,Bandung,2023-08-02,Reguler
+P01075,Fajar Ramadhan,Jakarta Barat,2023-09-15,Premium
+P01076,Oki Kusuma,Semarang,2024-10-25,Member
+P01077,Budi Kusuma,Yogyakarta,2025-09-04,Reguler
+P01078,Kirana Nugroho,Bekasi,2023-12-15,Reguler
+P01079,Yanti Permana,Jakarta Selatan,2023-08-05,Member
+P01080,Bayu Halim,Tangerang Selatan,2024-03-30,Reguler
+P01081,Farah Anggraini,Surabaya,2023-11-04,Reguler
+P01082,Rangga Suryani,Jakarta Selatan,2024-04-22,Reguler
+P01083,Tono Maulana,Jakarta Barat,2025-05-24,Reguler
+P01084,Okta Suryani,Surabaya,2024-08-11,Member
+P01085,Wahyu Lestari,Malang,2023-03-16,Reguler
+P01086,Zaki Ramadhan,Semarang,2024-01-21,Reguler
+P01087,Vina Santoso,Surabaya,2025-08-20,Reguler
+P01088,Bayu Santoso,Tangerang Selatan,2024-11-14,Member
+P01089,Oki Halim,Denpasar,2025-01-20,Reguler
+P01090,Eka Puspita,Surabaya,2024-06-30,Reguler
+P01091,Budi Kusuma,Jakarta Barat,2023-02-21,Reguler
+P01092,Oki Ramadhan,Malang,2024-12-15,Member
+P01093,Lestari Permana,Bandung,2024-11-07,Reguler
+P01094,Rangga Gunawan,Jakarta Barat,2025-08-15,Member
+P01095,Kartika Wijaya,Jakarta Barat,2024-07-11,Member
+P01096,Lestari Saputra,Makassar,2023-08-12,Member
+P01097,Putri Halim,Bekasi,2025-09-25,Reguler
+P01098,Nanda Setiawan,Yogyakarta,2025-05-31,Member
+P01099,Bayu Saputra,Bandung,2024-10-24,Reguler
+P01100,Gita Lestari,Depok,2023-02-04,Reguler
+P01101,Vina Pratama,Bandung,2024-07-26,Member
+P01102,Lestari Halim,Bekasi,2023-01-23,Member
+P01103,Oki Aditya,Semarang,2024-11-11,Reguler
+P01104,Kirana Kusuma,Jakarta Barat,2023-02-06,Reguler
+P01105,Citra Puspita,Jakarta Selatan,2023-06-19,Member
+P01106,Hesti Saputra,Semarang,2025-06-21,Reguler
+P01107,Indra Anggraini,Jakarta Selatan,2023-01-20,Reguler
+P01108,Zaki Wijaya,Jakarta Barat,2023-12-07,Reguler
+P01109,Yanti Aditya,Surabaya,2023-06-23,Premium
+P01110,Indra Pratama,Yogyakarta,2025-05-15,Member
+P01111,Irfan Ramadhan,Tangerang Selatan,2024-11-24,Reguler
+P01112,Jihan Puspita,Depok,2025-01-27,Member
+P01113,Sari Hartono,Yogyakarta,2025-08-30,Member
+P01114,Yanti Aditya,Makassar,2023-11-26,Reguler
+P01115,Maya Nugroho,Bandung,2025-03-23,Member
+P01116,Mila Kusuma,Denpasar,2025-09-05,Reguler
+P01117,Sari Maulana,Jakarta Selatan,2024-09-10,Member
+P01118,Okta Setiawan,Bandung,2024-04-28,Reguler
+P01119,Hesti Santoso,Surabaya,2025-04-19,Reguler
+P01120,Bayu Suryani,Denpasar,2025-02-22,Reguler
+P01121,Galih Setiawan,Bandung,2023-07-12,Member
+P01122,Vina Ramadhan,Jakarta Selatan,2025-02-14,Reguler
+P01123,Vina Gunawan,Tangerang Selatan,2025-03-31,Member
+P01124,Putri Ramadhan,Semarang,2023-02-02,Member
+P01125,Hana Pratama,Bandung,2024-09-03,Reguler
+P01126,Gita Halim,Bandung,2023-08-24,Reguler
+P01127,Sari Maulana,Jakarta Barat,2025-06-19,Reguler
+P01128,Dian Maulana,Surabaya,2025-03-01,Reguler
+P01129,Jihan Puspita,Surabaya,2023-02-26,Reguler
+P01130,Eka Lestari,Surabaya,2024-06-04,Member
+P01131,Putri Hartono,Bandung,2025-02-24,Reguler
+P01132,Dewi Wijaya,Yogyakarta,2023-04-19,Reguler
+P01133,Dian Hartono,Depok,2024-07-24,Member
+P01134,Fajar Aditya,Jakarta Selatan,2024-09-09,Reguler
+P01135,Mila Rahayu,Yogyakarta,2025-08-07,Reguler
+P01136,Galih Suryani,Semarang,2023-08-08,Reguler
+P01137,Hesti Aditya,Semarang,2024-06-05,Reguler
+P01138,Lestari Maulana,Bandung,2023-11-19,Reguler
+P01139,Hesti Firmansyah,Semarang,2025-07-30,Member
+P01140,Indra Wijaya,Jakarta Selatan,2025-02-26,Reguler
+P01141,Dewi Wijaya,Bekasi,2024-07-20,Member
+P01142,Irfan Gunawan,Depok,2025-01-21,Reguler
+P01143,Hana Aditya,Bandung,2024-06-23,Premium
+P01144,Joko Pratama,Tangerang Selatan,2025-07-09,Reguler
+P01145,Eka Saputra,Tangerang Selatan,2024-08-10,Reguler
+P01146,Dian Permana,Tangerang Selatan,2023-04-16,Reguler
+P01147,Sari Permana,Tangerang Selatan,2024-05-20,Reguler
+P01148,Gita Gunawan,Jakarta Barat,2024-06-06,Reguler
+P01149,Yanti Aditya,Jakarta Selatan,2025-07-29,Premium
+P01150,Adi Firmansyah,Bandung,2024-07-17,Member
+P01151,Jihan Halim,Surabaya,2024-12-15,Reguler
+P01152,Naufal Nugroho,Bekasi,2023-12-06,Reguler
+P01153,Sari Hartono,Malang,2024-04-30,Member
+P01154,Budi Halim,Tangerang Selatan,2024-05-10,Reguler
+P01155,Citra Pratama,Tangerang Selatan,2023-06-29,Member
+P01156,Tono Maulana,Surabaya,2025-03-30,Premium
+P01157,Adi Ramadhan,Jakarta Selatan,2025-05-02,Reguler
+P01158,Lukman Rahayu,Bekasi,2024-06-06,Member
+P01159,Gita Halim,Tangerang Selatan,2023-04-18,Member
+P01160,Gita Firmansyah,Bekasi,2024-11-12,Reguler
+P01161,Adi Lestari,Bandung,2023-05-21,Premium
+P01162,Vina Rahayu,Jakarta Barat,2023-09-07,Reguler
+P01163,Fajar Setiawan,Surabaya,2025-06-29,Reguler
+P01164,Maya Suryani,Bandung,2025-08-30,Member
+P01165,Bayu Wijaya,Denpasar,2025-03-04,Reguler
+P01166,Budi Wijaya,Bekasi,2025-03-29,Reguler
+P01167,Irfan Aditya,Surabaya,2023-06-25,Member
+P01168,Adi Suryani,Jakarta Selatan,2023-01-21,Reguler
+P01169,Indra Puspita,Semarang,2023-11-29,Reguler
+P01170,Udin Wijaya,Bekasi,2025-01-22,Member
+P01171,Jihan Santoso,Yogyakarta,2025-09-04,Reguler
+P01172,Fajar Lestari,Surabaya,2024-03-17,Premium
+P01173,Adi Maulana,Malang,2023-12-14,Reguler
+P01174,Putri Santoso,Yogyakarta,2024-04-15,Member
+P01175,Joko Hartono,Bandung,2025-02-21,Reguler
+P01176,Udin Saputra,Tangerang Selatan,2024-03-31,Reguler
+P01177,Hana Puspita,Bandung,2024-03-16,Reguler
+P01178,Adi Setiawan,Jakarta Selatan,2023-01-19,Reguler
+P01179,Eka Wijaya,Jakarta Barat,2024-08-26,Member
+P01180,Mila Maulana,Jakarta Barat,2024-01-23,Reguler
+P01181,Eka Firmansyah,Bekasi,2023-08-24,Reguler
+P01182,Vina Suryani,Bekasi,2024-12-29,Premium
+P01183,Zaki Halim,Tangerang Selatan,2023-01-30,Reguler
+P01184,Jihan Kusuma,Bekasi,2023-08-09,Member
+P01185,Okta Kusuma,Denpasar,2024-09-04,Member
+P01186,Tono Pratama,Semarang,2025-03-31,Member
+P01187,Irfan Gunawan,Jakarta Barat,2024-06-10,Member
+P01188,Oki Saputra,Malang,2024-10-27,Reguler
+P01189,Tono Setiawan,Denpasar,2023-05-04,Member
+P01190,Putri Pratama,Bekasi,2024-03-30,Premium
+P01191,Eka Setiawan,Bekasi,2024-08-06,Member
+P01192,Eka Suryani,Surabaya,2025-08-03,Member
+P01193,Wahyu Firmansyah,Tangerang Selatan,2023-10-17,Reguler
+P01194,Mila Hartono,Tangerang Selatan,2025-07-10,Reguler
+P01195,Naufal Permana,Malang,2024-05-29,Reguler
+P01196,Indra Firmansyah,Jakarta Selatan,2024-10-10,Reguler
+P01197,Okta Ramadhan,Semarang,2024-08-21,Member
+P01198,Citra Puspita,Surabaya,2025-09-25,Reguler
+P01199,Kirana Ramadhan,Yogyakarta,2023-12-24,Premium
+P01200,Fajar Halim,Semarang,2025-04-08,Member
+P01201,Galih Saputra,Jakarta Selatan,2023-01-14,Reguler
+P01202,Vina Santoso,Jakarta Selatan,2024-07-05,Reguler
+P01203,Lukman Pratama,Bekasi,2024-09-22,Member
+P01204,Mila Gunawan,Jakarta Barat,2024-03-08,Reguler
+P01205,Farah Aditya,Jakarta Selatan,2023-09-22,Reguler
+P01206,Tono Wijaya,Denpasar,2024-12-27,Member
+P01207,Hesti Gunawan,Depok,2024-10-10,Reguler
+P01208,Rangga Santoso,Semarang,2023-07-31,Reguler
+P01209,Okta Firmansyah,Tangerang Selatan,2023-11-03,Member
+P01210,Bayu Nugroho,Semarang,2023-08-25,Reguler
+P01211,Dewi Aditya,Tangerang Selatan,2023-08-14,Member
+P01212,Bayu Ramadhan,Jakarta Selatan,2025-05-23,Reguler
+P01213,Maya Pratama,Bekasi,2023-08-28,Member
+P01214,Nanda Gunawan,Yogyakarta,2025-07-16,Member
+P01215,Fajar Pratama,Bekasi,2023-03-26,Reguler
+P01216,Kartika Suryani,Depok,2023-01-07,Reguler
+P01217,Bayu Puspita,Denpasar,2024-06-08,Member
+P01218,Hana Suryani,Makassar,2024-04-30,Member
+P01219,Kirana Gunawan,Surabaya,2025-09-13,Member
+P01220,Indra Halim,Jakarta Selatan,2024-02-07,Member
+P01221,Citra Nugroho,Yogyakarta,2023-11-24,Member
+P01222,Lestari Wijaya,Jakarta Selatan,2024-07-01,Member
+P01223,Kirana Rahayu,Tangerang Selatan,2024-01-05,Reguler
+P01224,Bayu Saputra,Malang,2024-05-18,Reguler
+P01225,Bayu Santoso,Yogyakarta,2025-05-17,Member
+P01226,Rangga Hartono,Makassar,2024-06-23,Reguler
+P01227,Dian Pratama,Bandung,2023-10-06,Reguler
+P01228,Mila Gunawan,Makassar,2024-06-16,Reguler
+P01229,Sari Saputra,Semarang,2023-07-03,Member
+P01230,Dewi Aditya,Jakarta Selatan,2024-03-03,Reguler
+P01231,Lestari Firmansyah,Jakarta Selatan,2024-03-26,Member
+P01232,Lukman Pratama,Jakarta Barat,2023-03-18,Reguler
+P01233,Indra Aditya,Semarang,2023-12-15,Member
+P01234,Hesti Kusuma,Jakarta Selatan,2023-07-22,Member
+P01235,Kartika Halim,Depok,2025-09-04,Reguler
+P01236,Kartika Hartono,Jakarta Barat,2023-06-08,Reguler
+P01237,Rangga Setiawan,Surabaya,2024-04-30,Premium
+P01238,Adi Anggraini,Depok,2025-08-03,Reguler
+P01239,Hesti Setiawan,Malang,2025-06-15,Premium
+P01240,Lestari Kusuma,Semarang,2025-01-28,Reguler
+P01241,Vina Wijaya,Surabaya,2025-06-07,Reguler
+P01242,Irfan Wijaya,Bandung,2023-03-25,Member
+P01243,Irfan Kusuma,Yogyakarta,2023-04-20,Reguler
+P01244,Fajar Halim,Jakarta Barat,2025-04-28,Member
+P01245,Lukman Permana,Surabaya,2025-09-12,Reguler
+P01246,Wahyu Santoso,Yogyakarta,2025-01-12,Reguler
+P01247,Kirana Nugroho,Surabaya,2024-08-15,Member
+P01248,Hana Kusuma,Jakarta Selatan,2024-01-30,Member
+P01249,Adi Halim,Jakarta Barat,2025-02-19,Premium
+P01250,Citra Maulana,Tangerang Selatan,2023-05-28,Reguler
+P01251,Sari Aditya,Depok,2023-08-31,Reguler
+P01252,Adi Setiawan,Bandung,2024-09-09,Member
+P01253,Citra Puspita,Denpasar,2025-02-22,Member
+P01254,Naufal Wijaya,Surabaya,2023-07-14,Member
+P01255,Sari Rahayu,Depok,2023-12-06,Reguler
+P01256,Irfan Setiawan,Denpasar,2025-03-11,Reguler
+P01257,Adi Suryani,Depok,2024-01-27,Member
+P01258,Kirana Ramadhan,Surabaya,2023-12-20,Reguler
+P01259,Joko Aditya,Bandung,2023-08-04,Reguler
+P01260,Jihan Firmansyah,Jakarta Barat,2025-03-25,Premium
+P01261,Zaki Halim,Tangerang Selatan,2024-07-22,Premium
+P01262,Hesti Lestari,Surabaya,2023-03-24,Premium
+P01263,Indra Anggraini,Surabaya,2025-09-17,Reguler
+P01264,Vina Suryani,Jakarta Selatan,2025-08-29,Member
+P01265,Hana Anggraini,Surabaya,2024-01-05,Reguler
+P01266,Hesti Nugroho,Malang,2023-12-24,Reguler
+P01267,Vina Kusuma,Makassar,2024-12-30,Member
+P01268,Tono Nugroho,Bandung,2025-06-06,Reguler
+P01269,Lestari Kusuma,Semarang,2023-11-14,Member
+P01270,Rangga Santoso,Bekasi,2024-01-18,Premium
+P01271,Kartika Gunawan,Surabaya,2023-07-03,Reguler
+P01272,Tono Permana,Bandung,2024-05-14,Premium
+P01273,Yanti Lestari,Jakarta Selatan,2025-04-29,Reguler
+P01274,Lukman Wijaya,Surabaya,2024-03-13,Reguler
+P01275,Putri Kusuma,Yogyakarta,2024-06-29,Member
+P01276,Fajar Setiawan,Jakarta Selatan,2024-11-30,Member
+P01277,Jihan Maulana,Jakarta Selatan,2024-02-15,Reguler
+P01278,Lukman Pratama,Denpasar,2024-04-14,Member
+P01279,Dian Saputra,Tangerang Selatan,2024-09-05,Premium
+P01280,Wahyu Ramadhan,Depok,2024-04-13,Reguler
+P01281,Hesti Pratama,Tangerang Selatan,2025-08-25,Premium
+P01282,Udin Suryani,Makassar,2024-08-01,Member
+P01283,Galih Setiawan,Bandung,2023-07-31,Member
+P01284,Wahyu Halim,Bekasi,2025-01-07,Reguler
+P01285,Dian Lestari,Denpasar,2025-03-14,Reguler
+P01286,Nanda Suryani,Semarang,2024-04-07,Reguler
+P01287,Lestari Nugroho,Jakarta Barat,2025-01-12,Reguler
+P01288,Fajar Nugroho,Surabaya,2023-12-24,Reguler
+P01289,Galih Aditya,Depok,2025-04-21,Reguler
+P01290,Kartika Permana,Bekasi,2024-11-20,Member
+P01291,Wahyu Permana,Depok,2025-04-30,Reguler
+P01292,Citra Anggraini,Makassar,2024-03-08,Reguler
+P01293,Bayu Puspita,Depok,2024-08-27,Member
+P01294,Rangga Nugroho,Tangerang Selatan,2025-01-31,Reguler
+P01295,Citra Hartono,Surabaya,2024-03-18,Reguler
+P01296,Bayu Nugroho,Tangerang Selatan,2024-11-09,Reguler
+P01297,Jihan Anggraini,Bandung,2023-10-30,Member
+P01298,Lestari Rahayu,Makassar,2024-10-25,Reguler
+P01299,Indra Maulana,Surabaya,2024-05-13,Reguler
+P01300,Vina Permana,Jakarta Selatan,2025-05-26,Reguler
+P01301,Jihan Firmansyah,Bekasi,2024-02-15,Member
+P01302,Kirana Ramadhan,Malang,2024-11-17,Reguler
+P01303,Hesti Aditya,Denpasar,2023-10-29,Reguler
+P01304,Oki Hartono,Depok,2024-03-18,Member
+P01305,Bayu Pratama,Jakarta Selatan,2025-03-17,Member
+P01306,Joko Aditya,Denpasar,2023-01-31,Reguler
+P01307,Hesti Kusuma,Makassar,2025-04-09,Member
+P01308,Vina Hartono,Surabaya,2023-01-06,Premium
+P01309,Dewi Wijaya,Semarang,2023-01-28,Member
+P01310,Kartika Halim,Bandung,2025-07-11,Reguler
+P01311,Vina Halim,Surabaya,2024-10-17,Reguler
+P01312,Dian Lestari,Surabaya,2023-08-18,Reguler
+P01313,Eka Santoso,Semarang,2024-03-16,Member
+P01314,Mila Setiawan,Bekasi,2023-09-02,Reguler
+P01315,Udin Saputra,Semarang,2024-02-13,Member
+P01316,Bayu Nugroho,Surabaya,2023-03-06,Reguler
+P01317,Okta Maulana,Jakarta Barat,2023-02-03,Reguler
+P01318,Udin Halim,Denpasar,2023-08-30,Member
+P01319,Jihan Lestari,Jakarta Selatan,2023-04-23,Member
+P01320,Rangga Hartono,Jakarta Selatan,2025-07-19,Reguler
+P01321,Dewi Permana,Jakarta Selatan,2023-11-09,Member
+P01322,Putri Suryani,Semarang,2025-08-16,Reguler
+P01323,Irfan Maulana,Bandung,2023-06-09,Member
+P01324,Hesti Ramadhan,Jakarta Selatan,2024-12-12,Reguler
+P01325,Maya Ramadhan,Yogyakarta,2023-12-20,Reguler
+P01326,Lestari Suryani,Malang,2023-04-04,Member
+P01327,Mila Santoso,Tangerang Selatan,2025-08-06,Member
+P01328,Kirana Anggraini,Jakarta Selatan,2023-08-01,Premium
+P01329,Citra Aditya,Tangerang Selatan,2025-01-23,Member
+P01330,Eka Firmansyah,Jakarta Barat,2025-03-07,Member
+P01331,Zaki Aditya,Jakarta Barat,2024-11-19,Reguler
+P01332,Kartika Anggraini,Jakarta Selatan,2024-08-31,Reguler
+P01333,Udin Puspita,Jakarta Selatan,2023-01-26,Premium
+P01334,Adi Setiawan,Surabaya,2025-08-13,Reguler
+P01335,Budi Gunawan,Surabaya,2023-01-07,Reguler
+P01336,Mila Permana,Depok,2023-11-18,Reguler
+P01337,Gita Suryani,Jakarta Selatan,2025-03-21,Member
+P01338,Gita Setiawan,Semarang,2023-03-31,Premium
+P01339,Tono Pratama,Bekasi,2024-07-18,Member
+P01340,Hana Puspita,Malang,2024-01-14,Member
+P01341,Naufal Anggraini,Yogyakarta,2024-07-07,Reguler
+P01342,Dian Ramadhan,Jakarta Selatan,2024-04-24,Premium
+P01343,Farah Rahayu,Semarang,2024-01-09,Reguler
+P01344,Lukman Kusuma,Bandung,2025-08-16,Member
+P01345,Citra Nugroho,Denpasar,2023-06-24,Member
+P01346,Okta Nugroho,Malang,2023-09-13,Reguler
+P01347,Dian Anggraini,Surabaya,2023-06-02,Reguler
+P01348,Zaki Halim,Malang,2023-07-29,Reguler
+P01349,Rangga Saputra,Denpasar,2023-03-08,Reguler
+P01350,Wahyu Anggraini,Tangerang Selatan,2025-09-19,Reguler
+P01351,Mila Maulana,Makassar,2024-02-05,Reguler
+P01352,Kirana Puspita,Jakarta Selatan,2025-08-11,Member
+P01353,Maya Ramadhan,Semarang,2025-04-03,Reguler
+P01354,Jihan Puspita,Makassar,2024-06-07,Reguler
+P01355,Bayu Gunawan,Jakarta Barat,2025-07-11,Member
+P01356,Mila Hartono,Malang,2024-04-05,Reguler
+P01357,Irfan Wijaya,Jakarta Barat,2023-12-02,Reguler
+P01358,Dian Suryani,Surabaya,2024-04-02,Reguler
+P01359,Maya Firmansyah,Surabaya,2025-02-14,Reguler
+P01360,Farah Saputra,Malang,2024-09-19,Member
+P01361,Zaki Suryani,Bandung,2025-08-02,Reguler
+P01362,Adi Puspita,Surabaya,2024-06-14,Reguler
+P01363,Zaki Nugroho,Surabaya,2024-05-03,Reguler
+P01364,Fajar Rahayu,Surabaya,2023-09-27,Reguler
+P01365,Fajar Halim,Bandung,2023-12-24,Reguler
+P01366,Irfan Kusuma,Surabaya,2024-09-22,Reguler
+P01367,Mila Santoso,Jakarta Barat,2024-08-28,Member
+P01368,Rangga Anggraini,Yogyakarta,2024-02-25,Reguler
+P01369,Farah Pratama,Jakarta Selatan,2024-11-12,Reguler
+P01370,Galih Saputra,Semarang,2023-11-13,Reguler
+P01371,Mila Hartono,Tangerang Selatan,2023-10-18,Reguler
+P01372,Sari Suryani,Jakarta Selatan,2023-06-14,Member
+P01373,Gita Saputra,Bekasi,2023-08-30,Reguler
+P01374,Galih Ramadhan,Yogyakarta,2024-08-22,Reguler
+P01375,Rangga Lestari,Jakarta Selatan,2024-03-15,Reguler
+P01376,Hana Santoso,Yogyakarta,2025-09-12,Reguler
+P01377,Irfan Pratama,Tangerang Selatan,2025-07-28,Member
+P01378,Fajar Kusuma,Malang,2025-08-19,Reguler
+P01379,Lukman Anggraini,Semarang,2024-07-10,Reguler
+P01380,Tono Puspita,Bandung,2024-05-30,Member
+P01381,Vina Hartono,Bekasi,2024-01-14,Reguler
+P01382,Sari Puspita,Bandung,2023-06-13,Reguler
+P01383,Indra Hartono,Depok,2023-04-22,Reguler
+P01384,Zaki Wijaya,Jakarta Selatan,2023-02-12,Reguler
+P01385,Fajar Kusuma,Semarang,2025-07-14,Reguler
+P01386,Bayu Firmansyah,Surabaya,2025-04-12,Premium
+P01387,Indra Maulana,Malang,2023-12-18,Reguler
+P01388,Indra Wijaya,Jakarta Selatan,2024-03-30,Premium
+P01389,Mila Suryani,Jakarta Selatan,2024-07-31,Member
+P01390,Indra Ramadhan,Yogyakarta,2025-01-06,Reguler
+P01391,Yanti Pratama,Yogyakarta,2025-02-25,Reguler
+P01392,Hesti Ramadhan,Jakarta Barat,2023-10-20,Member
+P01393,Wahyu Puspita,Jakarta Selatan,2023-07-09,Member
+P01394,Maya Wijaya,Bandung,2025-06-16,Reguler
+P01395,Nanda Puspita,Depok,2024-05-03,Premium
+P01396,Mila Rahayu,Surabaya,2024-05-12,Reguler
+P01397,Wahyu Setiawan,Bandung,2023-11-19,Reguler
+P01398,Okta Anggraini,Tangerang Selatan,2025-02-26,Member
+P01399,Irfan Halim,Bekasi,2025-08-17,Premium
+P01400,Indra Pratama,Depok,2024-10-01,Reguler
+P01401,Eka Gunawan,Jakarta Barat,2024-09-22,Member
+P01402,Fajar Gunawan,Surabaya,2024-11-20,Reguler
+P01403,Hesti Anggraini,Bekasi,2025-06-15,Reguler
+P01404,Farah Wijaya,Jakarta Barat,2024-05-05,Member
+P01405,Citra Anggraini,Yogyakarta,2025-03-19,Reguler
+P01406,Fajar Gunawan,Jakarta Selatan,2024-02-26,Member
+P01407,Joko Permana,Bandung,2024-03-31,Reguler
+P01408,Galih Maulana,Bandung,2024-11-16,Member
+P01409,Fajar Gunawan,Bekasi,2025-05-02,Reguler
+P01410,Bayu Ramadhan,Yogyakarta,2025-06-17,Reguler
+P01411,Mila Puspita,Malang,2024-10-16,Member
+P01412,Putri Anggraini,Semarang,2024-06-17,Reguler
+P01413,Jihan Saputra,Depok,2023-02-09,Member
+P01414,Vina Puspita,Jakarta Barat,2025-03-08,Reguler
+P01415,Yanti Pratama,Depok,2023-03-04,Premium
+P01416,Tono Santoso,Surabaya,2024-03-23,Reguler
+P01417,Putri Suryani,Bandung,2024-10-26,Reguler
+P01418,Maya Wijaya,Bandung,2023-05-05,Member
+P01419,Jihan Nugroho,Semarang,2025-09-13,Reguler
+P01420,Indra Wijaya,Jakarta Selatan,2023-10-18,Reguler
+P01421,Lestari Halim,Tangerang Selatan,2023-12-12,Reguler
+P01422,Mila Halim,Makassar,2024-11-05,Premium
+P01423,Lukman Nugroho,Surabaya,2025-06-28,Reguler
+P01424,Joko Ramadhan,Makassar,2024-09-07,Reguler
+P01425,Sari Hartono,Tangerang Selatan,2024-03-25,Reguler
+P01426,Dian Rahayu,Bekasi,2024-06-19,Reguler
+P01427,Maya Permana,Jakarta Barat,2025-06-19,Member
+P01428,Kirana Halim,Depok,2023-01-19,Reguler
+P01429,Sari Aditya,Jakarta Selatan,2023-01-31,Reguler
+P01430,Rangga Kusuma,Surabaya,2023-01-04,Member
+P01431,Lukman Setiawan,Depok,2023-02-25,Reguler
+P01432,Farah Permana,Surabaya,2025-02-21,Reguler
+P01433,Mila Kusuma,Jakarta Selatan,2024-01-12,Member
+P01434,Farah Pratama,Malang,2023-03-23,Reguler
+P01435,Udin Anggraini,Tangerang Selatan,2024-07-16,Reguler
+P01436,Hana Permana,Semarang,2024-03-11,Reguler
+P01437,Lukman Nugroho,Tangerang Selatan,2023-05-29,Reguler
+P01438,Udin Kusuma,Jakarta Selatan,2023-01-10,Reguler
+P01439,Indra Halim,Yogyakarta,2023-10-30,Premium
+P01440,Vina Nugroho,Bekasi,2025-04-21,Member
+P01441,Mila Wijaya,Denpasar,2024-02-11,Premium
+P01442,Zaki Suryani,Malang,2024-07-28,Reguler
+P01443,Hesti Santoso,Bekasi,2023-10-25,Member
+P01444,Gita Puspita,Surabaya,2024-11-14,Member
+P01445,Galih Firmansyah,Jakarta Selatan,2025-03-31,Reguler
+P01446,Lukman Hartono,Semarang,2023-12-18,Reguler
+P01447,Yanti Gunawan,Jakarta Barat,2024-01-22,Reguler
+P01448,Hesti Setiawan,Jakarta Selatan,2024-05-21,Reguler
+P01449,Adi Kusuma,Tangerang Selatan,2024-04-11,Reguler
+P01450,Putri Kusuma,Semarang,2023-08-25,Member
+P01451,Zaki Setiawan,Surabaya,2024-03-16,Member
+P01452,Wahyu Setiawan,Jakarta Selatan,2024-12-24,Reguler
+P01453,Gita Hartono,Jakarta Barat,2024-12-12,Reguler
+P01454,Maya Rahayu,Malang,2024-07-07,Reguler
+P01455,Yanti Aditya,Tangerang Selatan,2024-09-26,Premium
+P01456,Udin Gunawan,Bekasi,2023-09-05,Member
+P01457,Kirana Nugroho,Makassar,2025-04-09,Premium
+P01458,Naufal Hartono,Malang,2024-09-28,Member
+P01459,Lestari Setiawan,Bandung,2023-02-17,Member
+P01460,Lukman Setiawan,Malang,2024-07-20,Premium
+P01461,Irfan Setiawan,Malang,2024-03-26,Reguler
+P01462,Vina Nugroho,Yogyakarta,2023-10-03,Reguler
+P01463,Citra Kusuma,Bekasi,2024-04-21,Reguler
+P01464,Lukman Lestari,Jakarta Selatan,2023-05-22,Reguler
+P01465,Bayu Lestari,Jakarta Selatan,2025-03-23,Reguler
+P01466,Eka Rahayu,Surabaya,2024-09-22,Reguler
+P01467,Hesti Hartono,Malang,2023-09-11,Reguler
+P01468,Yanti Anggraini,Bekasi,2023-06-23,Member
+P01469,Dewi Kusuma,Malang,2025-07-24,Member
+P01470,Jihan Setiawan,Malang,2024-09-04,Member
+P01471,Maya Firmansyah,Jakarta Selatan,2023-01-13,Member
+P01472,Lukman Gunawan,Malang,2024-12-12,Reguler
+P01473,Naufal Anggraini,Bandung,2023-05-25,Reguler
+P01474,Galih Gunawan,Surabaya,2025-01-28,Reguler
+P01475,Lestari Puspita,Semarang,2023-04-06,Reguler
+P01476,Gita Kusuma,Malang,2024-11-17,Reguler
+P01477,Jihan Saputra,Surabaya,2024-11-13,Reguler
+P01478,Wahyu Lestari,Depok,2023-09-18,Reguler
+P01479,Yanti Suryani,Bekasi,2023-10-01,Member
+P01480,Budi Anggraini,Bandung,2024-08-27,Member
+P01481,Joko Gunawan,Depok,2025-08-06,Reguler
+P01482,Rangga Hartono,Surabaya,2024-01-30,Reguler
+P01483,Galih Hartono,Depok,2025-01-31,Reguler
+P01484,Tono Maulana,Jakarta Barat,2023-03-16,Reguler
+P01485,Bayu Kusuma,Surabaya,2025-07-23,Reguler
+P01486,Naufal Hartono,Tangerang Selatan,2023-10-19,Reguler
+P01487,Rangga Setiawan,Tangerang Selatan,2023-08-17,Reguler
+P01488,Vina Lestari,Semarang,2025-08-09,Reguler
+P01489,Wahyu Halim,Surabaya,2025-08-06,Reguler
+P01490,Vina Wijaya,Jakarta Barat,2023-07-15,Reguler
+P01491,Adi Setiawan,Malang,2025-09-02,Member
+P01492,Bayu Ramadhan,Denpasar,2023-09-10,Reguler
+P01493,Galih Lestari,Semarang,2025-06-19,Reguler
+P01494,Joko Wijaya,Surabaya,2023-03-07,Member
+P01495,Irfan Santoso,Jakarta Barat,2025-07-22,Member
+P01496,Irfan Wijaya,Semarang,2023-01-28,Reguler
+P01497,Galih Puspita,Makassar,2025-08-09,Reguler
+P01498,Kartika Halim,Depok,2024-04-22,Member
+P01499,Indra Wijaya,Surabaya,2025-05-15,Reguler
+P01500,Irfan Nugroho,Jakarta Selatan,2023-08-22,Member
+P01501,Putri Suryani,Depok,2025-05-19,Reguler
+P01502,Naufal Maulana,Bandung,2025-09-11,Reguler
+P01503,Dian Nugroho,Jakarta Selatan,2024-11-20,Premium
+P01504,Gita Hartono,Malang,2025-04-10,Reguler
+P01505,Sari Santoso,Semarang,2024-10-30,Reguler
+P01506,Jihan Halim,Semarang,2025-07-26,Member
+P01507,Oki Gunawan,Jakarta Selatan,2024-04-08,Reguler
+P01508,Putri Permana,Tangerang Selatan,2023-08-18,Reguler
+P01509,Mila Ramadhan,Jakarta Barat,2024-04-12,Reguler
+P01510,Indra Puspita,Bandung,2024-04-21,Reguler
+P01511,Gita Santoso,Semarang,2023-05-18,Member
+P01512,Udin Maulana,Surabaya,2025-05-07,Reguler
+P01513,Mila Ramadhan,Depok,2023-09-16,Member
+P01514,Budi Suryani,Jakarta Barat,2023-02-06,Reguler
+P01515,Lukman Nugroho,Malang,2024-03-21,Reguler
+P01516,Hesti Saputra,Bandung,2024-05-19,Member
+P01517,Udin Lestari,Tangerang Selatan,2024-12-31,Member
+P01518,Joko Santoso,Semarang,2025-01-27,Reguler
+P01519,Lestari Puspita,Surabaya,2024-03-18,Premium
+P01520,Farah Aditya,Jakarta Barat,2023-10-07,Member
+P01521,Kirana Santoso,Jakarta Selatan,2025-01-03,Reguler
+P01522,Oki Lestari,Jakarta Selatan,2025-05-14,Reguler
+P01523,Indra Firmansyah,Tangerang Selatan,2024-08-22,Member
+P01524,Wahyu Gunawan,Semarang,2024-03-24,Reguler
+P01525,Jihan Firmansyah,Denpasar,2023-01-11,Premium
+P01526,Joko Saputra,Malang,2023-01-04,Member
+P01527,Citra Suryani,Depok,2023-01-15,Member
+P01528,Joko Halim,Makassar,2024-08-22,Reguler
+P01529,Hana Hartono,Makassar,2025-02-14,Reguler
+P01530,Udin Firmansyah,Bandung,2024-09-08,Member
+P01531,Maya Nugroho,Bandung,2023-04-05,Premium
+P01532,Maya Hartono,Depok,2025-01-06,Member
+P01533,Indra Wijaya,Surabaya,2023-12-08,Premium
+P01534,Rangga Suryani,Tangerang Selatan,2025-04-21,Member
+P01535,Galih Kusuma,Jakarta Selatan,2024-03-20,Premium
+P01536,Budi Suryani,Bekasi,2025-03-11,Member
+P01537,Citra Kusuma,Surabaya,2024-04-17,Reguler
+P01538,Vina Aditya,Bandung,2024-04-29,Reguler
+P01539,Gita Kusuma,Bandung,2023-02-20,Reguler
+P01540,Yanti Setiawan,Semarang,2023-05-29,Reguler
+P01541,Okta Wijaya,Semarang,2023-04-23,Member
+P01542,Hesti Rahayu,Depok,2025-04-25,Premium
+P01543,Sari Firmansyah,Surabaya,2024-10-07,Reguler
+P01544,Lestari Anggraini,Jakarta Selatan,2025-03-10,Reguler
+P01545,Wahyu Firmansyah,Semarang,2025-08-21,Member
+P01546,Lestari Anggraini,Tangerang Selatan,2023-12-26,Reguler
+P01547,Irfan Anggraini,Depok,2024-12-06,Reguler
+P01548,Putri Setiawan,Malang,2023-09-15,Member
+P01549,Citra Halim,Surabaya,2024-07-07,Member
+P01550,Wahyu Firmansyah,Semarang,2023-08-16,Member
+P01551,Lestari Gunawan,Tangerang Selatan,2024-02-17,Premium
+P01552,Budi Gunawan,Jakarta Selatan,2025-04-15,Member
+P01553,Farah Rahayu,Bekasi,2025-07-17,Reguler
+P01554,Mila Maulana,Jakarta Barat,2023-09-30,Member
+P01555,Tono Setiawan,Semarang,2024-06-02,Member
+P01556,Nanda Santoso,Makassar,2023-02-03,Reguler
+P01557,Fajar Lestari,Malang,2024-02-27,Reguler
+P01558,Rangga Wijaya,Denpasar,2025-09-24,Reguler
+P01559,Lestari Firmansyah,Jakarta Barat,2024-04-17,Reguler
+P01560,Yanti Gunawan,Depok,2024-09-12,Reguler
+P01561,Zaki Setiawan,Jakarta Selatan,2024-01-02,Reguler
+P01562,Irfan Ramadhan,Surabaya,2023-12-16,Member
+P01563,Farah Permana,Jakarta Selatan,2025-03-06,Reguler
+P01564,Lestari Santoso,Makassar,2024-07-24,Reguler
+P01565,Putri Gunawan,Bandung,2024-07-13,Member
+P01566,Budi Rahayu,Yogyakarta,2023-10-13,Reguler
+P01567,Citra Suryani,Jakarta Selatan,2023-10-28,Member
+P01568,Citra Saputra,Depok,2024-04-19,Premium
+P01569,Nanda Pratama,Denpasar,2023-10-20,Reguler
+P01570,Maya Anggraini,Jakarta Selatan,2023-12-08,Member
+P01571,Jihan Firmansyah,Makassar,2025-04-02,Member
+P01572,Adi Rahayu,Jakarta Barat,2023-04-20,Reguler
+P01573,Maya Firmansyah,Bekasi,2025-08-31,Member
+P01574,Lestari Firmansyah,Bekasi,2023-03-14,Member
+P01575,Kartika Aditya,Tangerang Selatan,2025-06-28,Reguler
+P01576,Dewi Saputra,Depok,2023-03-01,Premium
+P01577,Farah Puspita,Surabaya,2025-04-20,Reguler
+P01578,Kirana Wijaya,Jakarta Selatan,2025-09-16,Member
+P01579,Udin Firmansyah,Malang,2024-06-23,Member
+P01580,Oki Firmansyah,Makassar,2023-05-08,Reguler
+P01581,Oki Suryani,Denpasar,2024-04-02,Reguler
+P01582,Hesti Anggraini,Jakarta Barat,2024-07-10,Member
+P01583,Lestari Anggraini,Yogyakarta,2025-09-15,Reguler
+P01584,Rangga Firmansyah,Semarang,2025-07-29,Member
+P01585,Nanda Setiawan,Semarang,2025-08-30,Member
+P01586,Adi Puspita,Semarang,2024-07-02,Reguler
+P01587,Kartika Puspita,Tangerang Selatan,2023-07-30,Member
+P01588,Hesti Permana,Semarang,2025-07-04,Reguler
+P01589,Sari Wijaya,Makassar,2023-10-03,Member
+P01590,Adi Anggraini,Depok,2023-02-05,Member
+P01591,Nanda Santoso,Jakarta Barat,2023-08-05,Reguler
+P01592,Putri Aditya,Bandung,2025-09-12,Reguler
+P01593,Hesti Wijaya,Depok,2023-11-18,Reguler
+P01594,Udin Anggraini,Surabaya,2024-03-01,Reguler
+P01595,Eka Firmansyah,Tangerang Selatan,2023-06-08,Premium
+P01596,Maya Setiawan,Jakarta Barat,2024-02-12,Member
+P01597,Lestari Pratama,Jakarta Barat,2024-09-29,Reguler
+P01598,Jihan Permana,Surabaya,2023-10-12,Reguler
+P01599,Dewi Pratama,Surabaya,2025-06-13,Premium
+P01600,Putri Nugroho,Depok,2023-03-10,Reguler
+P01601,Maya Anggraini,Semarang,2025-01-15,Premium
+P01602,Dewi Hartono,Tangerang Selatan,2025-03-21,Reguler
+P01603,Adi Permana,Bandung,2025-03-13,Reguler
+P01604,Yanti Saputra,Denpasar,2025-02-26,Reguler
+P01605,Sari Hartono,Bandung,2023-11-14,Member
+P01606,Maya Lestari,Depok,2023-08-03,Reguler
+P01607,Hana Halim,Tangerang Selatan,2023-02-09,Member
+P01608,Yanti Gunawan,Jakarta Barat,2025-05-10,Reguler
+P01609,Maya Santoso,Jakarta Barat,2024-02-20,Reguler
+P01610,Indra Puspita,Jakarta Barat,2023-01-03,Reguler
+P01611,Hesti Suryani,Makassar,2024-02-02,Reguler
+P01612,Farah Nugroho,Denpasar,2024-07-11,Reguler
+P01613,Hesti Aditya,Surabaya,2023-07-21,Reguler
+P01614,Zaki Suryani,Tangerang Selatan,2024-08-21,Reguler
+P01615,Tono Puspita,Depok,2024-08-18,Member
+P01616,Gita Santoso,Makassar,2025-05-22,Reguler
+P01617,Indra Kusuma,Depok,2025-09-26,Reguler
+P01618,Adi Santoso,Malang,2024-05-30,Reguler
+P01619,Lestari Rahayu,Malang,2025-09-09,Reguler
+P01620,Irfan Ramadhan,Jakarta Selatan,2024-10-07,Reguler
+P01621,Kirana Pratama,Depok,2023-10-22,Reguler
+P01622,Lestari Puspita,Tangerang Selatan,2024-12-31,Reguler
+P01623,Kartika Aditya,Malang,2024-12-28,Member
+P01624,Naufal Suryani,Malang,2025-02-13,Reguler
+P01625,Citra Lestari,Jakarta Barat,2025-02-13,Reguler
+P01626,Fajar Lestari,Depok,2023-08-21,Reguler
+P01627,Budi Wijaya,Semarang,2024-01-09,Reguler
+P01628,Udin Permana,Bekasi,2023-04-16,Member
+P01629,Galih Suryani,Tangerang Selatan,2023-03-29,Member
+P01630,Putri Anggraini,Jakarta Barat,2023-04-27,Member
+P01631,Lukman Gunawan,Depok,2024-05-03,Member
+P01632,Tono Gunawan,Jakarta Barat,2025-05-28,Reguler
+P01633,Nanda Kusuma,Jakarta Selatan,2024-08-03,Premium
+P01634,Naufal Santoso,Bekasi,2023-05-23,Reguler
+P01635,Bayu Pratama,Denpasar,2025-05-26,Premium
+P01636,Kirana Anggraini,Semarang,2023-12-28,Reguler
+P01637,Nanda Setiawan,Surabaya,2024-04-19,Reguler
+P01638,Sari Suryani,Bekasi,2024-01-24,Reguler
+P01639,Kirana Puspita,Tangerang Selatan,2024-03-14,Reguler
+P01640,Oki Puspita,Bandung,2023-11-14,Reguler
+P01641,Maya Firmansyah,Depok,2025-05-16,Premium
+P01642,Irfan Anggraini,Tangerang Selatan,2024-10-22,Reguler
+P01643,Dian Suryani,Bekasi,2023-10-06,Premium
+P01644,Maya Pratama,Jakarta Barat,2024-04-15,Reguler
+P01645,Nanda Kusuma,Malang,2024-11-23,Member
+P01646,Nanda Kusuma,Yogyakarta,2023-04-17,Reguler
+P01647,Eka Kusuma,Bandung,2024-09-01,Reguler
+P01648,Adi Rahayu,Bekasi,2023-12-26,Member
+P01649,Zaki Setiawan,Semarang,2023-05-24,Member
+P01650,Citra Ramadhan,Surabaya,2025-02-02,Reguler
+P01651,Udin Wijaya,Surabaya,2025-02-13,Premium
+P01652,Joko Wijaya,Bandung,2023-07-30,Member
+P01653,Fajar Halim,Malang,2023-04-08,Member
+P01654,Mila Lestari,Jakarta Barat,2024-01-21,Reguler
+P01655,Indra Gunawan,Bekasi,2025-05-28,Member
+P01656,Joko Puspita,Semarang,2023-03-31,Reguler
+P01657,Hana Ramadhan,Surabaya,2024-11-13,Member
+P01658,Udin Kusuma,Semarang,2024-10-27,Reguler
+P01659,Vina Kusuma,Bandung,2025-09-26,Member
+P01660,Kartika Wijaya,Tangerang Selatan,2024-03-25,Member
+P01661,Naufal Anggraini,Jakarta Selatan,2023-02-28,Reguler
+P01662,Budi Kusuma,Tangerang Selatan,2024-01-16,Member
+P01663,Tono Saputra,Surabaya,2024-01-29,Premium
+P01664,Indra Maulana,Denpasar,2025-07-24,Reguler
+P01665,Bayu Wijaya,Bekasi,2023-12-08,Reguler
+P01666,Kartika Hartono,Tangerang Selatan,2025-05-04,Reguler
+P01667,Maya Firmansyah,Jakarta Selatan,2024-10-14,Reguler
+P01668,Adi Pratama,Semarang,2024-02-02,Reguler
+P01669,Budi Kusuma,Makassar,2025-05-11,Reguler
+P01670,Lestari Suryani,Surabaya,2023-01-11,Member
+P01671,Gita Gunawan,Bekasi,2025-05-22,Member
+P01672,Putri Firmansyah,Jakarta Selatan,2024-09-30,Reguler
+P01673,Naufal Santoso,Surabaya,2025-06-20,Member
+P01674,Kartika Suryani,Depok,2025-06-02,Member
+P01675,Gita Aditya,Semarang,2024-02-29,Member
+P01676,Farah Hartono,Surabaya,2023-06-01,Reguler
+P01677,Farah Firmansyah,Malang,2023-10-01,Reguler
+P01678,Tono Setiawan,Surabaya,2025-07-23,Premium
+P01679,Hesti Nugroho,Depok,2025-05-03,Member
+P01680,Maya Suryani,Bandung,2025-03-19,Reguler
+P01681,Lukman Nugroho,Depok,2025-01-18,Reguler
+P01682,Nanda Anggraini,Semarang,2025-01-07,Reguler
+P01683,Okta Suryani,Jakarta Selatan,2025-06-14,Premium
+P01684,Lukman Rahayu,Bekasi,2024-03-04,Premium
+P01685,Galih Firmansyah,Yogyakarta,2023-06-05,Reguler
+P01686,Kirana Anggraini,Denpasar,2023-12-14,Reguler
+P01687,Budi Firmansyah,Bekasi,2024-09-03,Reguler
+P01688,Dewi Puspita,Malang,2023-08-14,Reguler
+P01689,Hana Aditya,Tangerang Selatan,2023-07-15,Reguler
+P01690,Galih Kusuma,Makassar,2024-11-16,Reguler
+P01691,Mila Maulana,Depok,2024-10-16,Member
+P01692,Joko Lestari,Tangerang Selatan,2025-02-16,Reguler
+P01693,Eka Permana,Tangerang Selatan,2025-03-28,Reguler
+P01694,Sari Suryani,Tangerang Selatan,2023-02-17,Reguler
+P01695,Budi Wijaya,Jakarta Selatan,2023-08-07,Reguler
+P01696,Budi Setiawan,Jakarta Barat,2024-12-20,Reguler
+P01697,Eka Firmansyah,Depok,2024-04-18,Reguler
+P01698,Nanda Aditya,Malang,2024-11-16,Reguler
+P01699,Sari Maulana,Depok,2023-07-26,Reguler
+P01700,Lukman Pratama,Yogyakarta,2024-03-22,Reguler
+P01701,Dewi Hartono,Jakarta Selatan,2024-11-27,Reguler
+P01702,Mila Santoso,Jakarta Barat,2023-01-24,Member
+P01703,Joko Suryani,Malang,2023-07-13,Premium
+P01704,Fajar Wijaya,Semarang,2023-07-02,Reguler
+P01705,Gita Santoso,Surabaya,2025-02-14,Reguler
+P01706,Mila Aditya,Surabaya,2023-12-22,Reguler
+P01707,Eka Halim,Surabaya,2025-07-11,Member
+P01708,Gita Maulana,Tangerang Selatan,2023-08-25,Premium
+P01709,Farah Permana,Jakarta Selatan,2024-12-07,Reguler
+P01710,Gita Permana,Semarang,2025-03-07,Premium
+P01711,Citra Aditya,Tangerang Selatan,2024-08-22,Reguler
+P01712,Nanda Suryani,Yogyakarta,2024-11-24,Reguler
+P01713,Fajar Maulana,Yogyakarta,2024-12-26,Member
+P01714,Okta Aditya,Bandung,2023-10-05,Reguler
+P01715,Bayu Maulana,Jakarta Selatan,2024-02-05,Reguler
+P01716,Nanda Halim,Denpasar,2023-04-25,Member
+P01717,Jihan Santoso,Malang,2023-11-10,Reguler
+P01718,Vina Saputra,Surabaya,2024-11-13,Premium
+P01719,Oki Nugroho,Bekasi,2024-07-13,Reguler
+P01720,Citra Maulana,Bandung,2025-02-02,Reguler
+P01721,Tono Wijaya,Jakarta Selatan,2024-03-28,Reguler
+P01722,Galih Wijaya,Yogyakarta,2024-02-22,Reguler
+P01723,Nanda Firmansyah,Surabaya,2023-11-14,Reguler
+P01724,Rangga Wijaya,Denpasar,2023-08-08,Member
+P01725,Gita Aditya,Bandung,2024-11-19,Reguler
+P01726,Farah Suryani,Depok,2024-04-29,Member
+P01727,Citra Saputra,Jakarta Barat,2024-12-27,Premium
+P01728,Dian Firmansyah,Semarang,2025-07-15,Reguler
+P01729,Okta Santoso,Tangerang Selatan,2023-07-20,Reguler
+P01730,Adi Gunawan,Makassar,2023-10-03,Reguler
+P01731,Farah Rahayu,Jakarta Barat,2023-02-21,Reguler
+P01732,Vina Lestari,Bandung,2024-05-02,Reguler
+P01733,Maya Anggraini,Denpasar,2025-02-07,Reguler
+P01734,Bayu Hartono,Denpasar,2024-11-26,Member
+P01735,Citra Lestari,Tangerang Selatan,2023-09-30,Member
+P01736,Sari Wijaya,Malang,2023-01-21,Reguler
+P01737,Irfan Pratama,Denpasar,2023-06-02,Reguler
+P01738,Gita Firmansyah,Tangerang Selatan,2024-06-05,Reguler
+P01739,Naufal Pratama,Jakarta Barat,2023-09-09,Reguler
+P01740,Lestari Puspita,Jakarta Selatan,2023-11-29,Reguler
+P01741,Udin Firmansyah,Depok,2025-09-10,Reguler
+P01742,Yanti Gunawan,Bandung,2023-10-26,Reguler
+P01743,Hana Hartono,Bekasi,2024-08-03,Reguler
+P01744,Galih Aditya,Denpasar,2024-05-14,Member
+P01745,Bayu Halim,Surabaya,2024-08-20,Reguler
+P01746,Udin Gunawan,Denpasar,2025-09-14,Member
+P01747,Tono Halim,Jakarta Barat,2024-12-13,Reguler
+P01748,Maya Aditya,Depok,2024-02-14,Premium
+P01749,Wahyu Maulana,Bekasi,2023-01-26,Premium
+P01750,Joko Wijaya,Jakarta Selatan,2023-08-02,Member
+P01751,Kartika Lestari,Jakarta Selatan,2025-02-20,Reguler
+P01752,Indra Maulana,Tangerang Selatan,2024-08-01,Reguler
+P01753,Dian Permana,Jakarta Barat,2023-10-30,Member
+P01754,Indra Anggraini,Surabaya,2023-04-12,Reguler
+P01755,Dewi Ramadhan,Surabaya,2023-01-22,Member
+P01756,Citra Santoso,Tangerang Selatan,2025-08-02,Member
+P01757,Okta Kusuma,Surabaya,2024-03-17,Reguler
+P01758,Galih Nugroho,Tangerang Selatan,2025-04-28,Reguler
+P01759,Citra Anggraini,Yogyakarta,2025-04-12,Member
+P01760,Hesti Lestari,Yogyakarta,2024-03-12,Member
+P01761,Naufal Halim,Surabaya,2024-05-04,Member
+P01762,Maya Ramadhan,Depok,2023-05-27,Member
+P01763,Hana Firmansyah,Bandung,2023-09-18,Reguler
+P01764,Wahyu Anggraini,Surabaya,2023-05-17,Reguler
+P01765,Mila Aditya,Surabaya,2024-10-23,Reguler
+P01766,Tono Santoso,Bandung,2025-06-10,Reguler
+P01767,Kirana Hartono,Malang,2023-01-11,Member
+P01768,Nanda Puspita,Surabaya,2024-07-08,Premium
+P01769,Eka Puspita,Bekasi,2025-01-24,Reguler
+P01770,Oki Suryani,Bandung,2023-05-10,Member
+P01771,Indra Gunawan,Makassar,2025-08-22,Member
+P01772,Budi Setiawan,Bekasi,2025-02-06,Reguler
+P01773,Yanti Suryani,Surabaya,2023-11-06,Member
+P01774,Nanda Permana,Depok,2025-05-26,Member
+P01775,Udin Saputra,Bandung,2024-02-23,Reguler
+P01776,Mila Suryani,Bandung,2025-07-11,Reguler
+P01777,Kirana Pratama,Surabaya,2024-12-29,Reguler
+P01778,Maya Puspita,Surabaya,2025-08-11,Reguler
+P01779,Hesti Nugroho,Malang,2024-03-23,Premium
+P01780,Oki Halim,Tangerang Selatan,2024-06-30,Reguler
+P01781,Udin Puspita,Surabaya,2023-03-29,Reguler
+P01782,Oki Pratama,Bekasi,2023-10-17,Reguler
+P01783,Kartika Anggraini,Bekasi,2025-04-21,Member
+P01784,Yanti Aditya,Bekasi,2023-02-20,Member
+P01785,Dewi Wijaya,Depok,2025-05-12,Reguler
+P01786,Rangga Halim,Malang,2023-08-29,Member
+P01787,Rangga Wijaya,Bandung,2025-06-26,Reguler
+P01788,Rangga Lestari,Bekasi,2025-02-14,Reguler
+P01789,Fajar Anggraini,Depok,2025-03-20,Reguler
+P01790,Mila Lestari,Surabaya,2023-10-01,Reguler
+P01791,Irfan Ramadhan,Semarang,2023-04-22,Member
+P01792,Irfan Rahayu,Jakarta Selatan,2024-01-28,Reguler
+P01793,Dewi Puspita,Jakarta Selatan,2023-01-16,Reguler
+P01794,Budi Santoso,Depok,2024-04-22,Reguler
+P01795,Yanti Saputra,Makassar,2025-09-17,Reguler
+P01796,Sari Permana,Jakarta Barat,2023-03-05,Reguler
+P01797,Dewi Rahayu,Surabaya,2024-06-19,Reguler
+P01798,Hana Kusuma,Bekasi,2024-11-17,Reguler
+P01799,Farah Pratama,Surabaya,2024-06-06,Member
+P01800,Putri Firmansyah,Yogyakarta,2023-08-13,Reguler
+P01801,Citra Halim,Surabaya,2024-03-26,Premium
+P01802,Joko Pratama,Jakarta Selatan,2023-04-25,Premium
+P01803,Citra Nugroho,Jakarta Selatan,2024-06-27,Reguler
+P01804,Kirana Anggraini,Depok,2025-04-03,Reguler
+P01805,Dewi Lestari,Bandung,2024-02-24,Premium
+P01806,Budi Maulana,Depok,2025-04-27,Reguler
+P01807,Fajar Puspita,Tangerang Selatan,2024-09-30,Member
+P01808,Mila Santoso,Malang,2024-12-05,Reguler
+P01809,Vina Permana,Jakarta Selatan,2023-08-26,Reguler
+P01810,Dewi Firmansyah,Makassar,2025-02-17,Reguler
+P01811,Hana Rahayu,Tangerang Selatan,2024-05-07,Reguler
+P01812,Udin Ramadhan,Bekasi,2023-07-04,Member
+P01813,Zaki Lestari,Bekasi,2023-07-25,Reguler
+P01814,Zaki Wijaya,Bekasi,2024-06-16,Reguler
+P01815,Eka Pratama,Jakarta Selatan,2024-09-30,Reguler
+P01816,Fajar Wijaya,Tangerang Selatan,2023-10-03,Member
+P01817,Citra Lestari,Semarang,2025-07-21,Reguler
+P01818,Citra Maulana,Bandung,2024-12-01,Reguler
+P01819,Farah Puspita,Denpasar,2024-09-04,Reguler
+P01820,Okta Nugroho,Malang,2025-05-14,Reguler
+P01821,Fajar Halim,Bekasi,2024-05-03,Premium
+P01822,Eka Suryani,Depok,2023-05-22,Reguler
+P01823,Hesti Rahayu,Bekasi,2023-12-10,Reguler
+P01824,Bayu Suryani,Surabaya,2023-05-05,Premium
+P01825,Kirana Halim,Malang,2025-03-21,Member
+P01826,Indra Aditya,Depok,2025-04-29,Member
+P01827,Joko Santoso,Surabaya,2025-09-19,Member
+P01828,Adi Gunawan,Makassar,2025-04-22,Reguler
+P01829,Zaki Setiawan,Jakarta Barat,2024-12-25,Premium
+P01830,Mila Suryani,Bekasi,2024-11-03,Member
+P01831,Lukman Rahayu,Jakarta Barat,2025-04-07,Reguler
+P01832,Oki Suryani,Tangerang Selatan,2023-09-11,Reguler
+P01833,Lukman Firmansyah,Semarang,2023-11-22,Reguler
+P01834,Sari Kusuma,Jakarta Selatan,2023-07-22,Member
+P01835,Eka Halim,Bekasi,2023-07-27,Reguler
+P01836,Dewi Gunawan,Jakarta Selatan,2024-11-13,Member
+P01837,Vina Lestari,Yogyakarta,2025-06-12,Reguler
+P01838,Lestari Ramadhan,Malang,2024-01-19,Member
+P01839,Farah Maulana,Jakarta Selatan,2024-11-29,Member
+P01840,Kartika Rahayu,Bekasi,2023-08-12,Reguler
+P01841,Sari Santoso,Jakarta Barat,2023-01-07,Member
+P01842,Hesti Gunawan,Depok,2025-08-14,Reguler
+P01843,Kirana Permana,Bekasi,2023-01-02,Reguler
+P01844,Okta Santoso,Bekasi,2023-07-17,Reguler
+P01845,Dian Permana,Yogyakarta,2023-12-09,Premium
+P01846,Citra Saputra,Bekasi,2023-05-16,Premium
+P01847,Kirana Puspita,Jakarta Barat,2024-06-11,Premium
+P01848,Lukman Wijaya,Depok,2023-08-24,Member
+P01849,Sari Halim,Tangerang Selatan,2023-11-21,Reguler
+P01850,Adi Lestari,Makassar,2023-01-05,Member
+P01851,Farah Puspita,Bekasi,2024-08-18,Reguler
+P01852,Indra Anggraini,Tangerang Selatan,2025-03-28,Member
+P01853,Rangga Setiawan,Bandung,2023-10-02,Premium
+P01854,Yanti Aditya,Surabaya,2023-07-04,Reguler
+P01855,Fajar Setiawan,Depok,2024-08-15,Reguler
+P01856,Putri Gunawan,Bekasi,2025-03-03,Reguler
+P01857,Nanda Pratama,Surabaya,2023-01-07,Reguler
+P01858,Citra Aditya,Semarang,2024-06-06,Premium
+P01859,Dewi Nugroho,Makassar,2025-02-19,Member
+P01860,Hesti Aditya,Depok,2023-05-07,Member
+P01861,Indra Santoso,Jakarta Selatan,2024-09-19,Premium
+P01862,Sari Nugroho,Tangerang Selatan,2024-12-06,Member
+P01863,Hesti Gunawan,Bandung,2024-04-04,Reguler
+P01864,Adi Permana,Yogyakarta,2024-11-29,Reguler
+P01865,Sari Ramadhan,Surabaya,2025-03-09,Reguler
+P01866,Lestari Rahayu,Tangerang Selatan,2024-03-20,Member
+P01867,Budi Lestari,Yogyakarta,2023-10-09,Member
+P01868,Gita Saputra,Surabaya,2025-07-14,Reguler
+P01869,Zaki Suryani,Surabaya,2023-08-04,Reguler
+P01870,Indra Halim,Bandung,2025-02-19,Premium
+P01871,Adi Permana,Tangerang Selatan,2024-05-13,Premium
+P01872,Kirana Permana,Jakarta Selatan,2023-08-16,Reguler
+P01873,Putri Permana,Semarang,2024-05-10,Reguler
+P01874,Hana Gunawan,Malang,2024-10-05,Reguler
+P01875,Galih Hartono,Makassar,2025-06-09,Reguler
+P01876,Jihan Gunawan,Jakarta Barat,2025-09-04,Premium
+P01877,Putri Wijaya,Yogyakarta,2024-10-16,Reguler
+P01878,Galih Rahayu,Denpasar,2023-11-23,Member
+P01879,Mila Firmansyah,Depok,2025-02-23,Reguler
+P01880,Kartika Ramadhan,Tangerang Selatan,2023-06-14,Reguler
+P01881,Fajar Kusuma,Surabaya,2025-06-22,Member
+P01882,Dian Santoso,Yogyakarta,2024-01-03,Reguler
+P01883,Galih Rahayu,Surabaya,2023-10-10,Reguler
+P01884,Zaki Saputra,Bandung,2025-04-24,Member
+P01885,Wahyu Saputra,Tangerang Selatan,2023-10-14,Member
+P01886,Yanti Gunawan,Tangerang Selatan,2025-08-16,Reguler
+P01887,Fajar Kusuma,Makassar,2023-04-10,Premium
+P01888,Tono Gunawan,Jakarta Selatan,2024-01-11,Reguler
+P01889,Indra Ramadhan,Jakarta Selatan,2025-05-17,Reguler
+P01890,Farah Maulana,Jakarta Barat,2024-02-13,Reguler
+P01891,Kirana Wijaya,Bekasi,2024-03-31,Member
+P01892,Hesti Anggraini,Bekasi,2023-07-29,Reguler
+P01893,Lestari Maulana,Jakarta Selatan,2025-03-29,Reguler
+P01894,Naufal Halim,Jakarta Selatan,2023-08-20,Member
+P01895,Dewi Halim,Denpasar,2025-05-16,Member
+P01896,Adi Anggraini,Denpasar,2024-05-28,Member
+P01897,Indra Ramadhan,Surabaya,2024-09-12,Reguler
+P01898,Zaki Aditya,Bandung,2025-07-18,Premium
+P01899,Indra Saputra,Depok,2023-07-20,Premium
+P01900,Dewi Aditya,Bekasi,2024-09-15,Reguler
+P01901,Kartika Aditya,Jakarta Barat,2023-05-12,Reguler
+P01902,Maya Kusuma,Tangerang Selatan,2025-01-30,Reguler
+P01903,Kartika Firmansyah,Tangerang Selatan,2025-08-16,Reguler
+P01904,Bayu Permana,Bandung,2023-05-01,Premium
+P01905,Zaki Lestari,Jakarta Selatan,2023-03-18,Member
+P01906,Maya Ramadhan,Bandung,2024-11-20,Member
+P01907,Citra Setiawan,Bekasi,2023-01-29,Member
+P01908,Joko Pratama,Jakarta Selatan,2023-12-13,Reguler
+P01909,Bayu Wijaya,Surabaya,2023-11-09,Reguler
+P01910,Gita Firmansyah,Jakarta Barat,2025-02-18,Reguler
+P01911,Kirana Gunawan,Makassar,2025-09-06,Reguler
+P01912,Eka Wijaya,Jakarta Selatan,2024-01-08,Premium
+P01913,Irfan Suryani,Bandung,2024-05-30,Member
+P01914,Zaki Firmansyah,Semarang,2023-04-04,Reguler
+P01915,Budi Kusuma,Surabaya,2023-06-19,Reguler
+P01916,Budi Aditya,Jakarta Selatan,2025-01-23,Reguler
+P01917,Lukman Rahayu,Surabaya,2025-02-06,Reguler
+P01918,Dian Rahayu,Depok,2023-01-06,Reguler
+P01919,Yanti Pratama,Semarang,2024-05-14,Reguler
+P01920,Zaki Kusuma,Jakarta Barat,2025-03-09,Member
+P01921,Oki Halim,Bandung,2024-07-09,Reguler
+P01922,Galih Wijaya,Yogyakarta,2023-09-10,Reguler
+P01923,Tono Pratama,Depok,2024-10-05,Premium
+P01924,Budi Pratama,Jakarta Selatan,2025-07-06,Member
+P01925,Joko Gunawan,Bekasi,2025-09-11,Reguler
+P01926,Maya Anggraini,Bandung,2025-08-12,Reguler
+P01927,Yanti Saputra,Yogyakarta,2024-04-04,Reguler
+P01928,Yanti Hartono,Jakarta Selatan,2024-06-28,Reguler
+P01929,Citra Saputra,Jakarta Barat,2025-04-26,Member
+P01930,Dewi Hartono,Denpasar,2025-04-29,Reguler
+P01931,Okta Suryani,Bekasi,2024-07-10,Member
+P01932,Citra Permana,Denpasar,2024-05-18,Reguler
+P01933,Hesti Aditya,Bekasi,2023-10-10,Reguler
+P01934,Naufal Permana,Depok,2025-06-06,Reguler
+P01935,Dian Ramadhan,Tangerang Selatan,2025-02-13,Reguler
+P01936,Farah Nugroho,Bandung,2024-01-19,Premium
+P01937,Gita Santoso,Tangerang Selatan,2024-11-23,Premium
+P01938,Tono Wijaya,Yogyakarta,2023-12-08,Reguler
+P01939,Dian Puspita,Tangerang Selatan,2023-06-23,Member
+P01940,Udin Anggraini,Bekasi,2024-03-25,Reguler
+P01941,Zaki Nugroho,Denpasar,2023-11-05,Reguler
+P01942,Lestari Lestari,Surabaya,2025-03-10,Premium
+P01943,Hana Aditya,Surabaya,2024-10-11,Reguler
+P01944,Nanda Ramadhan,Jakarta Selatan,2025-04-22,Member
+P01945,Eka Ramadhan,Semarang,2023-05-30,Member
+P01946,Irfan Maulana,Jakarta Barat,2024-11-10,Reguler
+P01947,Mila Firmansyah,Jakarta Selatan,2024-12-23,Reguler
+P01948,Oki Hartono,Semarang,2024-09-11,Reguler
+P01949,Kirana Ramadhan,Malang,2024-05-13,Premium
+P01950,Indra Hartono,Jakarta Selatan,2023-05-07,Reguler
+P01951,Adi Permana,Jakarta Barat,2025-07-05,Reguler
+P01952,Galih Wijaya,Bekasi,2025-02-15,Reguler
+P01953,Fajar Kusuma,Depok,2025-07-01,Member
+P01954,Gita Hartono,Depok,2025-04-20,Reguler
+P01955,Bayu Wijaya,Denpasar,2023-08-29,Reguler
+P01956,Maya Hartono,Bandung,2024-05-15,Member
+P01957,Naufal Saputra,Malang,2024-08-14,Reguler
+P01958,Jihan Nugroho,Makassar,2024-04-15,Reguler
+P01959,Joko Aditya,Semarang,2025-08-26,Reguler
+P01960,Lestari Nugroho,Semarang,2024-05-09,Member
+P01961,Citra Firmansyah,Tangerang Selatan,2023-03-06,Reguler
+P01962,Budi Nugroho,Depok,2023-10-20,Member
+P01963,Oki Pratama,Tangerang Selatan,2025-05-20,Reguler
+P01964,Okta Halim,Surabaya,2025-08-02,Member
+P01965,Dian Puspita,Jakarta Barat,2025-05-05,Member
+P01966,Rangga Wijaya,Tangerang Selatan,2024-12-10,Reguler
+P01967,Lukman Gunawan,Jakarta Selatan,2023-02-22,Reguler
+P01968,Kirana Permana,Depok,2025-08-05,Member
+P01969,Gita Suryani,Yogyakarta,2025-03-18,Reguler
+P01970,Tono Rahayu,Yogyakarta,2023-08-21,Premium
+P01971,Dewi Maulana,Bandung,2024-04-22,Reguler
+P01972,Tono Aditya,Denpasar,2025-07-15,Reguler
+P01973,Putri Wijaya,Bekasi,2023-03-19,Premium
+P01974,Joko Wijaya,Bandung,2024-12-20,Reguler
+P01975,Galih Puspita,Jakarta Selatan,2023-10-08,Member
+P01976,Zaki Anggraini,Denpasar,2024-02-15,Member
+P01977,Gita Aditya,Jakarta Selatan,2024-07-27,Reguler
+P01978,Zaki Firmansyah,Semarang,2024-04-07,Member
+P01979,Dewi Permana,Bandung,2023-12-20,Member
+P01980,Putri Wijaya,Bekasi,2023-01-22,Reguler
+P01981,Irfan Firmansyah,Bekasi,2024-09-20,Premium
+P01982,Joko Puspita,Bekasi,2024-08-07,Reguler
+P01983,Adi Aditya,Bandung,2025-06-12,Reguler
+P01984,Hana Gunawan,Jakarta Barat,2025-09-24,Reguler
+P01985,Fajar Kusuma,Bandung,2024-02-01,Member
+P01986,Udin Puspita,Jakarta Selatan,2025-05-09,Reguler
+P01987,Okta Rahayu,Semarang,2023-07-22,Member
+P01988,Hesti Pratama,Malang,2023-03-09,Reguler
+P01989,Eka Saputra,Bekasi,2025-03-24,Member
+P01990,Oki Anggraini,Jakarta Selatan,2024-10-28,Premium
+P01991,Fajar Aditya,Denpasar,2024-11-02,Reguler
+P01992,Udin Lestari,Surabaya,2025-06-22,Member
+P01993,Yanti Hartono,Tangerang Selatan,2023-12-07,Premium
+P01994,Fajar Anggraini,Yogyakarta,2023-09-30,Member
+P01995,Tono Setiawan,Depok,2024-09-10,Premium
+P01996,Fajar Kusuma,Surabaya,2025-02-28,Member
+P01997,Farah Anggraini,Jakarta Selatan,2024-02-07,Premium
+P01998,Jihan Lestari,Jakarta Selatan,2023-05-21,Reguler
+P01999,Bayu Nugroho,Jakarta Selatan,2024-07-03,Reguler
+P02000,Joko Setiawan,Jakarta Selatan,2023-08-13,Reguler
+P02001,Bayu Aditya,Jakarta Barat,2024-06-07,Reguler
+P02002,Joko Halim,Makassar,2025-01-19,Member
+P02003,Rangga Firmansyah,Jakarta Barat,2024-05-24,Reguler
+P02004,Kirana Saputra,Bekasi,2023-11-08,Reguler
+P02005,Maya Rahayu,Surabaya,2024-05-10,Reguler
+P02006,Naufal Suryani,Semarang,2024-12-18,Reguler
+P02007,Lukman Pratama,Semarang,2023-07-25,Reguler
+P02008,Okta Lestari,Jakarta Selatan,2025-07-10,Reguler
+P02009,Joko Firmansyah,Bekasi,2023-06-26,Reguler
+P02010,Eka Saputra,Tangerang Selatan,2024-10-17,Reguler
+P02011,Farah Firmansyah,Bandung,2024-10-25,Member
+P02012,Kartika Firmansyah,Surabaya,2025-08-26,Reguler
+P02013,Wahyu Lestari,Yogyakarta,2023-07-23,Reguler
+P02014,Kirana Gunawan,Malang,2025-07-16,Reguler
+P02015,Putri Setiawan,Bandung,2025-05-02,Reguler
+P02016,Bayu Santoso,Semarang,2025-01-16,Reguler
+P02017,Joko Aditya,Jakarta Selatan,2025-02-22,Member
+P02018,Kirana Permana,Depok,2025-08-05,Premium
+P02019,Bayu Rahayu,Denpasar,2023-07-05,Member
+P02020,Fajar Rahayu,Jakarta Selatan,2024-08-28,Reguler
+P02021,Yanti Pratama,Jakarta Barat,2024-12-29,Reguler
+P02022,Naufal Ramadhan,Bekasi,2023-08-09,Reguler
+P02023,Irfan Nugroho,Bekasi,2024-08-31,Reguler
+P02024,Dewi Saputra,Makassar,2024-08-24,Member
+P02025,Mila Rahayu,Jakarta Selatan,2023-07-21,Reguler
+P02026,Kirana Santoso,Malang,2025-06-20,Reguler
+P02027,Lukman Permana,Depok,2024-07-25,Reguler
+P02028,Dewi Ramadhan,Jakarta Barat,2023-11-08,Member
+P02029,Galih Puspita,Bandung,2024-12-13,Premium
+P02030,Wahyu Setiawan,Yogyakarta,2023-04-01,Reguler
+P02031,Indra Anggraini,Surabaya,2024-08-14,Reguler
+P02032,Udin Setiawan,Surabaya,2023-03-30,Reguler
+P02033,Udin Puspita,Depok,2024-03-03,Reguler
+P02034,Lestari Santoso,Bekasi,2025-04-13,Reguler
+P02035,Galih Firmansyah,Surabaya,2023-01-12,Premium
+P02036,Vina Puspita,Makassar,2025-06-10,Reguler
+P02037,Eka Wijaya,Bandung,2023-11-06,Premium
+P02038,Indra Anggraini,Bekasi,2024-07-04,Reguler
+P02039,Gita Pratama,Bandung,2023-03-02,Reguler
+P02040,Kirana Ramadhan,Jakarta Selatan,2023-03-08,Member
+P02041,Adi Halim,Bekasi,2025-07-01,Member
+P02042,Galih Halim,Malang,2024-12-10,Reguler
+P02043,Naufal Suryani,Depok,2024-10-27,Reguler
+P02044,Indra Maulana,Bekasi,2025-04-10,Member
+P02045,Galih Nugroho,Surabaya,2024-01-27,Reguler
+P02046,Eka Santoso,Denpasar,2025-02-14,Reguler
+P02047,Galih Permana,Tangerang Selatan,2024-10-29,Reguler
+P02048,Gita Lestari,Bekasi,2023-02-10,Reguler
+P02049,Farah Halim,Denpasar,2025-01-31,Premium
+P02050,Jihan Setiawan,Semarang,2025-03-14,Reguler
+P02051,Udin Hartono,Surabaya,2024-04-18,Member
+P02052,Farah Setiawan,Jakarta Selatan,2025-07-30,Member
+P02053,Kirana Nugroho,Malang,2024-06-09,Member
+P02054,Mila Rahayu,Depok,2025-07-01,Member
+P02055,Kartika Maulana,Semarang,2023-07-28,Member
+P02056,Adi Gunawan,Jakarta Selatan,2023-01-12,Reguler
+P02057,Wahyu Gunawan,Jakarta Selatan,2023-04-04,Reguler
+P02058,Lukman Permana,Malang,2023-06-08,Reguler
+P02059,Hana Firmansyah,Bandung,2025-04-17,Member
+P02060,Tono Permana,Tangerang Selatan,2023-01-11,Reguler
+P02061,Oki Maulana,Semarang,2024-12-23,Premium
+P02062,Fajar Wijaya,Bekasi,2024-12-05,Reguler
+P02063,Hesti Gunawan,Makassar,2025-07-21,Reguler
+P02064,Wahyu Wijaya,Jakarta Selatan,2024-06-09,Reguler
+P02065,Tono Saputra,Surabaya,2024-02-24,Reguler
+P02066,Yanti Aditya,Tangerang Selatan,2024-06-22,Reguler
+P02067,Rangga Kusuma,Jakarta Selatan,2024-05-27,Reguler
+P02068,Farah Setiawan,Semarang,2024-05-30,Member
+P02069,Nanda Anggraini,Tangerang Selatan,2023-10-21,Reguler
+P02070,Farah Puspita,Depok,2023-05-25,Reguler
+P02071,Okta Puspita,Tangerang Selatan,2023-01-21,Reguler
+P02072,Putri Halim,Surabaya,2025-03-12,Reguler
+P02073,Budi Setiawan,Surabaya,2024-08-27,Member
+P02074,Lukman Nugroho,Depok,2023-10-03,Member
+P02075,Hana Wijaya,Jakarta Barat,2025-04-05,Reguler
+P02076,Bayu Kusuma,Surabaya,2023-09-05,Reguler
+P02077,Eka Ramadhan,Bandung,2025-06-06,Reguler
+P02078,Tono Halim,Tangerang Selatan,2023-01-08,Member
+P02079,Dewi Lestari,Jakarta Barat,2024-08-16,Reguler
+P02080,Rangga Permana,Bandung,2023-09-22,Reguler
+P02081,Farah Permana,Semarang,2023-01-14,Member
+P02082,Lestari Setiawan,Jakarta Barat,2025-04-05,Reguler
+P02083,Dewi Firmansyah,Depok,2024-09-30,Reguler
+P02084,Irfan Rahayu,Depok,2025-07-08,Member
+P02085,Dian Santoso,Bandung,2024-07-08,Reguler
+P02086,Farah Suryani,Jakarta Selatan,2023-11-11,Member
+P02087,Joko Lestari,Surabaya,2023-09-17,Member
+P02088,Galih Ramadhan,Depok,2025-08-26,Reguler
+P02089,Oki Santoso,Bekasi,2024-08-23,Premium
+P02090,Yanti Aditya,Yogyakarta,2023-07-13,Reguler
+P02091,Dian Anggraini,Jakarta Selatan,2025-03-20,Reguler
+P02092,Hana Gunawan,Tangerang Selatan,2023-11-10,Reguler
+P02093,Maya Nugroho,Denpasar,2025-03-10,Reguler
+P02094,Naufal Aditya,Depok,2025-06-13,Member
+P02095,Wahyu Halim,Depok,2023-02-02,Reguler
+P02096,Kartika Saputra,Tangerang Selatan,2024-08-28,Reguler
+P02097,Okta Gunawan,Malang,2024-01-12,Premium
+P02098,Rangga Rahayu,Bekasi,2023-10-27,Reguler
+P02099,Budi Ramadhan,Bekasi,2025-04-14,Reguler
+P02100,Oki Firmansyah,Tangerang Selatan,2023-04-28,Reguler
+P02101,Jihan Setiawan,Yogyakarta,2025-04-18,Reguler
+P02102,Kirana Santoso,Depok,2025-05-26,Member
+P02103,Lestari Santoso,Semarang,2025-04-25,Reguler
+P02104,Farah Setiawan,Yogyakarta,2024-10-13,Reguler
+P02105,Yanti Saputra,Denpasar,2024-12-30,Reguler
+P02106,Sari Kusuma,Tangerang Selatan,2025-09-23,Member
+P02107,Jihan Nugroho,Bandung,2024-07-31,Reguler
+P02108,Dewi Wijaya,Surabaya,2023-08-27,Member
+P02109,Galih Pratama,Makassar,2024-11-26,Member
+P02110,Budi Halim,Tangerang Selatan,2023-09-27,Reguler
+P02111,Jihan Santoso,Jakarta Selatan,2025-05-18,Reguler
+P02112,Hesti Santoso,Semarang,2025-03-28,Reguler
+P02113,Eka Lestari,Yogyakarta,2025-08-28,Reguler
+P02114,Lukman Permana,Jakarta Selatan,2025-02-26,Member
+P02115,Gita Anggraini,Bekasi,2024-08-04,Reguler
+P02116,Zaki Wijaya,Bekasi,2023-09-22,Member
+P02117,Jihan Setiawan,Surabaya,2024-08-18,Member
+P02118,Hesti Firmansyah,Jakarta Selatan,2025-05-30,Member
+P02119,Jihan Firmansyah,Semarang,2024-10-13,Member
+P02120,Tono Anggraini,Tangerang Selatan,2023-07-27,Reguler
+P02121,Naufal Maulana,Jakarta Selatan,2024-02-29,Member
+P02122,Putri Setiawan,Jakarta Selatan,2023-07-22,Member
+P02123,Maya Anggraini,Bekasi,2024-07-23,Reguler
+P02124,Hana Suryani,Jakarta Selatan,2024-07-25,Member
+P02125,Hesti Halim,Surabaya,2025-02-09,Reguler
+P02126,Eka Nugroho,Jakarta Selatan,2025-06-08,Reguler
+P02127,Kirana Lestari,Jakarta Barat,2024-04-25,Member
+P02128,Naufal Aditya,Semarang,2025-05-04,Reguler
+P02129,Fajar Rahayu,Denpasar,2023-12-09,Reguler
+P02130,Indra Hartono,Bandung,2023-05-27,Reguler
+P02131,Putri Setiawan,Surabaya,2023-08-26,Reguler
+P02132,Fajar Lestari,Yogyakarta,2023-04-27,Member
+P02133,Jihan Permana,Semarang,2023-04-20,Reguler
+P02134,Putri Firmansyah,Makassar,2025-08-14,Member
+P02135,Lukman Anggraini,Bandung,2025-08-03,Member
+P02136,Mila Suryani,Semarang,2025-01-18,Reguler
+P02137,Lestari Ramadhan,Jakarta Selatan,2024-03-11,Reguler
+P02138,Putri Rahayu,Jakarta Selatan,2025-09-18,Reguler
+P02139,Oki Lestari,Tangerang Selatan,2024-05-29,Reguler
+P02140,Rangga Wijaya,Surabaya,2023-01-24,Premium
+P02141,Kirana Halim,Tangerang Selatan,2023-07-05,Member
+P02142,Yanti Pratama,Jakarta Selatan,2024-03-05,Member
+P02143,Lestari Gunawan,Denpasar,2025-08-17,Member
+P02144,Fajar Nugroho,Tangerang Selatan,2024-03-13,Member
+P02145,Nanda Permana,Tangerang Selatan,2024-02-25,Reguler
+P02146,Wahyu Wijaya,Semarang,2024-03-17,Premium
+P02147,Kirana Wijaya,Semarang,2023-12-20,Reguler
+P02148,Lukman Halim,Jakarta Barat,2023-02-04,Reguler
+P02149,Putri Maulana,Bekasi,2024-08-25,Member
+P02150,Zaki Santoso,Jakarta Selatan,2024-12-07,Member
+P02151,Okta Puspita,Bandung,2025-08-18,Reguler
+P02152,Oki Rahayu,Bekasi,2024-08-07,Reguler
+P02153,Okta Setiawan,Jakarta Barat,2025-04-04,Member
+P02154,Dewi Lestari,Jakarta Barat,2024-04-03,Reguler
+P02155,Nanda Anggraini,Denpasar,2024-12-07,Reguler
+P02156,Lukman Suryani,Bekasi,2023-08-01,Reguler
+P02157,Budi Saputra,Yogyakarta,2025-02-18,Reguler
+P02158,Adi Lestari,Tangerang Selatan,2024-02-22,Member
+P02159,Naufal Halim,Malang,2023-05-05,Reguler
+P02160,Udin Santoso,Jakarta Selatan,2024-07-22,Member
+P02161,Rangga Santoso,Jakarta Selatan,2023-06-28,Reguler
+P02162,Vina Wijaya,Surabaya,2024-01-13,Reguler
+P02163,Rangga Maulana,Jakarta Selatan,2023-05-17,Member
+P02164,Nanda Santoso,Jakarta Selatan,2023-07-10,Member
+P02165,Adi Pratama,Surabaya,2023-12-08,Reguler
+P02166,Maya Firmansyah,Tangerang Selatan,2024-05-30,Reguler
+P02167,Farah Pratama,Surabaya,2024-12-18,Reguler
+P02168,Oki Setiawan,Tangerang Selatan,2024-07-31,Reguler
+P02169,Lukman Maulana,Jakarta Selatan,2023-10-04,Member
+P02170,Rangga Lestari,Jakarta Barat,2024-10-04,Reguler
+P02171,Tono Pratama,Semarang,2024-04-07,Member
+P02172,Eka Lestari,Yogyakarta,2023-02-26,Reguler
+P02173,Dian Pratama,Depok,2024-04-14,Member
+P02174,Dian Setiawan,Malang,2024-09-18,Member
+P02175,Vina Suryani,Makassar,2023-01-01,Member
+P02176,Kirana Permana,Semarang,2023-04-20,Member
+P02177,Gita Permana,Malang,2023-07-09,Reguler
+P02178,Joko Aditya,Malang,2025-02-17,Reguler
+P02179,Lestari Wijaya,Tangerang Selatan,2024-09-06,Member
+P02180,Rangga Pratama,Yogyakarta,2025-03-20,Member
+P02181,Galih Maulana,Bandung,2024-07-17,Premium
+P02182,Rangga Hartono,Bandung,2023-02-01,Member
+P02183,Mila Pratama,Jakarta Barat,2025-05-20,Reguler
+P02184,Sari Kusuma,Bandung,2025-02-02,Reguler
+P02185,Kartika Halim,Depok,2025-09-09,Premium
+P02186,Udin Rahayu,Jakarta Barat,2025-08-20,Reguler
+P02187,Budi Wijaya,Semarang,2023-02-23,Reguler
+P02188,Dian Saputra,Tangerang Selatan,2025-02-09,Premium
+P02189,Bayu Setiawan,Depok,2023-07-24,Member
+P02190,Irfan Puspita,Makassar,2025-08-18,Reguler
+P02191,Galih Firmansyah,Tangerang Selatan,2024-11-07,Reguler
+P02192,Gita Suryani,Bandung,2024-03-03,Reguler
+P02193,Okta Kusuma,Jakarta Selatan,2023-03-11,Reguler
+P02194,Eka Puspita,Semarang,2024-10-01,Reguler
+P02195,Okta Nugroho,Malang,2024-10-03,Member
+P02196,Dian Anggraini,Makassar,2024-01-20,Member
+P02197,Maya Setiawan,Jakarta Selatan,2023-05-13,Member
+P02198,Nanda Setiawan,Makassar,2024-12-18,Member
+P02199,Irfan Suryani,Malang,2023-10-13,Reguler
+P02200,Fajar Lestari,Tangerang Selatan,2023-02-15,Member
+P02201,Jihan Puspita,Jakarta Selatan,2025-03-07,Reguler
+P02202,Dewi Lestari,Bandung,2024-06-09,Reguler
+P02203,Eka Firmansyah,Bandung,2025-04-03,Member
+P02204,Zaki Lestari,Malang,2025-09-23,Reguler
+P02205,Yanti Rahayu,Depok,2023-04-30,Reguler
+P02206,Galih Setiawan,Semarang,2024-05-28,Reguler
+P02207,Nanda Ramadhan,Bandung,2023-06-15,Member
+P02208,Hana Puspita,Semarang,2024-02-02,Member
+P02209,Budi Hartono,Jakarta Selatan,2023-12-04,Premium
+P02210,Adi Santoso,Bandung,2023-07-02,Member
+P02211,Dewi Firmansyah,Malang,2024-08-05,Member
+P02212,Nanda Saputra,Denpasar,2024-12-14,Reguler
+P02213,Gita Saputra,Jakarta Barat,2025-03-13,Premium
+P02214,Joko Halim,Makassar,2025-07-23,Member
+P02215,Adi Suryani,Yogyakarta,2025-03-20,Reguler
+P02216,Putri Ramadhan,Tangerang Selatan,2024-07-19,Reguler
+P02217,Yanti Lestari,Surabaya,2023-12-05,Reguler
+P02218,Indra Kusuma,Jakarta Barat,2024-07-03,Reguler
+P02219,Hana Suryani,Tangerang Selatan,2023-09-27,Premium
+P02220,Bayu Firmansyah,Yogyakarta,2024-06-30,Reguler
+P02221,Wahyu Halim,Surabaya,2025-05-22,Member
+P02222,Fajar Setiawan,Bekasi,2023-05-05,Reguler
+P02223,Dian Wijaya,Surabaya,2024-09-01,Member
+P02224,Kartika Firmansyah,Bandung,2023-12-12,Member
+P02225,Nanda Aditya,Surabaya,2023-06-29,Premium
+P02226,Kartika Suryani,Bandung,2023-04-29,Member
+P02227,Tono Permana,Semarang,2024-02-02,Reguler
+P02228,Yanti Ramadhan,Bekasi,2024-02-14,Reguler
+P02229,Irfan Firmansyah,Bandung,2024-05-21,Reguler
+P02230,Kartika Puspita,Malang,2025-04-12,Reguler
+P02231,Wahyu Halim,Bandung,2024-09-27,Reguler
+P02232,Kartika Permana,Bandung,2023-03-21,Reguler
+P02233,Dewi Anggraini,Bandung,2024-08-20,Reguler
+P02234,Kirana Setiawan,Bekasi,2023-06-03,Premium
+P02235,Nanda Anggraini,Makassar,2025-01-02,Member
+P02236,Kartika Rahayu,Malang,2025-04-26,Member
+P02237,Adi Maulana,Tangerang Selatan,2025-02-22,Reguler
+P02238,Adi Pratama,Jakarta Barat,2023-09-06,Reguler
+P02239,Gita Ramadhan,Jakarta Barat,2025-06-22,Reguler
+P02240,Citra Ramadhan,Jakarta Barat,2025-07-17,Reguler
+P02241,Naufal Halim,Malang,2023-01-10,Reguler
+P02242,Udin Kusuma,Yogyakarta,2025-06-26,Member
+P02243,Sari Rahayu,Jakarta Selatan,2024-04-18,Reguler
+P02244,Nanda Setiawan,Jakarta Selatan,2025-02-12,Premium
+P02245,Oki Anggraini,Bandung,2024-03-25,Member
+P02246,Sari Nugroho,Makassar,2024-10-17,Member
+P02247,Dian Ramadhan,Tangerang Selatan,2025-02-13,Reguler
+P02248,Irfan Permana,Bekasi,2023-06-24,Reguler
+P02249,Yanti Santoso,Bandung,2024-05-18,Reguler
+P02250,Udin Permana,Surabaya,2023-03-12,Premium
+P02251,Naufal Santoso,Jakarta Barat,2023-09-01,Reguler
+P02252,Irfan Anggraini,Jakarta Selatan,2024-07-11,Member
+P02253,Rangga Gunawan,Jakarta Selatan,2023-05-29,Reguler
+P02254,Joko Aditya,Jakarta Selatan,2025-09-06,Premium
+P02255,Irfan Kusuma,Semarang,2024-05-18,Reguler
+P02256,Rangga Aditya,Surabaya,2023-04-09,Reguler
+P02257,Fajar Puspita,Tangerang Selatan,2025-07-26,Reguler
+P02258,Putri Ramadhan,Jakarta Barat,2023-05-22,Member
+P02259,Yanti Puspita,Semarang,2025-04-10,Reguler
+P02260,Hesti Maulana,Jakarta Barat,2023-07-16,Member
+P02261,Hana Aditya,Semarang,2025-08-14,Reguler
+P02262,Irfan Nugroho,Semarang,2023-08-24,Member
+P02263,Jihan Permana,Malang,2023-10-15,Member
+P02264,Putri Hartono,Semarang,2025-07-27,Reguler
+P02265,Dewi Maulana,Malang,2025-04-29,Member
+P02266,Tono Aditya,Semarang,2024-09-06,Reguler
+P02267,Eka Aditya,Depok,2023-09-22,Reguler
+P02268,Udin Maulana,Surabaya,2023-11-25,Member
+P02269,Yanti Saputra,Bandung,2024-05-05,Member
+P02270,Indra Santoso,Bandung,2024-01-01,Reguler
+P02271,Fajar Saputra,Jakarta Selatan,2023-08-20,Reguler
+P02272,Lestari Lestari,Bandung,2023-05-16,Reguler
+P02273,Eka Gunawan,Denpasar,2023-05-06,Reguler
+P02274,Galih Ramadhan,Malang,2023-05-13,Member
+P02275,Dian Setiawan,Jakarta Selatan,2025-08-07,Reguler
+P02276,Lestari Aditya,Surabaya,2023-03-19,Member
+P02277,Eka Wijaya,Jakarta Selatan,2024-03-05,Reguler
+P02278,Budi Saputra,Surabaya,2024-05-13,Reguler
+P02279,Eka Rahayu,Semarang,2025-04-16,Reguler
+P02280,Putri Lestari,Malang,2023-06-26,Reguler
+P02281,Okta Firmansyah,Yogyakarta,2023-06-10,Reguler
+P02282,Putri Wijaya,Surabaya,2025-03-20,Member
+P02283,Citra Pratama,Surabaya,2023-09-25,Member
+P02284,Lukman Ramadhan,Depok,2024-06-01,Reguler
+P02285,Udin Kusuma,Surabaya,2025-05-28,Premium
+P02286,Maya Permana,Jakarta Selatan,2023-07-11,Member
+P02287,Rangga Hartono,Semarang,2025-01-29,Reguler
+P02288,Naufal Pratama,Malang,2023-09-03,Reguler
+P02289,Hana Suryani,Makassar,2023-06-29,Reguler
+P02290,Dian Santoso,Bandung,2024-10-31,Member
+P02291,Jihan Anggraini,Jakarta Barat,2024-07-10,Premium
+P02292,Yanti Permana,Bandung,2025-03-24,Member
+P02293,Farah Anggraini,Bandung,2024-02-11,Reguler
+P02294,Fajar Setiawan,Surabaya,2025-07-26,Reguler
+P02295,Citra Puspita,Jakarta Selatan,2023-04-15,Reguler
+P02296,Indra Pratama,Jakarta Barat,2023-09-05,Member
+P02297,Maya Firmansyah,Makassar,2024-07-30,Premium
+P02298,Oki Wijaya,Malang,2025-04-06,Member
+P02299,Wahyu Nugroho,Yogyakarta,2024-05-09,Reguler
+P02300,Lestari Maulana,Bekasi,2024-11-14,Reguler
+P02301,Oki Wijaya,Semarang,2023-07-01,Reguler
+P02302,Wahyu Puspita,Depok,2023-04-07,Premium
+P02303,Irfan Kusuma,Bekasi,2024-09-11,Reguler
+P02304,Lestari Hartono,Denpasar,2023-06-22,Member
+P02305,Kirana Wijaya,Tangerang Selatan,2023-12-19,Reguler
+P02306,Bayu Kusuma,Denpasar,2024-11-30,Reguler
+P02307,Galih Maulana,Jakarta Selatan,2025-08-31,Reguler
+P02308,Jihan Wijaya,Yogyakarta,2024-12-19,Reguler
+P02309,Budi Pratama,Bekasi,2025-07-02,Member
+P02310,Bayu Rahayu,Tangerang Selatan,2023-05-02,Reguler
+P02311,Nanda Kusuma,Jakarta Barat,2023-04-06,Member
+P02312,Mila Gunawan,Yogyakarta,2024-02-10,Reguler
+P02313,Indra Setiawan,Jakarta Barat,2023-02-02,Reguler
+P02314,Adi Ramadhan,Jakarta Selatan,2023-09-03,Reguler
+P02315,Hesti Setiawan,Malang,2025-06-15,Reguler
+P02316,Udin Santoso,Bekasi,2023-09-13,Member
+P02317,Putri Firmansyah,Bekasi,2023-01-06,Reguler
+P02318,Oki Saputra,Bekasi,2023-05-05,Reguler
+P02319,Jihan Anggraini,Tangerang Selatan,2024-07-24,Reguler
+P02320,Gita Firmansyah,Denpasar,2024-03-20,Reguler
+P02321,Okta Wijaya,Jakarta Barat,2023-07-30,Member
+P02322,Kirana Halim,Yogyakarta,2024-04-21,Member
+P02323,Budi Hartono,Surabaya,2023-06-27,Member
+P02324,Putri Wijaya,Denpasar,2023-05-07,Reguler
+P02325,Yanti Gunawan,Jakarta Barat,2025-02-14,Member
+P02326,Dian Nugroho,Denpasar,2025-03-19,Member
+P02327,Fajar Firmansyah,Yogyakarta,2024-06-10,Member
+P02328,Kartika Nugroho,Bandung,2024-08-02,Member
+P02329,Indra Hartono,Malang,2025-02-02,Member
+P02330,Naufal Saputra,Depok,2024-06-23,Member
+P02331,Putri Nugroho,Bandung,2024-07-13,Member
+P02332,Vina Anggraini,Semarang,2023-04-15,Member
+P02333,Indra Lestari,Jakarta Barat,2024-06-08,Reguler
+P02334,Jihan Ramadhan,Jakarta Selatan,2023-09-27,Reguler
+P02335,Wahyu Santoso,Tangerang Selatan,2024-05-03,Reguler
+P02336,Sari Anggraini,Jakarta Selatan,2025-06-08,Member
+P02337,Hana Halim,Yogyakarta,2024-10-18,Member
+P02338,Vina Gunawan,Jakarta Selatan,2024-06-03,Reguler
+P02339,Oki Pratama,Jakarta Selatan,2025-08-21,Reguler
+P02340,Gita Santoso,Semarang,2025-05-31,Reguler
+P02341,Kirana Wijaya,Tangerang Selatan,2023-02-04,Reguler
+P02342,Putri Hartono,Semarang,2025-05-02,Member
+P02343,Bayu Maulana,Surabaya,2024-03-29,Reguler
+P02344,Adi Firmansyah,Bekasi,2023-09-25,Reguler
+P02345,Farah Lestari,Tangerang Selatan,2023-12-05,Reguler
+P02346,Eka Gunawan,Bandung,2025-08-31,Reguler
+P02347,Okta Ramadhan,Surabaya,2025-02-22,Reguler
+P02348,Tono Kusuma,Bekasi,2023-03-01,Reguler
+P02349,Wahyu Santoso,Semarang,2025-04-27,Reguler
+P02350,Gita Lestari,Surabaya,2024-11-09,Member
+P02351,Eka Ramadhan,Tangerang Selatan,2023-02-04,Reguler
+P02352,Lestari Santoso,Jakarta Selatan,2023-08-06,Reguler
+P02353,Naufal Firmansyah,Surabaya,2025-08-14,Member
+P02354,Hana Puspita,Jakarta Barat,2023-07-29,Member
+P02355,Kartika Suryani,Makassar,2025-03-02,Member
+P02356,Kartika Pratama,Tangerang Selatan,2025-01-03,Reguler
+P02357,Kirana Setiawan,Yogyakarta,2025-08-23,Reguler
+P02358,Adi Ramadhan,Depok,2025-04-06,Reguler
+P02359,Bayu Aditya,Semarang,2025-08-24,Reguler
+P02360,Hesti Nugroho,Jakarta Selatan,2023-01-22,Reguler
+P02361,Eka Hartono,Semarang,2023-02-27,Reguler
+P02362,Fajar Nugroho,Semarang,2023-06-01,Reguler
+P02363,Zaki Pratama,Depok,2025-07-15,Member
+P02364,Tono Maulana,Bekasi,2024-08-05,Reguler
+P02365,Irfan Puspita,Jakarta Barat,2023-10-24,Reguler
+P02366,Wahyu Lestari,Surabaya,2023-10-24,Reguler
+P02367,Budi Lestari,Surabaya,2023-02-19,Reguler
+P02368,Hesti Suryani,Jakarta Selatan,2024-09-08,Member
+P02369,Putri Saputra,Malang,2023-04-01,Member
+P02370,Oki Setiawan,Makassar,2025-02-05,Reguler
+P02371,Lukman Suryani,Bekasi,2023-05-07,Reguler
+P02372,Rangga Maulana,Depok,2023-06-22,Reguler
+P02373,Putri Nugroho,Malang,2025-02-19,Reguler
+P02374,Citra Aditya,Denpasar,2025-01-01,Reguler
+P02375,Kartika Nugroho,Jakarta Barat,2023-07-02,Member
+P02376,Dewi Halim,Semarang,2024-09-04,Reguler
+P02377,Oki Lestari,Bandung,2024-08-28,Reguler
+P02378,Vina Aditya,Makassar,2025-07-09,Reguler
+P02379,Jihan Gunawan,Bekasi,2023-03-27,Reguler
+P02380,Jihan Puspita,Bekasi,2025-01-17,Reguler
+P02381,Galih Gunawan,Jakarta Barat,2025-05-05,Member
+P02382,Udin Pratama,Surabaya,2023-08-22,Reguler
+P02383,Lukman Saputra,Semarang,2023-05-23,Member
+P02384,Gita Lestari,Makassar,2023-11-12,Member
+P02385,Vina Halim,Makassar,2024-10-15,Reguler
+P02386,Kartika Saputra,Makassar,2025-07-09,Member
+P02387,Kartika Permana,Semarang,2024-07-10,Member
+P02388,Fajar Pratama,Yogyakarta,2024-04-10,Member
+P02389,Kirana Halim,Bandung,2023-04-08,Member
+P02390,Bayu Maulana,Jakarta Selatan,2025-06-08,Reguler
+P02391,Citra Santoso,Bekasi,2025-03-27,Member
+P02392,Dewi Gunawan,Tangerang Selatan,2024-03-26,Reguler
+P02393,Irfan Ramadhan,Jakarta Selatan,2024-05-31,Member
+P02394,Adi Maulana,Jakarta Barat,2024-07-11,Member
+P02395,Tono Permana,Malang,2025-09-17,Reguler
+P02396,Putri Puspita,Yogyakarta,2025-02-18,Reguler
+P02397,Budi Suryani,Tangerang Selatan,2023-02-06,Reguler
+P02398,Galih Firmansyah,Surabaya,2023-11-17,Reguler
+P02399,Maya Hartono,Yogyakarta,2024-09-12,Member
+P02400,Irfan Santoso,Depok,2023-09-12,Member
+P02401,Kirana Aditya,Bandung,2024-02-09,Premium
+P02402,Indra Maulana,Tangerang Selatan,2024-05-05,Premium
+P02403,Vina Pratama,Bandung,2024-01-11,Reguler
+P02404,Naufal Maulana,Depok,2024-02-08,Premium
+P02405,Dian Maulana,Depok,2025-07-16,Reguler
+P02406,Jihan Santoso,Tangerang Selatan,2025-02-24,Reguler
+P02407,Oki Kusuma,Denpasar,2024-06-16,Reguler
+P02408,Lukman Puspita,Bekasi,2024-08-04,Reguler
+P02409,Zaki Halim,Jakarta Selatan,2024-01-31,Reguler
+P02410,Oki Wijaya,Makassar,2025-05-31,Reguler
+P02411,Farah Aditya,Surabaya,2023-01-14,Reguler
+P02412,Hesti Lestari,Tangerang Selatan,2024-11-12,Member
+P02413,Naufal Anggraini,Surabaya,2025-04-17,Reguler
+P02414,Kirana Wijaya,Surabaya,2023-08-17,Reguler
+P02415,Galih Setiawan,Jakarta Barat,2025-04-17,Member
+P02416,Hana Saputra,Jakarta Barat,2023-04-19,Member
+P02417,Lestari Anggraini,Tangerang Selatan,2025-01-27,Member
+P02418,Galih Anggraini,Surabaya,2025-08-14,Reguler
+P02419,Lukman Kusuma,Jakarta Barat,2024-11-14,Reguler
+P02420,Nanda Anggraini,Jakarta Barat,2024-05-14,Member
+P02421,Hana Santoso,Yogyakarta,2024-05-08,Reguler
+P02422,Dewi Pratama,Tangerang Selatan,2023-08-05,Reguler
+P02423,Lukman Nugroho,Surabaya,2023-01-26,Premium
+P02424,Irfan Rahayu,Surabaya,2023-08-08,Premium
+P02425,Joko Halim,Surabaya,2025-02-26,Member
+P02426,Putri Firmansyah,Surabaya,2024-02-10,Reguler
+P02427,Lestari Pratama,Makassar,2024-08-20,Reguler
+P02428,Naufal Santoso,Semarang,2023-07-01,Member
+P02429,Hesti Halim,Bekasi,2023-01-26,Premium
+P02430,Eka Puspita,Jakarta Barat,2025-07-14,Reguler
+P02431,Kirana Wijaya,Surabaya,2023-04-11,Reguler
+P02432,Adi Kusuma,Surabaya,2024-11-23,Member
+P02433,Kirana Maulana,Makassar,2025-09-11,Reguler
+P02434,Hesti Kusuma,Surabaya,2025-08-07,Member
+P02435,Jihan Firmansyah,Bandung,2025-01-13,Member
+P02436,Mila Puspita,Denpasar,2024-03-06,Member
+P02437,Yanti Puspita,Surabaya,2024-02-27,Reguler
+P02438,Budi Anggraini,Bandung,2024-02-19,Reguler
+P02439,Lestari Firmansyah,Bekasi,2025-04-04,Reguler
+P02440,Kartika Nugroho,Denpasar,2025-06-09,Premium
+P02441,Nanda Santoso,Bandung,2023-11-21,Reguler
+P02442,Maya Anggraini,Bekasi,2024-06-25,Reguler
+P02443,Zaki Setiawan,Bandung,2024-01-23,Premium
+P02444,Kirana Pratama,Bekasi,2024-03-30,Member
+P02445,Lukman Puspita,Jakarta Barat,2025-01-31,Reguler
+P02446,Adi Pratama,Malang,2023-06-08,Reguler
+P02447,Citra Aditya,Jakarta Selatan,2024-10-02,Reguler
+P02448,Putri Lestari,Jakarta Selatan,2025-03-25,Reguler
+P02449,Dewi Anggraini,Semarang,2024-10-11,Reguler
+P02450,Wahyu Kusuma,Jakarta Selatan,2024-06-14,Reguler
+P02451,Mila Rahayu,Denpasar,2024-06-17,Premium
+P02452,Nanda Maulana,Tangerang Selatan,2023-10-15,Reguler
+P02453,Maya Ramadhan,Surabaya,2023-11-05,Member
+P02454,Naufal Rahayu,Tangerang Selatan,2023-10-09,Member
+P02455,Maya Aditya,Jakarta Selatan,2024-06-25,Reguler
+P02456,Bayu Suryani,Jakarta Barat,2024-10-10,Premium
+P02457,Dian Lestari,Denpasar,2024-10-06,Member
+P02458,Citra Wijaya,Depok,2023-04-03,Reguler
+P02459,Farah Suryani,Denpasar,2024-01-15,Reguler
+P02460,Kirana Lestari,Jakarta Barat,2023-11-18,Member
+P02461,Adi Suryani,Jakarta Barat,2025-09-05,Member
+P02462,Kartika Setiawan,Yogyakarta,2023-03-19,Member
+P02463,Dian Anggraini,Surabaya,2024-03-10,Reguler
+P02464,Citra Kusuma,Yogyakarta,2025-09-11,Reguler
+P02465,Okta Suryani,Jakarta Barat,2023-03-04,Reguler
+P02466,Gita Wijaya,Bandung,2023-07-12,Reguler
+P02467,Naufal Maulana,Bandung,2023-07-07,Reguler
+P02468,Kirana Maulana,Makassar,2025-03-15,Member
+P02469,Wahyu Anggraini,Bekasi,2023-04-05,Reguler
+P02470,Hesti Permana,Jakarta Barat,2025-03-07,Premium
+P02471,Oki Permana,Malang,2024-07-01,Reguler
+P02472,Fajar Nugroho,Yogyakarta,2023-04-17,Reguler
+P02473,Vina Nugroho,Yogyakarta,2024-03-24,Reguler
+P02474,Putri Saputra,Malang,2024-11-20,Member
+P02475,Hana Puspita,Bandung,2024-08-27,Member
+P02476,Rangga Anggraini,Malang,2023-03-06,Member
+P02477,Lestari Puspita,Semarang,2025-09-10,Reguler
+P02478,Yanti Setiawan,Jakarta Selatan,2023-10-06,Reguler
+P02479,Putri Maulana,Makassar,2023-12-06,Reguler
+P02480,Vina Ramadhan,Makassar,2024-11-27,Premium
+P02481,Joko Ramadhan,Depok,2023-05-17,Reguler
+P02482,Sari Gunawan,Denpasar,2025-06-29,Premium
+P02483,Bayu Maulana,Depok,2025-03-25,Premium
+P02484,Sari Kusuma,Semarang,2024-02-03,Reguler
+P02485,Budi Maulana,Surabaya,2023-07-16,Member
+P02486,Oki Halim,Bandung,2024-07-25,Premium
+P02487,Mila Hartono,Makassar,2023-08-14,Reguler
+P02488,Dian Nugroho,Yogyakarta,2023-12-08,Reguler
+P02489,Dian Saputra,Jakarta Barat,2023-12-20,Reguler
+P02490,Joko Gunawan,Tangerang Selatan,2023-05-18,Reguler
+P02491,Citra Saputra,Surabaya,2024-05-03,Reguler
+P02492,Kirana Puspita,Semarang,2023-02-23,Reguler
+P02493,Oki Kusuma,Semarang,2024-11-29,Member
+P02494,Rangga Nugroho,Jakarta Selatan,2023-12-22,Reguler
+P02495,Zaki Firmansyah,Malang,2024-02-27,Reguler
+P02496,Budi Lestari,Jakarta Selatan,2025-02-03,Reguler
+P02497,Farah Lestari,Makassar,2023-02-21,Reguler
+P02498,Putri Wijaya,Jakarta Barat,2025-01-30,Member
+P02499,Mila Pratama,Bekasi,2023-01-09,Reguler
+P02500,Joko Santoso,Denpasar,2023-05-22,Reguler
+P02501,Rangga Setiawan,Tangerang Selatan,2023-05-08,Reguler
+P02502,Zaki Nugroho,Bekasi,2023-07-21,Member
+P02503,Jihan Halim,Jakarta Selatan,2024-10-13,Member
+P02504,Gita Aditya,Surabaya,2024-08-17,Member
+P02505,Kirana Kusuma,Semarang,2023-11-20,Reguler
+P02506,Sari Halim,Jakarta Barat,2025-02-01,Member
+P02507,Kartika Maulana,Bandung,2023-11-17,Reguler
+P02508,Wahyu Anggraini,Jakarta Barat,2023-01-24,Member
+P02509,Maya Gunawan,Jakarta Selatan,2023-02-17,Reguler
+P02510,Kirana Ramadhan,Malang,2024-08-17,Reguler
+P02511,Rangga Permana,Jakarta Selatan,2023-12-26,Member
+P02512,Jihan Halim,Surabaya,2023-07-24,Reguler
+P02513,Naufal Nugroho,Bandung,2023-04-28,Member
+P02514,Oki Wijaya,Jakarta Barat,2024-08-24,Member
+P02515,Budi Santoso,Malang,2025-04-08,Premium
+P02516,Farah Suryani,Jakarta Selatan,2025-02-11,Reguler
+P02517,Udin Ramadhan,Jakarta Barat,2023-10-05,Reguler
+P02518,Fajar Rahayu,Bandung,2024-07-25,Reguler
+P02519,Adi Pratama,Bandung,2024-09-13,Premium
+P02520,Okta Pratama,Makassar,2023-05-17,Premium
+P02521,Yanti Maulana,Bandung,2024-10-26,Member
+P02522,Putri Halim,Surabaya,2025-09-03,Member
+P02523,Hesti Suryani,Jakarta Selatan,2024-12-17,Member
+P02524,Sari Halim,Bekasi,2024-06-22,Member
+P02525,Dian Anggraini,Semarang,2024-11-28,Reguler
+P02526,Yanti Anggraini,Surabaya,2025-02-27,Reguler
+P02527,Hesti Permana,Tangerang Selatan,2024-07-28,Member
+P02528,Udin Nugroho,Jakarta Selatan,2025-03-16,Premium
+P02529,Nanda Kusuma,Semarang,2024-04-16,Member
+P02530,Oki Halim,Surabaya,2024-04-02,Reguler
+P02531,Lestari Rahayu,Tangerang Selatan,2023-12-29,Member
+P02532,Indra Permana,Surabaya,2025-07-05,Reguler
+P02533,Farah Nugroho,Jakarta Barat,2024-07-28,Member
+P02534,Gita Firmansyah,Jakarta Barat,2024-04-08,Reguler
+P02535,Indra Firmansyah,Semarang,2025-08-26,Premium
+P02536,Kartika Hartono,Depok,2023-02-16,Reguler
+P02537,Tono Suryani,Depok,2024-10-31,Reguler
+P02538,Galih Suryani,Bandung,2023-04-13,Member
+P02539,Udin Kusuma,Surabaya,2023-08-01,Reguler
+P02540,Hana Rahayu,Bekasi,2024-05-26,Reguler
+P02541,Zaki Pratama,Tangerang Selatan,2025-07-31,Reguler
+P02542,Sari Pratama,Tangerang Selatan,2023-11-27,Reguler
+P02543,Fajar Setiawan,Bandung,2025-03-23,Member
+P02544,Putri Suryani,Jakarta Selatan,2023-01-31,Member
+P02545,Adi Puspita,Semarang,2024-01-17,Reguler
+P02546,Oki Lestari,Tangerang Selatan,2024-01-28,Reguler
+P02547,Citra Kusuma,Jakarta Selatan,2023-07-06,Member
+P02548,Farah Setiawan,Depok,2025-04-08,Member
+P02549,Adi Hartono,Jakarta Selatan,2023-07-14,Reguler
+P02550,Irfan Gunawan,Surabaya,2025-07-05,Member
+P02551,Yanti Firmansyah,Jakarta Selatan,2024-07-18,Reguler
+P02552,Dewi Maulana,Semarang,2024-03-28,Premium
+P02553,Lestari Puspita,Depok,2023-11-12,Member
+P02554,Dewi Nugroho,Depok,2024-09-23,Reguler
+P02555,Yanti Wijaya,Surabaya,2025-07-13,Reguler
+P02556,Hana Gunawan,Jakarta Barat,2025-07-01,Reguler
+P02557,Jihan Lestari,Bandung,2025-03-15,Reguler
+P02558,Sari Firmansyah,Denpasar,2025-01-24,Member
+P02559,Hesti Setiawan,Tangerang Selatan,2023-09-05,Reguler
+P02560,Sari Kusuma,Malang,2025-03-23,Reguler
+P02561,Putri Nugroho,Makassar,2024-06-30,Reguler
+P02562,Citra Permana,Depok,2023-10-01,Member
+P02563,Rangga Maulana,Jakarta Barat,2024-08-05,Member
+P02564,Kartika Setiawan,Surabaya,2023-10-01,Reguler
+P02565,Farah Gunawan,Jakarta Selatan,2024-12-24,Reguler
+P02566,Joko Lestari,Bekasi,2023-10-08,Premium
+P02567,Okta Setiawan,Jakarta Selatan,2025-02-18,Premium
+P02568,Maya Wijaya,Bandung,2025-06-04,Reguler
+P02569,Kartika Kusuma,Bekasi,2023-01-14,Reguler
+P02570,Naufal Ramadhan,Jakarta Selatan,2025-09-15,Reguler
+P02571,Jihan Pratama,Malang,2023-10-30,Member
+P02572,Budi Halim,Jakarta Selatan,2023-11-03,Reguler
+P02573,Bayu Santoso,Makassar,2025-07-08,Reguler
+P02574,Nanda Rahayu,Depok,2024-02-19,Reguler
+P02575,Indra Lestari,Bandung,2024-10-11,Reguler
+P02576,Tono Lestari,Bekasi,2025-07-04,Reguler
+P02577,Hana Lestari,Semarang,2023-12-05,Premium
+P02578,Eka Gunawan,Malang,2024-02-23,Member
+P02579,Kartika Setiawan,Makassar,2025-09-12,Member
+P02580,Jihan Gunawan,Surabaya,2023-09-25,Reguler
+P02581,Bayu Permana,Depok,2023-03-08,Reguler
+P02582,Dian Aditya,Jakarta Barat,2024-09-23,Reguler
+P02583,Zaki Halim,Denpasar,2023-07-23,Reguler
+P02584,Lukman Santoso,Surabaya,2025-01-23,Reguler
+P02585,Oki Aditya,Semarang,2025-01-12,Premium
+P02586,Yanti Setiawan,Depok,2024-01-03,Member
+P02587,Galih Setiawan,Tangerang Selatan,2024-11-12,Reguler
+P02588,Eka Wijaya,Jakarta Selatan,2023-09-17,Member
+P02589,Fajar Saputra,Makassar,2025-02-26,Member
+P02590,Bayu Firmansyah,Semarang,2023-07-08,Reguler
+P02591,Lukman Anggraini,Surabaya,2024-04-16,Member
+P02592,Hesti Anggraini,Makassar,2024-11-04,Premium
+P02593,Bayu Nugroho,Tangerang Selatan,2023-08-29,Reguler
+P02594,Dian Suryani,Semarang,2024-10-24,Reguler
+P02595,Naufal Firmansyah,Jakarta Barat,2024-04-07,Premium
+P02596,Kartika Puspita,Tangerang Selatan,2024-03-03,Reguler
+P02597,Farah Firmansyah,Denpasar,2024-09-23,Member
+P02598,Mila Pratama,Makassar,2025-08-16,Reguler
+P02599,Joko Aditya,Malang,2023-12-22,Reguler
+P02600,Gita Suryani,Semarang,2025-09-11,Member
+P02601,Kartika Permana,Surabaya,2025-06-15,Reguler
+P02602,Udin Nugroho,Jakarta Barat,2024-03-28,Premium
+P02603,Nanda Permana,Denpasar,2023-02-21,Reguler
+P02604,Mila Santoso,Jakarta Barat,2025-06-03,Reguler
+P02605,Wahyu Rahayu,Jakarta Selatan,2025-02-06,Member
+P02606,Kirana Gunawan,Depok,2023-10-17,Reguler
+P02607,Naufal Saputra,Bandung,2023-02-03,Member
+P02608,Joko Setiawan,Tangerang Selatan,2025-01-13,Reguler
+P02609,Lestari Firmansyah,Jakarta Selatan,2025-05-11,Reguler
+P02610,Lukman Halim,Makassar,2024-05-14,Reguler
+P02611,Budi Anggraini,Malang,2025-06-27,Reguler
+P02612,Zaki Aditya,Jakarta Barat,2024-12-10,Member
+P02613,Mila Halim,Makassar,2023-06-22,Member
+P02614,Udin Hartono,Tangerang Selatan,2024-06-24,Member
+P02615,Mila Suryani,Depok,2024-10-11,Premium
+P02616,Dian Nugroho,Bekasi,2025-01-04,Reguler
+P02617,Sari Ramadhan,Semarang,2025-08-22,Reguler
+P02618,Galih Kusuma,Bekasi,2025-06-27,Reguler
+P02619,Dewi Puspita,Semarang,2024-04-15,Premium
+P02620,Irfan Nugroho,Semarang,2025-09-08,Reguler
+P02621,Jihan Saputra,Bandung,2024-09-22,Reguler
+P02622,Nanda Rahayu,Bandung,2024-12-22,Reguler
+P02623,Tono Lestari,Jakarta Selatan,2023-10-24,Reguler
+P02624,Wahyu Hartono,Bandung,2024-08-17,Member
+P02625,Sari Anggraini,Bekasi,2025-06-15,Reguler
+P02626,Lukman Rahayu,Tangerang Selatan,2024-09-14,Reguler
+P02627,Fajar Permana,Surabaya,2025-03-27,Reguler
+P02628,Nanda Wijaya,Denpasar,2024-03-10,Member
+P02629,Irfan Rahayu,Malang,2025-02-28,Reguler
+P02630,Okta Wijaya,Depok,2025-08-10,Member
+P02631,Irfan Saputra,Surabaya,2025-09-05,Reguler
+P02632,Gita Setiawan,Malang,2023-01-16,Reguler
+P02633,Mila Anggraini,Jakarta Barat,2024-04-18,Member
+P02634,Joko Permana,Jakarta Selatan,2023-10-14,Premium
+P02635,Maya Aditya,Jakarta Selatan,2023-09-18,Member
+P02636,Lestari Lestari,Malang,2024-04-17,Member
+P02637,Eka Pratama,Bekasi,2023-06-07,Reguler
+P02638,Zaki Suryani,Jakarta Barat,2025-08-02,Premium
+P02639,Gita Kusuma,Bandung,2023-11-20,Reguler
+P02640,Sari Maulana,Jakarta Selatan,2023-08-17,Reguler
+P02641,Maya Rahayu,Jakarta Selatan,2024-09-24,Reguler
+P02642,Mila Setiawan,Yogyakarta,2024-03-04,Member
+P02643,Adi Ramadhan,Jakarta Selatan,2023-01-23,Member
+P02644,Nanda Halim,Makassar,2023-01-13,Member
+P02645,Maya Halim,Makassar,2023-12-23,Reguler
+P02646,Adi Permana,Bekasi,2025-07-29,Member
+P02647,Lukman Pratama,Jakarta Selatan,2023-06-29,Reguler
+P02648,Fajar Pratama,Jakarta Barat,2023-08-27,Member
+P02649,Kirana Pratama,Makassar,2024-02-02,Reguler
+P02650,Mila Saputra,Depok,2025-05-17,Reguler
+P02651,Jihan Nugroho,Jakarta Selatan,2024-06-17,Reguler
+P02652,Eka Ramadhan,Makassar,2025-01-27,Reguler
+P02653,Bayu Saputra,Jakarta Barat,2025-07-02,Reguler
+P02654,Wahyu Permana,Denpasar,2024-05-22,Reguler
+P02655,Mila Kusuma,Denpasar,2023-11-29,Member
+P02656,Lukman Pratama,Tangerang Selatan,2025-06-21,Reguler
+P02657,Eka Saputra,Jakarta Selatan,2025-07-20,Member
+P02658,Hana Rahayu,Surabaya,2024-02-29,Member
+P02659,Irfan Saputra,Yogyakarta,2023-02-11,Member
+P02660,Hana Nugroho,Tangerang Selatan,2025-05-05,Reguler
+P02661,Dewi Gunawan,Semarang,2024-10-31,Reguler
+P02662,Kirana Rahayu,Jakarta Selatan,2025-09-13,Reguler
+P02663,Tono Kusuma,Malang,2023-10-08,Reguler
+P02664,Wahyu Hartono,Semarang,2025-04-15,Member
+P02665,Sari Anggraini,Bandung,2023-06-29,Reguler
+P02666,Dian Wijaya,Bekasi,2024-05-14,Reguler
+P02667,Putri Ramadhan,Jakarta Barat,2024-09-23,Reguler
+P02668,Wahyu Maulana,Depok,2024-02-26,Member
+P02669,Hana Wijaya,Surabaya,2023-06-22,Reguler
+P02670,Naufal Ramadhan,Jakarta Barat,2023-10-08,Premium
+P02671,Fajar Nugroho,Bandung,2023-04-03,Member
+P02672,Bayu Saputra,Tangerang Selatan,2024-11-22,Member
+P02673,Mila Rahayu,Jakarta Barat,2023-01-09,Reguler
+P02674,Citra Santoso,Depok,2023-12-08,Reguler
+P02675,Galih Hartono,Jakarta Barat,2025-01-01,Reguler
+P02676,Lukman Anggraini,Bekasi,2025-04-27,Reguler
+P02677,Dian Permana,Denpasar,2025-08-02,Member
+P02678,Kartika Halim,Bekasi,2023-11-21,Reguler
+P02679,Eka Setiawan,Yogyakarta,2024-03-28,Member
+P02680,Indra Saputra,Tangerang Selatan,2024-04-14,Reguler
+P02681,Gita Setiawan,Tangerang Selatan,2024-01-16,Premium
+P02682,Joko Nugroho,Jakarta Selatan,2025-05-26,Member
+P02683,Zaki Suryani,Jakarta Selatan,2025-01-26,Premium
+P02684,Indra Ramadhan,Jakarta Barat,2024-09-17,Member
+P02685,Citra Gunawan,Yogyakarta,2024-11-13,Reguler
+P02686,Adi Wijaya,Jakarta Selatan,2023-07-25,Member
+P02687,Dewi Firmansyah,Bandung,2024-03-18,Member
+P02688,Kirana Rahayu,Malang,2023-07-27,Reguler
+P02689,Citra Nugroho,Bandung,2023-10-28,Premium
+P02690,Sari Pratama,Depok,2024-12-05,Reguler
+P02691,Bayu Suryani,Malang,2023-10-27,Reguler
+P02692,Tono Hartono,Jakarta Barat,2024-02-11,Member
+P02693,Galih Pratama,Tangerang Selatan,2023-12-15,Reguler
+P02694,Hana Rahayu,Denpasar,2024-06-20,Reguler
+P02695,Bayu Wijaya,Jakarta Selatan,2024-10-05,Member
+P02696,Udin Firmansyah,Jakarta Selatan,2024-03-23,Member
+P02697,Naufal Halim,Jakarta Selatan,2023-07-11,Reguler
+P02698,Hesti Setiawan,Bekasi,2025-02-03,Reguler
+P02699,Udin Nugroho,Jakarta Selatan,2025-08-05,Reguler
+P02700,Naufal Nugroho,Depok,2024-07-01,Member
+P02701,Kirana Kusuma,Bandung,2023-04-03,Reguler
+P02702,Wahyu Anggraini,Makassar,2023-06-11,Reguler
+P02703,Gita Suryani,Surabaya,2024-03-31,Reguler
+P02704,Dewi Halim,Semarang,2025-03-01,Reguler
+P02705,Kartika Aditya,Jakarta Selatan,2025-01-20,Reguler
+P02706,Hana Lestari,Makassar,2025-02-08,Reguler
+P02707,Farah Maulana,Depok,2024-11-04,Member
+P02708,Irfan Ramadhan,Bandung,2025-06-11,Reguler
+P02709,Fajar Permana,Semarang,2024-07-17,Member
+P02710,Zaki Kusuma,Denpasar,2023-08-21,Member
+P02711,Naufal Kusuma,Bekasi,2023-11-16,Member
+P02712,Kirana Pratama,Semarang,2024-11-29,Reguler
+P02713,Joko Setiawan,Bandung,2024-01-26,Reguler
+P02714,Farah Permana,Jakarta Selatan,2023-12-04,Premium
+P02715,Tono Gunawan,Jakarta Selatan,2023-07-21,Member
+P02716,Kirana Lestari,Jakarta Selatan,2025-09-06,Reguler
+P02717,Irfan Firmansyah,Jakarta Selatan,2024-08-08,Member
+P02718,Tono Permana,Jakarta Selatan,2024-01-01,Reguler
+P02719,Indra Wijaya,Depok,2024-11-01,Member
+P02720,Eka Wijaya,Denpasar,2023-10-14,Premium
+P02721,Okta Wijaya,Bandung,2024-09-11,Member
+P02722,Galih Setiawan,Jakarta Selatan,2025-04-05,Reguler
+P02723,Vina Setiawan,Jakarta Selatan,2024-06-02,Member
+P02724,Kartika Aditya,Bandung,2025-03-23,Reguler
+P02725,Fajar Puspita,Yogyakarta,2024-09-04,Premium
+P02726,Oki Halim,Surabaya,2025-08-28,Premium
+P02727,Okta Anggraini,Tangerang Selatan,2024-10-16,Member
+P02728,Okta Anggraini,Jakarta Selatan,2024-12-25,Member
+P02729,Putri Gunawan,Bekasi,2023-12-30,Reguler
+P02730,Yanti Rahayu,Jakarta Selatan,2024-02-01,Reguler
+P02731,Gita Anggraini,Jakarta Selatan,2025-06-26,Reguler
+P02732,Hana Permana,Depok,2023-07-16,Member
+P02733,Okta Firmansyah,Bekasi,2023-09-14,Member
+P02734,Irfan Permana,Jakarta Barat,2024-10-08,Reguler
+P02735,Joko Kusuma,Depok,2025-01-08,Reguler
+P02736,Galih Setiawan,Surabaya,2023-02-10,Member
+P02737,Joko Wijaya,Tangerang Selatan,2023-01-13,Member
+P02738,Maya Nugroho,Jakarta Selatan,2023-05-07,Reguler
+P02739,Budi Firmansyah,Bekasi,2023-10-19,Reguler
+P02740,Sari Saputra,Bandung,2024-07-14,Premium
+P02741,Fajar Hartono,Bandung,2023-02-27,Reguler
+P02742,Okta Saputra,Makassar,2024-06-28,Member
+P02743,Sari Anggraini,Surabaya,2025-06-09,Reguler
+P02744,Kirana Hartono,Jakarta Selatan,2024-01-25,Premium
+P02745,Gita Kusuma,Surabaya,2024-07-17,Reguler
+P02746,Tono Gunawan,Surabaya,2024-12-30,Reguler
+P02747,Kartika Ramadhan,Semarang,2023-04-15,Member
+P02748,Kirana Ramadhan,Jakarta Barat,2024-02-23,Reguler
+P02749,Kartika Lestari,Denpasar,2025-09-06,Member
+P02750,Kirana Ramadhan,Tangerang Selatan,2023-06-01,Reguler
+P02751,Nanda Kusuma,Malang,2024-06-17,Reguler
+P02752,Oki Lestari,Tangerang Selatan,2024-09-04,Premium
+P02753,Bayu Gunawan,Jakarta Barat,2023-03-23,Premium
+P02754,Fajar Hartono,Depok,2023-10-20,Reguler
+P02755,Hesti Wijaya,Jakarta Selatan,2024-04-24,Member
+P02756,Kirana Anggraini,Jakarta Barat,2023-01-05,Member
+P02757,Naufal Aditya,Yogyakarta,2023-02-04,Reguler
+P02758,Sari Firmansyah,Semarang,2024-04-28,Reguler
+P02759,Adi Maulana,Depok,2024-12-26,Reguler
+P02760,Udin Maulana,Yogyakarta,2024-01-02,Reguler
+P02761,Galih Kusuma,Yogyakarta,2023-05-06,Reguler
+P02762,Budi Halim,Surabaya,2023-08-02,Reguler
+P02763,Naufal Pratama,Bekasi,2024-01-27,Reguler
+P02764,Gita Puspita,Bandung,2023-02-18,Reguler
+P02765,Fajar Suryani,Bandung,2024-12-08,Reguler
+P02766,Irfan Setiawan,Bandung,2023-02-22,Premium
+P02767,Dian Nugroho,Semarang,2025-09-19,Premium
+P02768,Hana Suryani,Jakarta Selatan,2023-10-05,Reguler
+P02769,Dian Santoso,Yogyakarta,2024-03-02,Premium
+P02770,Kirana Aditya,Surabaya,2023-06-14,Reguler
+P02771,Tono Lestari,Denpasar,2024-06-28,Reguler
+P02772,Udin Anggraini,Bandung,2023-09-25,Reguler
+P02773,Adi Gunawan,Jakarta Selatan,2023-08-31,Reguler
+P02774,Hana Ramadhan,Denpasar,2023-04-11,Reguler
+P02775,Dewi Puspita,Bekasi,2025-02-05,Reguler
+P02776,Wahyu Firmansyah,Depok,2025-01-19,Member
+P02777,Bayu Saputra,Bandung,2024-08-21,Reguler
+P02778,Mila Setiawan,Semarang,2023-03-02,Reguler
+P02779,Joko Permana,Bekasi,2023-08-12,Premium
+P02780,Joko Aditya,Yogyakarta,2024-01-26,Reguler
+P02781,Galih Nugroho,Depok,2024-12-18,Member
+P02782,Mila Kusuma,Yogyakarta,2025-01-24,Member
+P02783,Sari Lestari,Denpasar,2025-06-02,Reguler
+P02784,Lestari Aditya,Semarang,2025-07-28,Member
+P02785,Citra Anggraini,Tangerang Selatan,2024-12-18,Reguler
+P02786,Farah Gunawan,Semarang,2024-12-08,Reguler
+P02787,Yanti Permana,Tangerang Selatan,2023-03-30,Member
+P02788,Udin Puspita,Makassar,2024-01-31,Reguler
+P02789,Gita Gunawan,Depok,2023-06-02,Reguler
+P02790,Indra Maulana,Semarang,2024-06-03,Member
+P02791,Adi Permana,Tangerang Selatan,2024-04-20,Reguler
+P02792,Kartika Permana,Yogyakarta,2023-04-08,Member
+P02793,Jihan Anggraini,Bekasi,2024-04-17,Reguler
+P02794,Tono Pratama,Semarang,2025-01-01,Reguler
+P02795,Citra Rahayu,Bandung,2025-09-14,Reguler
+P02796,Mila Suryani,Bekasi,2023-08-30,Member
+P02797,Indra Gunawan,Jakarta Selatan,2024-03-18,Member
+P02798,Adi Ramadhan,Jakarta Selatan,2023-10-21,Reguler
+P02799,Udin Ramadhan,Makassar,2024-04-13,Reguler
+P02800,Naufal Saputra,Depok,2024-08-27,Reguler
+P02801,Irfan Maulana,Bekasi,2024-10-14,Reguler
+P02802,Tono Ramadhan,Makassar,2025-02-15,Reguler
+P02803,Irfan Firmansyah,Jakarta Selatan,2023-09-01,Premium
+P02804,Citra Maulana,Malang,2023-10-05,Reguler
+P02805,Naufal Gunawan,Makassar,2025-09-07,Premium
+P02806,Adi Suryani,Makassar,2024-01-28,Member
+P02807,Mila Saputra,Malang,2025-08-08,Reguler
+P02808,Wahyu Rahayu,Semarang,2023-12-20,Reguler
+P02809,Galih Hartono,Jakarta Barat,2024-07-19,Reguler
+P02810,Gita Rahayu,Jakarta Selatan,2023-01-18,Reguler
+P02811,Nanda Puspita,Malang,2024-11-09,Member
+P02812,Mila Ramadhan,Bandung,2023-08-13,Member
+P02813,Dewi Wijaya,Tangerang Selatan,2025-08-07,Reguler
+P02814,Indra Lestari,Bandung,2025-05-14,Reguler
+P02815,Hana Permana,Depok,2024-03-30,Premium
+P02816,Hesti Hartono,Denpasar,2025-06-19,Reguler
+P02817,Okta Anggraini,Bekasi,2023-06-09,Reguler
+P02818,Citra Gunawan,Bandung,2025-04-01,Reguler
+P02819,Putri Suryani,Yogyakarta,2025-01-01,Reguler
+P02820,Naufal Lestari,Makassar,2025-07-28,Member
+P02821,Bayu Permana,Tangerang Selatan,2025-01-16,Premium
+P02822,Jihan Puspita,Denpasar,2024-12-29,Reguler
+P02823,Irfan Aditya,Surabaya,2025-05-02,Reguler
+P02824,Sari Nugroho,Makassar,2024-07-25,Reguler
+P02825,Citra Puspita,Bandung,2025-03-23,Member
+P02826,Rangga Santoso,Bekasi,2023-05-01,Reguler
+P02827,Oki Setiawan,Jakarta Selatan,2023-03-01,Reguler
+P02828,Udin Nugroho,Bekasi,2024-12-20,Member
+P02829,Yanti Kusuma,Tangerang Selatan,2023-11-21,Premium
+P02830,Fajar Setiawan,Jakarta Barat,2023-11-06,Premium
+P02831,Udin Suryani,Jakarta Selatan,2025-02-04,Member
+P02832,Galih Setiawan,Depok,2024-01-31,Reguler
+P02833,Dewi Gunawan,Bekasi,2024-12-08,Reguler
+P02834,Rangga Kusuma,Denpasar,2024-02-27,Member
+P02835,Adi Puspita,Denpasar,2023-07-13,Reguler
+P02836,Lestari Permana,Bekasi,2023-10-23,Member
+P02837,Putri Kusuma,Yogyakarta,2023-01-16,Reguler
+P02838,Bayu Firmansyah,Depok,2023-02-19,Reguler
+P02839,Udin Permana,Surabaya,2023-05-30,Member
+P02840,Eka Kusuma,Surabaya,2024-08-06,Member
+P02841,Putri Ramadhan,Denpasar,2023-08-25,Member
+P02842,Sari Anggraini,Tangerang Selatan,2024-01-23,Premium
+P02843,Adi Setiawan,Denpasar,2025-06-13,Reguler
+P02844,Jihan Firmansyah,Surabaya,2024-04-12,Member
+P02845,Nanda Kusuma,Surabaya,2023-05-01,Member
+P02846,Zaki Nugroho,Surabaya,2024-01-19,Member
+P02847,Okta Pratama,Bandung,2025-04-16,Reguler
+P02848,Dewi Pratama,Semarang,2025-08-12,Member
+P02849,Nanda Hartono,Jakarta Selatan,2023-02-10,Reguler
+P02850,Adi Ramadhan,Jakarta Barat,2023-12-29,Reguler
+P02851,Nanda Santoso,Makassar,2024-04-07,Reguler
+P02852,Nanda Aditya,Jakarta Selatan,2023-08-28,Premium
+P02853,Kirana Wijaya,Surabaya,2023-11-11,Member
+P02854,Hana Maulana,Jakarta Selatan,2025-04-22,Reguler
+P02855,Joko Kusuma,Malang,2024-12-22,Reguler
+P02856,Zaki Kusuma,Jakarta Barat,2025-09-14,Member
+P02857,Irfan Setiawan,Jakarta Barat,2024-10-15,Member
+P02858,Yanti Setiawan,Surabaya,2024-08-09,Reguler
+P02859,Lestari Saputra,Bandung,2025-01-30,Reguler
+P02860,Udin Pratama,Makassar,2024-06-01,Reguler
+P02861,Maya Halim,Jakarta Barat,2023-04-25,Premium
+P02862,Indra Maulana,Tangerang Selatan,2023-11-18,Reguler
+P02863,Yanti Ramadhan,Bekasi,2024-03-28,Member
+P02864,Tono Setiawan,Jakarta Barat,2024-11-18,Premium
+P02865,Adi Ramadhan,Bekasi,2024-04-14,Premium
+P02866,Tono Ramadhan,Jakarta Selatan,2025-03-22,Reguler
+P02867,Mila Permana,Malang,2024-04-16,Reguler
+P02868,Eka Kusuma,Bandung,2024-07-09,Reguler
+P02869,Mila Suryani,Surabaya,2025-09-06,Reguler
+P02870,Hana Anggraini,Makassar,2023-04-30,Reguler
+P02871,Hana Kusuma,Bekasi,2023-01-10,Member
+P02872,Lukman Wijaya,Bekasi,2023-11-03,Member
+P02873,Oki Halim,Bandung,2025-01-28,Member
+P02874,Zaki Kusuma,Surabaya,2023-07-06,Reguler
+P02875,Naufal Kusuma,Jakarta Selatan,2025-07-26,Reguler
+P02876,Tono Saputra,Bekasi,2024-03-28,Reguler
+P02877,Udin Halim,Semarang,2025-03-23,Member
+P02878,Lukman Suryani,Tangerang Selatan,2023-10-10,Premium
+P02879,Oki Santoso,Jakarta Barat,2024-12-17,Reguler
+P02880,Nanda Suryani,Jakarta Selatan,2025-06-20,Reguler
+P02881,Eka Pratama,Jakarta Barat,2023-12-16,Reguler
+P02882,Bayu Setiawan,Tangerang Selatan,2023-06-03,Member
+P02883,Putri Firmansyah,Bekasi,2024-09-20,Member
+P02884,Putri Puspita,Denpasar,2025-01-30,Premium
+P02885,Putri Aditya,Tangerang Selatan,2025-08-21,Member
+P02886,Yanti Halim,Tangerang Selatan,2023-05-25,Reguler
+P02887,Joko Permana,Jakarta Selatan,2023-01-31,Reguler
+P02888,Udin Pratama,Depok,2025-03-16,Member
+P02889,Citra Gunawan,Bandung,2023-09-03,Member
+P02890,Irfan Santoso,Surabaya,2025-03-19,Member
+P02891,Hana Maulana,Bekasi,2025-07-23,Reguler
+P02892,Budi Wijaya,Jakarta Barat,2023-11-09,Reguler
+P02893,Adi Aditya,Bekasi,2023-09-02,Reguler
+P02894,Fajar Hartono,Bekasi,2023-12-29,Reguler
+P02895,Vina Santoso,Malang,2025-01-21,Reguler
+P02896,Bayu Santoso,Jakarta Selatan,2024-05-20,Member
+P02897,Tono Lestari,Semarang,2024-02-12,Reguler
+P02898,Lestari Halim,Denpasar,2023-09-30,Reguler
+P02899,Mila Santoso,Depok,2023-08-03,Member
+P02900,Dian Pratama,Jakarta Selatan,2024-03-16,Reguler
+P02901,Fajar Aditya,Depok,2024-12-23,Reguler
+P02902,Udin Permana,Tangerang Selatan,2023-11-20,Member
+P02903,Gita Firmansyah,Malang,2024-04-21,Member
+P02904,Jihan Maulana,Denpasar,2024-03-11,Reguler
+P02905,Adi Suryani,Surabaya,2024-09-08,Reguler
+P02906,Jihan Santoso,Jakarta Barat,2024-11-27,Member
+P02907,Joko Gunawan,Bekasi,2023-03-25,Reguler
+P02908,Irfan Wijaya,Jakarta Selatan,2025-06-02,Reguler
+P02909,Dewi Gunawan,Bandung,2024-04-17,Reguler
+P02910,Dewi Gunawan,Surabaya,2024-03-22,Premium
+P02911,Hana Santoso,Tangerang Selatan,2023-01-01,Reguler
+P02912,Dian Ramadhan,Tangerang Selatan,2023-04-12,Member
+P02913,Dian Maulana,Surabaya,2024-02-19,Reguler
+P02914,Kartika Rahayu,Surabaya,2025-05-08,Member
+P02915,Adi Permana,Tangerang Selatan,2025-04-30,Member
+P02916,Lukman Santoso,Jakarta Selatan,2024-02-24,Reguler
+P02917,Vina Saputra,Yogyakarta,2025-03-23,Reguler
+P02918,Maya Hartono,Malang,2023-09-16,Premium
+P02919,Citra Suryani,Bandung,2024-03-08,Member
+P02920,Hana Maulana,Malang,2024-07-07,Reguler
+P02921,Galih Puspita,Bandung,2023-10-18,Reguler
+P02922,Putri Firmansyah,Yogyakarta,2023-02-08,Reguler
+P02923,Adi Lestari,Surabaya,2025-08-12,Reguler
+P02924,Kirana Halim,Bekasi,2025-04-21,Reguler
+P02925,Eka Maulana,Surabaya,2024-03-19,Member
+P02926,Bayu Hartono,Surabaya,2024-05-23,Reguler
+P02927,Dewi Gunawan,Jakarta Selatan,2023-09-05,Reguler
+P02928,Tono Lestari,Yogyakarta,2023-10-17,Member
+P02929,Udin Puspita,Tangerang Selatan,2023-10-21,Reguler
+P02930,Okta Nugroho,Jakarta Barat,2023-09-01,Reguler
+P02931,Putri Gunawan,Bekasi,2025-08-07,Reguler
+P02932,Adi Anggraini,Denpasar,2023-09-12,Reguler
+P02933,Kirana Saputra,Makassar,2025-07-02,Reguler
+P02934,Fajar Firmansyah,Makassar,2023-04-08,Premium
+P02935,Kirana Gunawan,Yogyakarta,2023-04-02,Member
+P02936,Lukman Santoso,Depok,2024-10-25,Reguler
+P02937,Farah Saputra,Surabaya,2023-02-13,Reguler
+P02938,Dian Halim,Jakarta Selatan,2025-03-27,Reguler
+P02939,Zaki Maulana,Malang,2025-03-20,Member
+P02940,Hesti Gunawan,Depok,2024-10-09,Member
+P02941,Hesti Ramadhan,Semarang,2024-10-18,Reguler
+P02942,Joko Pratama,Jakarta Selatan,2023-11-19,Reguler
+P02943,Citra Puspita,Tangerang Selatan,2025-07-13,Reguler
+P02944,Hana Hartono,Makassar,2024-05-28,Reguler
+P02945,Maya Puspita,Makassar,2023-11-04,Reguler
+P02946,Lukman Firmansyah,Surabaya,2023-08-07,Member
+P02947,Kartika Anggraini,Bandung,2025-07-29,Reguler
+P02948,Citra Firmansyah,Semarang,2025-03-27,Member
+P02949,Tono Wijaya,Depok,2024-06-12,Reguler
+P02950,Dewi Lestari,Semarang,2023-09-20,Premium
+P02951,Dewi Anggraini,Bekasi,2023-02-17,Member
+P02952,Eka Halim,Bekasi,2023-02-19,Reguler
+P02953,Tono Setiawan,Tangerang Selatan,2025-09-20,Reguler
+P02954,Rangga Gunawan,Bekasi,2025-07-11,Member
+P02955,Okta Rahayu,Bandung,2024-09-11,Member
+P02956,Oki Hartono,Jakarta Barat,2025-09-20,Reguler
+P02957,Tono Halim,Bekasi,2025-09-08,Premium
+P02958,Lukman Maulana,Surabaya,2025-01-10,Reguler
+P02959,Indra Permana,Bekasi,2023-09-02,Reguler
+P02960,Bayu Lestari,Jakarta Barat,2024-05-22,Reguler
+P02961,Kirana Aditya,Yogyakarta,2024-09-27,Member
+P02962,Dian Pratama,Bekasi,2023-07-03,Member
+P02963,Putri Nugroho,Surabaya,2025-08-02,Reguler
+P02964,Wahyu Aditya,Jakarta Barat,2023-12-09,Member
+P02965,Bayu Anggraini,Jakarta Barat,2025-04-20,Member
+P02966,Putri Suryani,Bekasi,2024-04-09,Reguler
+P02967,Dewi Rahayu,Jakarta Selatan,2025-08-28,Reguler
+P02968,Budi Puspita,Yogyakarta,2023-11-27,Reguler
+P02969,Irfan Pratama,Jakarta Selatan,2024-08-17,Member
+P02970,Dian Lestari,Jakarta Selatan,2025-01-23,Reguler
+P02971,Joko Aditya,Surabaya,2023-01-29,Reguler
+P02972,Eka Puspita,Bandung,2024-10-03,Reguler
+P02973,Mila Halim,Jakarta Selatan,2025-07-08,Reguler
+P02974,Joko Halim,Depok,2025-04-06,Reguler
+P02975,Lestari Halim,Bandung,2023-03-31,Reguler
+P02976,Gita Maulana,Denpasar,2024-06-05,Reguler
+P02977,Dewi Ramadhan,Jakarta Selatan,2024-12-09,Reguler
+P02978,Lukman Puspita,Semarang,2023-01-06,Member
+P02979,Farah Santoso,Surabaya,2023-03-06,Reguler
+P02980,Mila Santoso,Tangerang Selatan,2025-07-18,Member
+P02981,Irfan Puspita,Jakarta Barat,2024-08-06,Reguler
+P02982,Hesti Permana,Jakarta Selatan,2024-04-11,Reguler
+P02983,Lestari Saputra,Yogyakarta,2024-11-03,Premium
+P02984,Vina Kusuma,Jakarta Barat,2023-12-08,Member
+P02985,Nanda Kusuma,Makassar,2023-10-09,Reguler
+P02986,Kartika Anggraini,Jakarta Selatan,2024-07-05,Reguler
+P02987,Wahyu Saputra,Semarang,2025-08-31,Reguler
+P02988,Zaki Saputra,Jakarta Selatan,2023-07-16,Member
+P02989,Lukman Santoso,Tangerang Selatan,2023-11-06,Reguler
+P02990,Mila Suryani,Jakarta Barat,2024-05-06,Reguler
+P02991,Sari Permana,Makassar,2025-03-29,Reguler
+P02992,Vina Suryani,Bekasi,2025-09-06,Reguler
+P02993,Sari Saputra,Jakarta Selatan,2023-06-09,Premium
+P02994,Joko Halim,Jakarta Barat,2025-09-11,Member
+P02995,Udin Saputra,Surabaya,2023-01-06,Premium
+P02996,Kirana Wijaya,Tangerang Selatan,2024-09-14,Reguler
+P02997,Eka Rahayu,Tangerang Selatan,2023-09-28,Member
+P02998,Joko Firmansyah,Surabaya,2023-04-17,Premium
+P02999,Oki Santoso,Bekasi,2025-08-29,Reguler
+P03000,Lestari Permana,Bekasi,2025-04-06,Reguler
+P03001,Irfan Gunawan,Bandung,2023-10-05,Member
+P03002,Fajar Anggraini,Tangerang Selatan,2024-06-08,Member
+P03003,Dian Kusuma,Semarang,2023-03-14,Member
+P03004,Zaki Puspita,Tangerang Selatan,2025-04-05,Member
+P03005,Udin Saputra,Surabaya,2024-04-17,Reguler
+P03006,Nanda Rahayu,Tangerang Selatan,2024-03-28,Premium
+P03007,Lukman Saputra,Jakarta Selatan,2023-02-09,Reguler
+P03008,Putri Lestari,Bekasi,2024-10-03,Member
+P03009,Jihan Santoso,Depok,2025-04-12,Member
+P03010,Zaki Firmansyah,Malang,2023-02-02,Reguler
+P03011,Mila Halim,Malang,2025-01-24,Member
+P03012,Naufal Maulana,Surabaya,2025-05-04,Reguler
+P03013,Mila Puspita,Jakarta Barat,2024-08-12,Reguler
+P03014,Udin Santoso,Tangerang Selatan,2023-04-23,Premium
+P03015,Kirana Saputra,Tangerang Selatan,2024-05-28,Reguler
+P03016,Naufal Ramadhan,Bandung,2023-09-19,Premium
+P03017,Tono Lestari,Yogyakarta,2024-07-30,Member
+P03018,Gita Santoso,Jakarta Selatan,2025-01-02,Member
+P03019,Okta Setiawan,Depok,2023-01-17,Premium
+P03020,Citra Setiawan,Surabaya,2023-01-31,Reguler
+P03021,Udin Setiawan,Jakarta Barat,2025-01-22,Reguler
+P03022,Okta Lestari,Bekasi,2023-05-16,Reguler
+P03023,Yanti Permana,Bekasi,2025-09-05,Premium
+P03024,Dian Aditya,Malang,2023-03-11,Reguler
+P03025,Jihan Firmansyah,Jakarta Selatan,2023-12-06,Member
+P03026,Lestari Rahayu,Jakarta Selatan,2024-06-10,Member
+P03027,Gita Firmansyah,Surabaya,2024-09-29,Reguler
+P03028,Lestari Santoso,Denpasar,2025-01-07,Reguler
+P03029,Okta Pratama,Makassar,2023-06-26,Reguler
+P03030,Rangga Setiawan,Malang,2024-11-02,Premium
+P03031,Budi Saputra,Malang,2025-09-20,Reguler
+P03032,Farah Saputra,Semarang,2023-07-11,Member
+P03033,Bayu Firmansyah,Jakarta Barat,2024-04-07,Member
+P03034,Oki Wijaya,Malang,2023-12-09,Member
+P03035,Sari Halim,Yogyakarta,2023-01-09,Reguler
+P03036,Hana Gunawan,Semarang,2023-12-16,Reguler
+P03037,Gita Halim,Jakarta Selatan,2024-10-23,Reguler
+P03038,Lukman Lestari,Malang,2024-09-17,Reguler
+P03039,Wahyu Halim,Jakarta Barat,2024-07-16,Member
+P03040,Kartika Permana,Surabaya,2025-07-11,Member
+P03041,Nanda Aditya,Bekasi,2023-04-28,Reguler
+P03042,Zaki Firmansyah,Jakarta Barat,2025-05-27,Reguler
+P03043,Lukman Lestari,Semarang,2023-09-07,Reguler
+P03044,Oki Hartono,Depok,2024-03-14,Reguler
+P03045,Lestari Saputra,Bandung,2024-09-26,Member
+P03046,Kirana Firmansyah,Surabaya,2025-08-29,Member
+P03047,Sari Ramadhan,Jakarta Selatan,2023-08-23,Member
+P03048,Naufal Puspita,Surabaya,2024-10-15,Premium
+P03049,Budi Wijaya,Bandung,2024-08-04,Premium
+P03050,Zaki Suryani,Semarang,2025-05-12,Reguler
+P03051,Hesti Suryani,Bandung,2024-03-19,Member
+P03052,Galih Firmansyah,Jakarta Barat,2025-05-13,Reguler
+P03053,Rangga Firmansyah,Bandung,2025-05-12,Member
+P03054,Bayu Firmansyah,Surabaya,2023-11-18,Member
+P03055,Mila Lestari,Depok,2024-05-03,Member
+P03056,Sari Saputra,Semarang,2024-03-27,Reguler
+P03057,Dian Puspita,Denpasar,2024-06-03,Reguler
+P03058,Mila Saputra,Depok,2025-01-01,Reguler
+P03059,Maya Wijaya,Jakarta Barat,2023-03-27,Member
+P03060,Budi Aditya,Depok,2023-05-11,Reguler
+P03061,Tono Puspita,Tangerang Selatan,2024-11-01,Reguler
+P03062,Naufal Puspita,Bekasi,2025-05-20,Member
+P03063,Farah Anggraini,Tangerang Selatan,2024-08-14,Reguler
+P03064,Sari Maulana,Yogyakarta,2025-07-20,Reguler
+P03065,Udin Pratama,Malang,2024-01-24,Reguler
+P03066,Kartika Kusuma,Jakarta Selatan,2024-02-18,Reguler
+P03067,Kartika Saputra,Makassar,2025-09-17,Reguler
+P03068,Eka Pratama,Depok,2023-04-04,Member
+P03069,Farah Kusuma,Semarang,2023-11-09,Reguler
+P03070,Putri Halim,Bandung,2025-06-10,Reguler
+P03071,Yanti Rahayu,Bandung,2023-05-01,Member
+P03072,Dian Nugroho,Semarang,2025-08-28,Reguler
+P03073,Budi Puspita,Makassar,2024-01-02,Reguler
+P03074,Adi Santoso,Bandung,2023-03-03,Reguler
+P03075,Lestari Kusuma,Jakarta Selatan,2023-11-16,Member
+P03076,Adi Permana,Makassar,2025-06-12,Member
+P03077,Hesti Anggraini,Malang,2025-05-28,Premium
+P03078,Lestari Saputra,Tangerang Selatan,2023-09-10,Reguler
+P03079,Irfan Aditya,Malang,2023-02-03,Member
+P03080,Mila Ramadhan,Bekasi,2023-11-28,Reguler
+P03081,Nanda Maulana,Makassar,2024-08-10,Reguler
+P03082,Budi Firmansyah,Jakarta Barat,2023-01-13,Reguler
+P03083,Eka Wijaya,Denpasar,2025-09-17,Reguler
+P03084,Lestari Wijaya,Malang,2024-02-18,Reguler
+P03085,Putri Santoso,Bekasi,2024-08-11,Reguler
+P03086,Kirana Kusuma,Jakarta Selatan,2025-03-30,Reguler
+P03087,Gita Halim,Denpasar,2025-05-13,Premium
+P03088,Tono Puspita,Surabaya,2025-08-08,Reguler
+P03089,Vina Santoso,Tangerang Selatan,2024-05-09,Reguler
+P03090,Zaki Rahayu,Bandung,2023-02-18,Member
+P03091,Irfan Kusuma,Malang,2024-11-26,Reguler
+P03092,Zaki Maulana,Makassar,2024-02-22,Member
+P03093,Oki Puspita,Jakarta Selatan,2024-03-14,Reguler
+P03094,Eka Puspita,Bekasi,2024-02-09,Reguler
+P03095,Kartika Wijaya,Jakarta Selatan,2024-08-04,Reguler
+P03096,Eka Gunawan,Yogyakarta,2024-06-14,Member
+P03097,Lukman Saputra,Jakarta Barat,2023-01-30,Member
+P03098,Nanda Pratama,Depok,2024-06-01,Reguler
+P03099,Dewi Kusuma,Jakarta Barat,2023-12-23,Member
+P03100,Indra Kusuma,Surabaya,2024-02-04,Reguler
+P03101,Bayu Rahayu,Depok,2023-02-17,Reguler
+P03102,Dewi Kusuma,Surabaya,2024-09-26,Reguler
+P03103,Joko Anggraini,Bekasi,2025-09-17,Reguler
+P03104,Irfan Halim,Malang,2023-06-06,Member
+P03105,Dian Gunawan,Malang,2025-01-30,Reguler
+P03106,Farah Gunawan,Tangerang Selatan,2025-02-10,Reguler
+P03107,Oki Ramadhan,Semarang,2025-08-06,Member
+P03108,Maya Hartono,Surabaya,2024-08-28,Member
+P03109,Bayu Lestari,Surabaya,2024-10-31,Reguler
+P03110,Kartika Gunawan,Makassar,2024-03-28,Member
+P03111,Putri Permana,Jakarta Selatan,2025-01-28,Member
+P03112,Hana Setiawan,Bekasi,2023-10-14,Reguler
+P03113,Oki Kusuma,Jakarta Selatan,2025-04-28,Member
+P03114,Bayu Firmansyah,Bekasi,2024-06-07,Member
+P03115,Tono Nugroho,Bandung,2023-09-21,Reguler
+P03116,Lukman Anggraini,Surabaya,2023-12-14,Member
+P03117,Eka Gunawan,Semarang,2025-07-05,Reguler
+P03118,Rangga Nugroho,Yogyakarta,2023-05-27,Reguler
+P03119,Wahyu Permana,Semarang,2023-12-01,Member
+P03120,Maya Aditya,Jakarta Barat,2025-01-06,Reguler
+P03121,Hesti Nugroho,Bandung,2024-03-30,Reguler
+P03122,Zaki Saputra,Tangerang Selatan,2025-01-23,Reguler
+P03123,Zaki Saputra,Bandung,2023-01-11,Reguler
+P03124,Dian Pratama,Tangerang Selatan,2024-04-04,Reguler
+P03125,Putri Santoso,Jakarta Selatan,2025-01-07,Reguler
+P03126,Dian Halim,Surabaya,2023-01-16,Premium
+P03127,Rangga Santoso,Depok,2025-06-21,Reguler
+P03128,Lestari Hartono,Tangerang Selatan,2023-12-21,Reguler
+P03129,Bayu Aditya,Bandung,2023-12-21,Reguler
+P03130,Adi Aditya,Denpasar,2023-08-18,Reguler
+P03131,Citra Setiawan,Jakarta Barat,2023-10-15,Member
+P03132,Nanda Maulana,Surabaya,2023-03-04,Reguler
+P03133,Jihan Permana,Surabaya,2023-10-06,Premium
+P03134,Udin Saputra,Surabaya,2024-03-01,Member
+P03135,Gita Rahayu,Depok,2024-11-26,Member
+P03136,Nanda Wijaya,Bekasi,2023-11-13,Reguler
+P03137,Joko Suryani,Surabaya,2023-03-07,Reguler
+P03138,Fajar Puspita,Semarang,2024-10-01,Member
+P03139,Okta Anggraini,Bekasi,2023-08-20,Reguler
+P03140,Budi Pratama,Malang,2023-09-10,Member
+P03141,Vina Kusuma,Bandung,2023-12-22,Reguler
+P03142,Mila Maulana,Surabaya,2025-02-17,Member
+P03143,Eka Gunawan,Malang,2025-08-20,Member
+P03144,Irfan Hartono,Depok,2023-03-03,Member
+P03145,Lestari Gunawan,Jakarta Barat,2023-08-28,Premium
+P03146,Udin Maulana,Semarang,2024-03-12,Premium
+P03147,Dewi Aditya,Depok,2023-02-17,Reguler
+P03148,Mila Puspita,Malang,2023-01-23,Reguler
+P03149,Gita Rahayu,Jakarta Selatan,2023-09-04,Reguler
+P03150,Oki Lestari,Semarang,2023-03-16,Reguler
+P03151,Kirana Kusuma,Tangerang Selatan,2024-08-29,Member
+P03152,Putri Gunawan,Bandung,2023-03-21,Member
+P03153,Irfan Saputra,Makassar,2024-03-19,Reguler
+P03154,Hesti Firmansyah,Bandung,2025-09-18,Member
+P03155,Zaki Hartono,Surabaya,2025-03-05,Reguler
+P03156,Bayu Puspita,Bandung,2024-01-14,Premium
+P03157,Citra Maulana,Depok,2023-11-15,Member
+P03158,Okta Ramadhan,Semarang,2025-02-15,Reguler
+P03159,Dian Santoso,Semarang,2025-05-14,Reguler
+P03160,Rangga Firmansyah,Semarang,2023-05-29,Reguler
+P03161,Hesti Halim,Jakarta Selatan,2025-07-05,Member
+P03162,Wahyu Rahayu,Depok,2025-02-08,Member
+P03163,Joko Saputra,Depok,2025-03-08,Premium
+P03164,Maya Santoso,Surabaya,2025-06-14,Reguler
+P03165,Eka Pratama,Depok,2024-09-18,Member
+P03166,Nanda Gunawan,Tangerang Selatan,2024-07-20,Member
+P03167,Rangga Permana,Depok,2024-07-16,Premium
+P03168,Fajar Wijaya,Denpasar,2024-05-31,Reguler
+P03169,Farah Kusuma,Bandung,2025-06-07,Reguler
+P03170,Sari Pratama,Malang,2024-04-04,Reguler
+P03171,Citra Saputra,Bandung,2024-01-30,Member
+P03172,Putri Ramadhan,Semarang,2024-10-10,Reguler
+P03173,Wahyu Permana,Depok,2024-12-14,Reguler
+P03174,Bayu Wijaya,Tangerang Selatan,2025-09-21,Reguler
+P03175,Farah Pratama,Malang,2024-09-25,Reguler
+P03176,Jihan Suryani,Surabaya,2025-03-06,Member
+P03177,Putri Lestari,Malang,2024-07-19,Member
+P03178,Sari Permana,Semarang,2023-12-26,Member
+P03179,Galih Gunawan,Malang,2024-04-16,Reguler
+P03180,Mila Permana,Jakarta Selatan,2023-12-26,Reguler
+P03181,Kartika Santoso,Depok,2025-03-13,Reguler
+P03182,Jihan Halim,Depok,2024-12-12,Reguler
+P03183,Lestari Pratama,Bandung,2025-08-26,Member
+P03184,Putri Setiawan,Tangerang Selatan,2023-07-25,Reguler
+P03185,Eka Hartono,Yogyakarta,2023-06-14,Member
+P03186,Irfan Suryani,Malang,2024-05-02,Member
+P03187,Kartika Rahayu,Bandung,2023-03-16,Reguler
+P03188,Wahyu Wijaya,Tangerang Selatan,2025-01-31,Premium
+P03189,Farah Suryani,Jakarta Selatan,2023-09-16,Premium
+P03190,Wahyu Aditya,Jakarta Selatan,2024-09-03,Member
+P03191,Kirana Santoso,Malang,2023-04-01,Member
+P03192,Wahyu Halim,Makassar,2023-12-12,Member
+P03193,Okta Lestari,Denpasar,2024-04-17,Reguler
+P03194,Yanti Maulana,Surabaya,2025-04-26,Reguler
+P03195,Mila Hartono,Makassar,2024-04-18,Premium
+P03196,Oki Ramadhan,Tangerang Selatan,2024-02-20,Reguler
+P03197,Hesti Rahayu,Jakarta Selatan,2023-12-31,Reguler
+P03198,Yanti Lestari,Malang,2025-01-16,Member
+P03199,Indra Rahayu,Jakarta Selatan,2024-12-21,Premium
+P03200,Eka Setiawan,Surabaya,2023-10-07,Reguler
+P03201,Gita Halim,Bandung,2025-07-30,Reguler
+P03202,Kirana Aditya,Bandung,2025-01-29,Member
+P03203,Galih Ramadhan,Jakarta Selatan,2024-03-22,Reguler
+P03204,Putri Puspita,Semarang,2023-01-24,Reguler
+P03205,Vina Pratama,Tangerang Selatan,2024-07-22,Premium
+P03206,Maya Santoso,Malang,2023-03-25,Reguler
+P03207,Maya Wijaya,Bandung,2024-09-17,Reguler
+P03208,Rangga Nugroho,Malang,2024-09-06,Reguler
+P03209,Udin Pratama,Bekasi,2024-01-26,Reguler
+P03210,Farah Kusuma,Denpasar,2024-04-01,Member
+P03211,Putri Gunawan,Tangerang Selatan,2023-02-27,Member
+P03212,Lestari Halim,Surabaya,2023-05-17,Reguler
+P03213,Jihan Suryani,Bandung,2023-10-10,Reguler
+P03214,Joko Lestari,Yogyakarta,2023-04-19,Member
+P03215,Yanti Rahayu,Denpasar,2025-09-26,Premium
+P03216,Jihan Lestari,Denpasar,2025-01-17,Reguler
+P03217,Okta Suryani,Depok,2025-01-01,Reguler
+P03218,Lestari Puspita,Makassar,2023-10-05,Member
+P03219,Naufal Maulana,Bandung,2025-01-12,Member
+P03220,Farah Santoso,Jakarta Selatan,2024-07-28,Reguler
+P03221,Joko Setiawan,Denpasar,2024-07-14,Reguler
+P03222,Udin Halim,Jakarta Selatan,2023-02-26,Member
+P03223,Zaki Saputra,Depok,2025-03-18,Reguler
+P03224,Jihan Saputra,Jakarta Barat,2024-10-11,Reguler
+P03225,Kirana Suryani,Depok,2025-06-03,Reguler
+P03226,Naufal Hartono,Yogyakarta,2023-09-02,Reguler
+P03227,Nanda Saputra,Jakarta Selatan,2025-08-19,Member
+P03228,Sari Pratama,Jakarta Barat,2024-10-25,Premium
+P03229,Kartika Saputra,Depok,2023-07-10,Member
+P03230,Naufal Aditya,Semarang,2025-05-05,Reguler
+P03231,Maya Aditya,Bandung,2023-04-27,Member
+P03232,Tono Rahayu,Surabaya,2024-04-20,Reguler
+P03233,Gita Nugroho,Bekasi,2025-02-27,Member
+P03234,Vina Anggraini,Jakarta Selatan,2024-11-06,Premium
+P03235,Fajar Saputra,Jakarta Selatan,2023-12-29,Member
+P03236,Rangga Setiawan,Tangerang Selatan,2025-07-07,Member
+P03237,Jihan Ramadhan,Yogyakarta,2024-06-18,Reguler
+P03238,Dian Puspita,Makassar,2023-06-19,Premium
+P03239,Eka Hartono,Makassar,2025-03-15,Reguler
+P03240,Oki Permana,Jakarta Selatan,2024-10-10,Reguler
+P03241,Zaki Wijaya,Bandung,2023-04-22,Reguler
+P03242,Joko Firmansyah,Bekasi,2024-09-04,Reguler
+P03243,Mila Lestari,Jakarta Barat,2024-09-23,Reguler
+P03244,Wahyu Halim,Tangerang Selatan,2023-06-20,Reguler
+P03245,Fajar Puspita,Denpasar,2024-12-27,Member
+P03246,Dewi Aditya,Bandung,2025-01-15,Member
+P03247,Putri Hartono,Jakarta Selatan,2024-05-13,Reguler
+P03248,Adi Lestari,Yogyakarta,2024-02-10,Reguler
+P03249,Galih Santoso,Surabaya,2024-02-03,Member
+P03250,Irfan Santoso,Bandung,2024-05-24,Member
+P03251,Nanda Kusuma,Denpasar,2025-03-13,Member
+P03252,Fajar Santoso,Depok,2024-06-10,Reguler
+P03253,Vina Gunawan,Surabaya,2024-07-25,Member
+P03254,Indra Permana,Makassar,2024-02-08,Reguler
+P03255,Maya Rahayu,Jakarta Barat,2023-06-14,Reguler
+P03256,Rangga Maulana,Surabaya,2025-04-24,Member
+P03257,Jihan Firmansyah,Surabaya,2025-08-22,Reguler
+P03258,Jihan Saputra,Yogyakarta,2025-07-23,Member
+P03259,Hesti Hartono,Denpasar,2024-08-28,Reguler
+P03260,Kirana Kusuma,Malang,2023-07-27,Reguler
+P03261,Zaki Firmansyah,Jakarta Barat,2025-06-08,Reguler
+P03262,Jihan Halim,Surabaya,2024-05-20,Reguler
+P03263,Rangga Halim,Semarang,2023-03-02,Reguler
+P03264,Naufal Rahayu,Malang,2023-07-15,Reguler
+P03265,Adi Santoso,Yogyakarta,2023-06-15,Reguler
+P03266,Jihan Saputra,Makassar,2024-05-06,Reguler
+P03267,Jihan Permana,Bandung,2023-01-29,Member
+P03268,Hana Kusuma,Surabaya,2024-12-17,Member
+P03269,Fajar Santoso,Yogyakarta,2025-01-22,Member
+P03270,Putri Pratama,Makassar,2023-10-31,Premium
+P03271,Eka Wijaya,Jakarta Selatan,2023-11-13,Member
+P03272,Maya Maulana,Yogyakarta,2024-06-05,Member
+P03273,Gita Aditya,Tangerang Selatan,2024-11-29,Member
+P03274,Eka Kusuma,Jakarta Barat,2025-03-20,Member
+P03275,Naufal Setiawan,Semarang,2024-07-26,Reguler
+P03276,Jihan Nugroho,Surabaya,2024-02-13,Reguler
+P03277,Citra Halim,Jakarta Barat,2025-02-11,Reguler
+P03278,Hana Gunawan,Surabaya,2024-09-19,Member
+P03279,Dian Puspita,Depok,2025-02-12,Member
+P03280,Joko Firmansyah,Jakarta Selatan,2023-01-08,Member
+P03281,Nanda Firmansyah,Makassar,2023-11-05,Member
+P03282,Maya Anggraini,Jakarta Barat,2025-01-24,Premium
+P03283,Citra Nugroho,Tangerang Selatan,2024-02-21,Reguler
+P03284,Zaki Maulana,Depok,2023-07-12,Reguler
+P03285,Citra Firmansyah,Bekasi,2024-10-05,Member
+P03286,Zaki Setiawan,Jakarta Barat,2024-12-13,Member
+P03287,Farah Hartono,Jakarta Barat,2023-12-03,Reguler
+P03288,Maya Puspita,Bandung,2025-01-05,Member
+P03289,Indra Nugroho,Bandung,2024-02-24,Premium
+P03290,Kartika Rahayu,Surabaya,2023-01-27,Reguler
+P03291,Okta Halim,Tangerang Selatan,2023-01-05,Member
+P03292,Lukman Ramadhan,Jakarta Barat,2024-03-11,Member
+P03293,Gita Hartono,Bekasi,2024-03-22,Reguler
+P03294,Maya Santoso,Tangerang Selatan,2025-06-13,Member
+P03295,Yanti Nugroho,Surabaya,2024-09-21,Reguler
+P03296,Vina Puspita,Makassar,2024-11-15,Reguler
+P03297,Farah Lestari,Jakarta Selatan,2024-02-07,Reguler
+P03298,Putri Maulana,Malang,2023-11-25,Reguler
+P03299,Sari Gunawan,Jakarta Selatan,2025-02-10,Reguler
+P03300,Gita Puspita,Malang,2023-11-09,Reguler
+P03301,Okta Aditya,Denpasar,2023-12-29,Reguler
+P03302,Jihan Rahayu,Depok,2023-11-21,Member
+P03303,Dewi Firmansyah,Jakarta Barat,2023-09-07,Reguler
+P03304,Zaki Aditya,Depok,2024-09-09,Reguler
+P03305,Kirana Nugroho,Tangerang Selatan,2023-01-03,Premium
+P03306,Irfan Maulana,Bekasi,2023-02-06,Member
+P03307,Lestari Wijaya,Semarang,2025-09-07,Member
+P03308,Zaki Suryani,Makassar,2024-02-27,Premium
+P03309,Nanda Kusuma,Tangerang Selatan,2025-03-30,Reguler
+P03310,Udin Suryani,Tangerang Selatan,2025-08-19,Reguler
+P03311,Udin Puspita,Yogyakarta,2024-09-11,Member
+P03312,Gita Pratama,Jakarta Barat,2023-02-10,Member
+P03313,Vina Saputra,Bandung,2025-02-02,Reguler
+P03314,Lestari Setiawan,Bandung,2023-06-08,Premium
+P03315,Rangga Wijaya,Semarang,2024-03-16,Member
+P03316,Lestari Anggraini,Surabaya,2025-01-08,Reguler
+P03317,Maya Setiawan,Malang,2023-12-08,Premium
+P03318,Zaki Anggraini,Jakarta Selatan,2023-08-22,Premium
+P03319,Kirana Wijaya,Depok,2025-09-01,Premium
+P03320,Yanti Wijaya,Tangerang Selatan,2025-02-15,Member
+P03321,Bayu Permana,Surabaya,2023-09-06,Reguler
+P03322,Adi Setiawan,Makassar,2025-02-26,Member
+P03323,Okta Santoso,Bandung,2024-01-03,Reguler
+P03324,Dian Permana,Bekasi,2024-01-02,Reguler
+P03325,Yanti Ramadhan,Jakarta Selatan,2023-05-26,Member
+P03326,Lestari Firmansyah,Bandung,2025-03-09,Premium
+P03327,Kirana Aditya,Malang,2025-01-13,Reguler
+P03328,Yanti Maulana,Surabaya,2024-04-04,Reguler
+P03329,Nanda Nugroho,Surabaya,2023-03-08,Member
+P03330,Indra Nugroho,Jakarta Barat,2025-05-31,Premium
+P03331,Indra Hartono,Makassar,2023-12-02,Reguler
+P03332,Kartika Setiawan,Bandung,2023-04-07,Reguler
+P03333,Lukman Permana,Jakarta Selatan,2025-01-14,Reguler
+P03334,Lestari Saputra,Denpasar,2023-01-26,Reguler
+P03335,Budi Gunawan,Bekasi,2025-02-08,Reguler
+P03336,Okta Aditya,Jakarta Selatan,2025-01-03,Member
+P03337,Joko Maulana,Yogyakarta,2024-07-11,Reguler
+P03338,Sari Saputra,Bandung,2024-12-18,Reguler
+P03339,Hesti Santoso,Jakarta Selatan,2024-01-23,Member
+P03340,Dian Wijaya,Semarang,2024-06-20,Premium
+P03341,Farah Setiawan,Depok,2024-07-27,Member
+P03342,Farah Suryani,Malang,2025-01-21,Premium
+P03343,Lestari Maulana,Semarang,2025-04-15,Reguler
+P03344,Tono Suryani,Surabaya,2025-02-05,Premium
+P03345,Zaki Santoso,Bandung,2025-01-02,Member
+P03346,Hesti Setiawan,Depok,2025-03-30,Reguler
+P03347,Eka Maulana,Denpasar,2023-01-24,Reguler
+P03348,Oki Permana,Bandung,2023-09-22,Reguler
+P03349,Lestari Saputra,Semarang,2024-09-25,Member
+P03350,Galih Halim,Jakarta Selatan,2024-11-25,Member
+P03351,Sari Maulana,Jakarta Barat,2023-07-28,Reguler
+P03352,Vina Firmansyah,Surabaya,2025-03-18,Member
+P03353,Gita Ramadhan,Tangerang Selatan,2024-01-31,Member
+P03354,Mila Setiawan,Jakarta Selatan,2023-06-24,Reguler
+P03355,Nanda Anggraini,Depok,2025-02-16,Premium
+P03356,Hana Setiawan,Surabaya,2025-03-06,Premium
+P03357,Maya Kusuma,Tangerang Selatan,2023-06-15,Member
+P03358,Irfan Kusuma,Tangerang Selatan,2023-04-04,Reguler
+P03359,Gita Aditya,Bekasi,2025-05-20,Member
+P03360,Adi Aditya,Denpasar,2024-05-29,Premium
+P03361,Irfan Anggraini,Tangerang Selatan,2024-10-05,Premium
+P03362,Nanda Puspita,Malang,2025-07-05,Reguler
+P03363,Hana Saputra,Semarang,2025-01-12,Premium
+P03364,Dewi Firmansyah,Tangerang Selatan,2025-01-30,Reguler
+P03365,Mila Aditya,Surabaya,2024-09-02,Member
+P03366,Putri Ramadhan,Denpasar,2024-04-08,Member
+P03367,Lukman Hartono,Jakarta Barat,2024-08-02,Member
+P03368,Maya Aditya,Depok,2025-06-25,Member
+P03369,Kartika Santoso,Malang,2025-03-27,Member
+P03370,Jihan Nugroho,Jakarta Selatan,2025-07-12,Reguler
+P03371,Fajar Nugroho,Jakarta Selatan,2023-09-07,Member
+P03372,Adi Kusuma,Makassar,2024-04-10,Member
+P03373,Adi Gunawan,Bekasi,2025-01-29,Reguler
+P03374,Citra Santoso,Denpasar,2023-11-03,Reguler
+P03375,Fajar Firmansyah,Denpasar,2025-08-13,Premium
+P03376,Adi Lestari,Surabaya,2024-05-01,Member
+P03377,Kirana Kusuma,Yogyakarta,2023-02-28,Member
+P03378,Budi Aditya,Bandung,2023-02-28,Member
+P03379,Mila Kusuma,Surabaya,2024-08-13,Member
+P03380,Gita Kusuma,Jakarta Selatan,2025-04-01,Premium
+P03381,Dian Halim,Jakarta Selatan,2023-10-11,Reguler
+P03382,Hana Santoso,Surabaya,2024-01-30,Reguler
+P03383,Putri Hartono,Tangerang Selatan,2023-11-03,Reguler
+P03384,Citra Nugroho,Tangerang Selatan,2023-11-27,Member
+P03385,Hesti Wijaya,Semarang,2025-05-24,Member
+P03386,Naufal Puspita,Jakarta Selatan,2023-02-27,Reguler
+P03387,Maya Setiawan,Tangerang Selatan,2023-07-14,Reguler
+P03388,Galih Saputra,Malang,2023-08-05,Member
+P03389,Irfan Firmansyah,Jakarta Selatan,2023-12-18,Member
+P03390,Sari Wijaya,Jakarta Selatan,2024-10-13,Reguler
+P03391,Galih Ramadhan,Bandung,2025-07-22,Reguler
+P03392,Maya Firmansyah,Jakarta Selatan,2024-03-03,Member
+P03393,Hana Anggraini,Tangerang Selatan,2024-03-14,Reguler
+P03394,Sari Anggraini,Malang,2024-01-26,Premium
+P03395,Jihan Lestari,Bekasi,2024-01-11,Reguler
+P03396,Budi Lestari,Surabaya,2024-01-28,Reguler
+P03397,Zaki Permana,Tangerang Selatan,2024-03-17,Member
+P03398,Gita Pratama,Surabaya,2023-01-29,Member
+P03399,Dewi Permana,Surabaya,2023-01-29,Premium
+P03400,Okta Gunawan,Denpasar,2023-04-10,Member
+P03401,Kartika Permana,Bandung,2023-03-29,Reguler
+P03402,Zaki Ramadhan,Denpasar,2023-09-28,Member
+P03403,Naufal Setiawan,Yogyakarta,2024-03-25,Reguler
+P03404,Zaki Halim,Jakarta Selatan,2025-08-08,Member
+P03405,Oki Firmansyah,Bandung,2025-08-08,Reguler
+P03406,Fajar Aditya,Jakarta Selatan,2023-03-01,Reguler
+P03407,Maya Kusuma,Denpasar,2023-02-27,Reguler
+P03408,Nanda Nugroho,Semarang,2025-07-01,Reguler
+P03409,Wahyu Rahayu,Yogyakarta,2025-02-14,Member
+P03410,Budi Gunawan,Jakarta Barat,2023-05-03,Reguler
+P03411,Lestari Firmansyah,Tangerang Selatan,2024-03-22,Premium
+P03412,Lestari Aditya,Yogyakarta,2025-06-06,Reguler
+P03413,Kartika Santoso,Tangerang Selatan,2023-05-01,Reguler
+P03414,Dewi Ramadhan,Jakarta Barat,2024-10-09,Reguler
+P03415,Fajar Setiawan,Malang,2023-08-29,Reguler
+P03416,Zaki Anggraini,Bekasi,2023-07-22,Reguler
+P03417,Nanda Santoso,Jakarta Barat,2024-12-25,Reguler
+P03418,Rangga Suryani,Jakarta Selatan,2023-05-18,Reguler
+P03419,Joko Kusuma,Jakarta Selatan,2025-03-29,Reguler
+P03420,Jihan Rahayu,Makassar,2024-11-25,Reguler
+P03421,Naufal Aditya,Semarang,2024-11-21,Member
+P03422,Mila Setiawan,Semarang,2023-09-09,Member
+P03423,Udin Setiawan,Malang,2023-03-12,Reguler
+P03424,Farah Ramadhan,Semarang,2025-03-03,Reguler
+P03425,Eka Hartono,Bekasi,2024-02-03,Member
+P03426,Putri Aditya,Jakarta Selatan,2024-03-11,Member
+P03427,Joko Pratama,Bekasi,2024-05-06,Reguler
+P03428,Lestari Puspita,Yogyakarta,2024-11-17,Reguler
+P03429,Okta Halim,Denpasar,2024-11-25,Reguler
+P03430,Kirana Gunawan,Malang,2025-05-20,Member
+P03431,Rangga Setiawan,Surabaya,2023-08-22,Reguler
+P03432,Hana Pratama,Bandung,2023-05-04,Reguler
+P03433,Oki Nugroho,Makassar,2023-01-15,Reguler
+P03434,Oki Maulana,Bandung,2025-04-17,Member
+P03435,Hana Gunawan,Bandung,2023-11-21,Reguler
+P03436,Zaki Puspita,Depok,2025-04-30,Reguler
+P03437,Bayu Permana,Denpasar,2023-06-16,Reguler
+P03438,Eka Halim,Tangerang Selatan,2023-05-07,Member
+P03439,Tono Pratama,Bekasi,2023-05-28,Reguler
+P03440,Kirana Kusuma,Yogyakarta,2023-05-08,Reguler
+P03441,Oki Pratama,Jakarta Barat,2023-08-31,Reguler
+P03442,Farah Wijaya,Semarang,2025-07-22,Member
+P03443,Hesti Rahayu,Surabaya,2025-05-12,Reguler
+P03444,Irfan Kusuma,Jakarta Selatan,2024-12-29,Reguler
+P03445,Vina Nugroho,Denpasar,2023-04-02,Premium
+P03446,Farah Wijaya,Tangerang Selatan,2023-07-09,Member
+P03447,Dewi Wijaya,Malang,2025-06-19,Reguler
+P03448,Maya Pratama,Malang,2024-11-30,Reguler
+P03449,Budi Ramadhan,Yogyakarta,2025-05-05,Premium
+P03450,Hesti Anggraini,Jakarta Barat,2024-10-25,Reguler
+P03451,Hesti Aditya,Bekasi,2024-09-12,Reguler
+P03452,Udin Anggraini,Yogyakarta,2023-06-08,Reguler
+P03453,Budi Lestari,Jakarta Selatan,2023-06-13,Reguler
+P03454,Vina Hartono,Semarang,2023-07-23,Reguler
+P03455,Okta Puspita,Depok,2023-09-08,Member
+P03456,Lestari Maulana,Denpasar,2025-07-09,Reguler
+P03457,Okta Puspita,Semarang,2025-08-29,Reguler
+P03458,Gita Saputra,Bekasi,2024-01-14,Member
+P03459,Budi Anggraini,Jakarta Selatan,2025-02-13,Reguler
+P03460,Budi Santoso,Surabaya,2024-01-15,Reguler
+P03461,Dian Saputra,Malang,2023-09-27,Reguler
+P03462,Okta Anggraini,Bandung,2025-07-30,Reguler
+P03463,Lukman Wijaya,Malang,2023-04-15,Member
+P03464,Kartika Firmansyah,Tangerang Selatan,2024-09-05,Reguler
+P03465,Vina Puspita,Makassar,2025-05-25,Reguler
+P03466,Oki Wijaya,Tangerang Selatan,2024-01-09,Member
+P03467,Kartika Santoso,Jakarta Barat,2025-06-19,Member
+P03468,Citra Firmansyah,Yogyakarta,2023-03-14,Member
+P03469,Hesti Gunawan,Surabaya,2023-04-10,Reguler
+P03470,Farah Lestari,Bandung,2025-08-03,Member
+P03471,Farah Gunawan,Bandung,2024-06-17,Premium
+P03472,Putri Maulana,Surabaya,2024-07-17,Member
+P03473,Yanti Wijaya,Tangerang Selatan,2024-06-24,Reguler
+P03474,Gita Setiawan,Jakarta Selatan,2024-12-16,Reguler
+P03475,Eka Permana,Jakarta Selatan,2025-01-28,Member
+P03476,Rangga Lestari,Bekasi,2023-07-20,Reguler
+P03477,Jihan Lestari,Jakarta Selatan,2025-06-11,Reguler
+P03478,Gita Puspita,Jakarta Barat,2025-04-14,Premium
+P03479,Gita Santoso,Semarang,2024-10-20,Member
+P03480,Eka Wijaya,Depok,2024-01-13,Member
