@@ -1,7 +1,5 @@
 # Transaction Data Validation & Risk Review
 
-# Validasi Data Transaksi & Tinjauan Risiko
-
 Sebuah proyek validasi data dan pengidentifikasi risiko berbasis atas data transaksi ritel,
 yang dirancang untuk mendukung alur kerja pemantauan risiko dan kepatuhan.
 
